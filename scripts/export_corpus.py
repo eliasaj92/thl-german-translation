@@ -89,7 +89,6 @@ def main() -> int:
                         {
                             "path": current_path.relative_to(staging).as_posix(),
                             "cells": current_count,
-                            "sha256": sha256_file(current_path),
                         }
                     )
                 current_key = key
@@ -119,7 +118,6 @@ def main() -> int:
                 {
                     "path": current_path.relative_to(staging).as_posix(),
                     "cells": current_count,
-                    "sha256": sha256_file(current_path),
                 }
             )
 
@@ -160,4 +158,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

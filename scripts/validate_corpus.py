@@ -11,7 +11,6 @@ from pathlib import Path
 from corpus_common import (
     CORPUS_HEADER,
     SCHEMA_VERSION,
-    sha256_file,
     sha256_text,
     stable_cell_id,
     structural_signature,
@@ -86,8 +85,6 @@ def main() -> int:
     for relative in sorted(set(expected_records) & set(actual_paths)):
         path = actual_paths[relative]
         record = expected_records[relative]
-        if sha256_file(path) != record.get("sha256"):
-            fail(errors, f"File hash mismatch: {relative}", args.max_errors)
         parts = validate_relative_path(relative).parts
         if len(parts) < 2:
             fail(errors, f"Corpus path lacks archive prefix: {relative}", args.max_errors)
@@ -176,4 +173,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

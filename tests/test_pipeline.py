@@ -68,6 +68,18 @@ class PipelineTests(unittest.TestCase):
                 capture_output=True,
                 text=True,
             )
+            # A contributor may edit the German field without regenerating the
+            # manifest. Immutable IDs, source hashes, paths, and structure are
+            # still validated independently.
+            public_csv = corpus / source_archive / "text" / "example.mbe" / "000_Sheet1.csv"
+            with public_csv.open("r", encoding="utf-8", newline="") as handle:
+                public_rows = list(csv.DictReader(handle))
+            german = "Verwende jetzt {fc(ff0000)Erschöpfung}"
+            public_rows[0]["german"] = german
+            with public_csv.open("w", encoding="utf-8", newline="") as handle:
+                writer = csv.DictWriter(handle, fieldnames=public_rows[0].keys(), lineterminator="\n")
+                writer.writeheader()
+                writer.writerows(public_rows)
             subprocess.run(
                 [sys.executable, str(REPOSITORY / "scripts" / "validate_corpus.py"), str(corpus)],
                 check=True,
@@ -104,4 +116,3 @@ class PipelineTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
