@@ -24,6 +24,7 @@ scripts/export_corpus.py        Export the public corpus from the translation da
 scripts/validate_corpus.py      Check structure, hashes, IDs, and control-code parity
 scripts/materialize_native.py   Apply German cells to an extracted native CSV tree
 scripts/build_archives.py       Repack native CSVs into slot-04 MVGL archives
+scripts/package_release.py      Create a checksummed GitHub Release ZIP
 supported_builds/               Supported game-build and archive hashes
 ```
 
@@ -39,7 +40,7 @@ The rows retain stable cell IDs and native row/column coordinates, so fixes can 
 
 1. Confirm your installed Steam build is listed in [SUPPORTED_BUILDS.md](SUPPORTED_BUILDS.md).
 2. Download the matching asset from [GitHub Releases](https://github.com/eliasaj92/thl-german-translation/releases).
-3. Read the release notes and back up every file the release replaces.
+3. Follow [INSTALLING.md](INSTALLING.md) and back up every file the release replaces.
 4. Install only into the matching game build.
 
 Do not redistribute the game or combine these files with pirated copies.
@@ -55,4 +56,3 @@ Small corrections are welcome even while the project is rough. See [CONTRIBUTING
 ## Legal
 
 This project is unofficial and is not affiliated with or endorsed by Aniplex, TooKyo Games, Media.Vision, or any other rightsholder. Game names, English text, characters, and assets remain the property of their respective owners. See [CORPUS_NOTICE.md](CORPUS_NOTICE.md), [LICENSE-CODE.txt](LICENSE-CODE.txt), and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-
