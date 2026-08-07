@@ -25,6 +25,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--skip-roundtrip", action="store_true", help="Skip MBE re-extraction comparison (not recommended)")
     parser.add_argument("--allow-tool-hash-mismatch", action="store_true")
     parser.add_argument("--keep-work", action="store_true")
+    parser.add_argument("--tool-log", type=Path, help="Write verbose MVGLTools output to this file")
     return parser.parse_args()
 
 
@@ -37,10 +38,16 @@ def locate_tool(value: Path) -> Path:
     raise FileNotFoundError(f"Could not find MVGLToolsCLI at {value}")
 
 
-def run(tool: Path, *arguments: str) -> None:
+def run(tool: Path, *arguments: str, output=None) -> None:
     command = [str(tool), "--game=thl", *arguments]
     print("+ " + " ".join(command))
-    subprocess.run(command, cwd=tool.parent, check=True)
+    subprocess.run(
+        command,
+        cwd=tool.parent,
+        check=True,
+        stdout=output,
+        stderr=subprocess.STDOUT if output is not None else None,
+    )
 
 
 def read_csv(path: Path) -> list[list[str]]:
@@ -96,6 +103,11 @@ def main() -> int:
             raise FileExistsError(f"Work directory exists (use --force): {work}")
         shutil.rmtree(work)
     work.mkdir(parents=True)
+    tool_log_handle = None
+    if args.tool_log:
+        tool_log_path = args.tool_log.resolve()
+        tool_log_path.parent.mkdir(parents=True, exist_ok=True)
+        tool_log_handle = tool_log_path.open("wb")
 
     build_records: list[dict[str, object]] = []
     try:
@@ -123,11 +135,11 @@ def main() -> int:
                 relative_parent = csv_parent.relative_to(german_tree)
                 packed_parent = packed_mbe / relative_parent
                 packed_parent.mkdir(parents=True, exist_ok=True)
-                run(tool, "--mode=pack-mbe-dir", str(csv_parent), str(packed_parent))
+                run(tool, "--mode=pack-mbe-dir", str(csv_parent), str(packed_parent), output=tool_log_handle)
                 if not args.skip_roundtrip:
                     roundtrip_parent = roundtrip / relative_parent
                     roundtrip_parent.mkdir(parents=True, exist_ok=True)
-                    run(tool, "--mode=unpack-mbe-dir", str(packed_parent), str(roundtrip_parent))
+                    run(tool, "--mode=unpack-mbe-dir", str(packed_parent), str(roundtrip_parent), output=tool_log_handle)
 
             packed_files = sorted(packed_mbe.rglob("*.mbe"))
             if len(packed_files) != len(mbe_directories):
@@ -156,6 +168,7 @@ def main() -> int:
                 str(staging_mvgl),
                 str(output_archive),
                 "--compress=normal",
+                output=tool_log_handle,
             )
             build_records.append(
                 {
@@ -180,6 +193,8 @@ def main() -> int:
             encoding="utf-8",
         )
     finally:
+        if tool_log_handle is not None:
+            tool_log_handle.close()
         if work.exists() and not args.keep_work:
             shutil.rmtree(work)
 
@@ -189,4 +204,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

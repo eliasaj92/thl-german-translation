@@ -6,6 +6,7 @@
 - Colored text is encoded as displayed text inside `{fc(...)...}` markup. An early extraction pass mistakenly protected some bodies; the current corpus snapshot includes a targeted repair plus independent control-code and CRLF validation.
 - Slot `04` is experimental. Compatibility may differ across game builds.
 - A previous experimental build reached gameplay but crashed after text replacement. Public release notes must state whether that failure is resolved.
+- MVGLToolsCLI v2.2.0 was observed becoming idle nondeterministically during `pack-mvgl` on Windows. The first repaired release archives were instead produced successfully with the Linux v2.2.0 binary after complete MBE round-trip verification.
 - Text embedded in images, movies, audio, fonts, or the executable is not translated.
 
 Please include the game build, release tag, scene, and exact on-screen line in bug reports.

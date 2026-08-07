@@ -69,7 +69,8 @@ python scripts/build_archives.py `
   --mvgltools C:\path\to\MVGLToolsCLI.exe `
   --extracted-mvgl C:\path\to\extracted-mvgl `
   --native-de build\native-de `
-  --output build\mvgl
+  --output build\mvgl `
+  --tool-log build\mvgltools.log
 ```
 
 For each archive, the script:
@@ -82,9 +83,10 @@ For each archive, the script:
 
 The build stops on a topology mismatch, round-trip mismatch, missing original MBE, or unsupported tool hash. A `build_manifest.json` with output hashes is written beside the archives.
 
+During this project's first repaired release build, the Windows v2.2.0 binary twice became idle while packing the large app MVGL, although an earlier preflight succeeded. The Linux v2.2.0 binary built the same verified native CSV tree successfully. If the Windows process makes no CPU or output-file progress for several minutes, stop that isolated build, remove its partial output/work directory, and retry or build with the matching Linux v2.2.0 release. Do not install a partial archive.
+
 ## 5. Installing
 
 Prebuilt and self-built archives are experimental. Back up every same-named target archive and `boot.json` before installing anything. Slot `04` also requires a compatible `boot.json` language entry. Do not patch the executable.
 
 If the game crashes, restore your backups and report the scene plus the archive/version you used. See [KNOWN_ISSUES.md](KNOWN_ISSUES.md).
-

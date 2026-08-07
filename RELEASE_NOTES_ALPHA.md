@@ -15,6 +15,7 @@ This is an unofficial, machine-translated work-in-progress build for Steam build
 - Control codes, variables, escapes, and line breaks
 - MBE pack/re-extract CSV equality
 - Original MVGL path matching
+- Final MVGL packing with MVGLToolsCLI v2.2.0 for Linux; the exact executable hash is recorded in `build_manifest.json`
 
 ## Not performed
 
@@ -23,4 +24,3 @@ This is an unofficial, machine-translated work-in-progress build for Steam build
 - Font or executable modification
 
 This release may contain awkward translations, untranslated labels, overflow, or crashes. Keep backups and report exact reproduction steps.
-
