@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "game": "The Hundred Line: Last Defense Academy",
+  "platform": "Steam Windows",
+  "steam_app_id": 3014080,
+  "build_id": "23391396",
+  "source_slot": 1,
+  "target_slot": 4,
+  "mvgltools": {
+    "version": "2.2.0",
+    "executable_sha256": "e52223702fce1fd241dd669bf7f7eb6f501dfb401e8e76e72954ea236b3eacde",
+    "release_zip_sha256": "9e234ede2bbbb38a08bc66ba052ef542a1dd43f45912e256e63479401a8720b9"
+  },
+  "archives": [
+    {
+      "source_archive": "app_romA_text01.dx11.mvgl",
+      "target_archive": "app_romA_text04.dx11.mvgl",
+      "sha256": "9ea1cb6beee7c84b30453bfbf4c40dd390be750e49277376a1d2b269b0b45279",
+      "size": 606,
+      "mbe_count": 1
+    },
+    {
+      "source_archive": "app_steam_text01.dx11.mvgl",
+      "target_archive": "app_steam_text04.dx11.mvgl",
+      "sha256": "0f3458f1e39334961eabd20d3a40bac9bfc61797f4c843efb6406d5d53455365",
+      "size": 2964,
+      "mbe_count": 5
+    },
+    {
+      "source_archive": "app_text01.dx11.mvgl",
+      "target_archive": "app_text04.dx11.mvgl",
+      "sha256": "34713a3f12515075c253c1dd78b8a14b1c5b74dc1c5e9b5c07ad5746cdaab658",
+      "size": 11519338,
+      "mbe_count": 10276
+    },
+    {
+      "source_archive": "patch_steam_text01.dx11.mvgl",
+      "target_archive": "patch_steam_text04.dx11.mvgl",
+      "sha256": "88fb6d9ea531c77d480b5847baacd1247c9126909c9bdd2bc707b145f0f4487c",
+      "size": 2941,
+      "mbe_count": 4
+    },
+    {
+      "source_archive": "patch_text01.dx11.mvgl",
+      "target_archive": "patch_text04.dx11.mvgl",
+      "sha256": "74c8167c7eb2f8be663babad35c50cf6f30d04369073a50fbf10e6da80182d1c",
+      "size": 5920713,
+      "mbe_count": 2684
+    }
+  ]
+}
+

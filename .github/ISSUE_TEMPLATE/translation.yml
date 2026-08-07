@@ -1,0 +1,36 @@
+name: Translation correction
+description: Report an incorrect, awkward, or untranslated line
+title: "[Translation] "
+labels: [translation]
+body:
+  - type: input
+    id: release
+    attributes:
+      label: Release or commit
+    validations:
+      required: true
+  - type: input
+    id: scene
+    attributes:
+      label: Scene or menu
+    validations:
+      required: true
+  - type: textarea
+    id: english
+    attributes:
+      label: English line
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current German line
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested German line
+    validations:
+      required: true
+

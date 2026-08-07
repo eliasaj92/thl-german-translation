@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "locale": "de-DE",
+  "status": "incomplete",
+  "global": {
+    "tone": "Natural contemporary German; preserve profanity, dark humor, and emotional intensity.",
+    "honorifics": "Preserve honorifics retained by the English localization.",
+    "address_policy": "Keep du/Sie decisions consistent by relationship; document corrections through pull requests."
+  },
+  "characters": {}
+}
+

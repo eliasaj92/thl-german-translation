@@ -1,0 +1,17 @@
+build/
+dist/
+work/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.mvgl
+*.mbe
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+

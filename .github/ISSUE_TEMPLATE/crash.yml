@@ -1,0 +1,30 @@
+name: Crash report
+description: Report a crash observed with a translation build
+title: "[Crash] "
+labels: [bug, crash]
+body:
+  - type: input
+    id: game_build
+    attributes:
+      label: Steam build ID
+    validations:
+      required: true
+  - type: input
+    id: release
+    attributes:
+      label: Translation release
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Exact scene and steps
+    validations:
+      required: true
+  - type: textarea
+    id: restoration
+    attributes:
+      label: Did restoring the original files stop the crash?
+    validations:
+      required: true
+
