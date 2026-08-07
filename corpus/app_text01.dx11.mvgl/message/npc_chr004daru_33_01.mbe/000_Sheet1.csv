@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+057c8a078a180cbd8ae85415,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr004daru_33_01.mbe/000_Sheet1.csv,1,2,string 2,Bacteria massacred! We won big!,Bakteria massakriert!,translate,translated,displayed-string,b81b6083b0c9f117d92ff5c388ff5dc465ae75e406ea51b3acbd14f1d55f8e30
+bb2e4923802dedf2eb3d3f6e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr004daru_33_01.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+2ed8328d59c91db5a3283f61,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr004daru_33_01.mbe/000_Sheet1.csv,1,4,string 4,Bacteria massacred! We won big!,Bakteria massakriert!,translate,translated,displayed-string,b81b6083b0c9f117d92ff5c388ff5dc465ae75e406ea51b3acbd14f1d55f8e30

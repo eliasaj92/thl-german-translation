@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+cfe08244448a674df0ddfb44,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/curse_word30.mbe/000_Sheet1.csv,1,2,string 2,Don't kill me...,Töte mich nicht...,translate,translated,displayed-string,475db4cbb766ec15c32130e841d635ae92d844f2cde11a5594504fb76ef637ca
+3f89c51a47df4d43eac13c42,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/curse_word30.mbe/000_Sheet1.csv,1,3,string2 3,s00_0_2ndTrueR_00_d072_m270_018_0030,s00_0_2ndTrueR_00_d072_m270_018_0030,protected,protected,resource-or-id,06485c8a7a49b5c781f6e4f65c24a987f542b6bf449a20411259fba7287511a5
+e5e8a4b6e2cc0d9476e17421,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/curse_word30.mbe/000_Sheet1.csv,1,4,string 4,Don't kill me...,Töte mich nicht...,translate,translated,displayed-string,475db4cbb766ec15c32130e841d635ae92d844f2cde11a5594504fb76ef637ca

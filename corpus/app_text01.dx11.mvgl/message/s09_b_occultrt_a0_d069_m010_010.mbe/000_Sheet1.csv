@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+b4c7591a7a73e1ad6bdd2d41,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_b_occultrt_a0_d069_m010_010.mbe/000_Sheet1.csv,1,2,string 2,Day 69,Tag 69,translate,translated,displayed-string,5b6dbf9542e66f37376f871aced7af0151afe5d3d6d9d84baba3465bf4f68c8b
+751d93f9466742dabac4bb9e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_b_occultrt_a0_d069_m010_010.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+cbb0ebb0bb55094bc9fdf794,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_b_occultrt_a0_d069_m010_010.mbe/000_Sheet1.csv,1,4,string 4,Day 69,Tag 69,translate,translated,displayed-string,5b6dbf9542e66f37376f871aced7af0151afe5d3d6d9d84baba3465bf4f68c8b

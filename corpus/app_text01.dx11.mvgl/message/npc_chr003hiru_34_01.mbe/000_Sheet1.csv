@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+8d75e08ada3e977f11b19232,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr003hiru_34_01.mbe/000_Sheet1.csv,1,2,string 2,How long will this go on?,Wie lange wird das dauern?,translate,translated,displayed-string,6061363e5377678cec56ab76251d1cfeb1db5ff1922b9e76adaf083fa0e5964a
+9f13e4c0a1c028d5d2fd225f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr003hiru_34_01.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+1607b5993b4865f057e92388,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr003hiru_34_01.mbe/000_Sheet1.csv,1,4,string 4,How long will this go on?,Wie lange wird das dauern?,translate,translated,displayed-string,6061363e5377678cec56ab76251d1cfeb1db5ff1922b9e76adaf083fa0e5964a

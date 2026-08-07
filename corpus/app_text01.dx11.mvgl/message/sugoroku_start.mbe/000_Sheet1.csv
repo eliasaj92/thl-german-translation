@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+c662b9438d0a284ec71148db,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/sugoroku_start.mbe/000_Sheet1.csv,1,2,string 2,{fc(1dff3d)Begin Exploration?},{fc(1dff3d)Exploration beginnen?},translate,translated,displayed-string:fc-repair,1f71c3316c35cd697faec7293e5f7afcfbee155740e280ccbae864d69701f9e6
+4d628fac0fc1e528c478b7c6,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/sugoroku_start.mbe/000_Sheet1.csv,2,2,string 2,Yes,Yes,review,pending,ambiguous-single-token,85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e
+881970d9cfb8e617f301e790,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/sugoroku_start.mbe/000_Sheet1.csv,3,2,string 2,No,No,review,pending,ambiguous-single-token,1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d

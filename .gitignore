@@ -4,8 +4,8 @@ work/
 *.sqlite
 *.sqlite-shm
 *.sqlite-wal
-*.mvgl
-*.mbe
+/*.mvgl
+/*.mbe
 *.log
 __pycache__/
 *.py[cod]
@@ -14,4 +14,3 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
-

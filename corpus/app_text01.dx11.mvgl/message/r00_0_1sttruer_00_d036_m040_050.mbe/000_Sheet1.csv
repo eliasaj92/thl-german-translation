@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+4d50efca6ce3b6f6e0c518af,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/r00_0_1sttruer_00_d036_m040_050.mbe/000_Sheet1.csv,1,2,string 2,Shouma...,Shouma...,translate,translated,displayed-string,10ad98b1797d8864685c9f9695eedaadc162a0e7719d009f80dcacadd29ddba8
+d160c64a8de19076fc23d8b7,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/r00_0_1sttruer_00_d036_m040_050.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+2223ba12d7fe8c4b77463f02,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/r00_0_1sttruer_00_d036_m040_050.mbe/000_Sheet1.csv,1,4,string 4,Shouma...,Shouma...,translate,translated,displayed-string,10ad98b1797d8864685c9f9695eedaadc162a0e7719d009f80dcacadd29ddba8

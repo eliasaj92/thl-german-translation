@@ -1,0 +1,417 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+7a7a41fdc35a7a8c70093d63,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,1,1,string 1,"Annihilate all enemies
+
+
+","Alle Feinde vernichten
+
+
+",translate,translated,displayed-string,d0d6b1354e7bf8b50074c1cfb98cfe0fc3c51a67ac6e0e37db126f12faccac01
+7258805304968783c2b5a530,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,2,1,string 1,"Annihilate enemy boss
+
+","Feindlichen Boss vernichten
+
+",translate,translated,displayed-string,a42e329ed7236495d1a5975557212fe67000401077bfbe19a251b88cc52244a4
+70634a23f1baef0a9e682fc0,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,3,1,string 1,"Defeat all enemy bosses
+
+","Besiege alle feindlichen Bosse
+
+",translate,translated,displayed-string,a6907a334c41a700a42c90ff4ddd08112d8b2d5725d0dd625ad4c5aaddb1d22b
+ec7e65cad6959f3121fa995f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,4,1,string 1,"Unknown
+
+
+","Unknown
+
+
+",review,pending,ambiguous-single-token,88812816e2f2c075ca9d3a1468b91558df3e6e8e0866b5d59ca1a9e3f5729b57
+6fb47726cd9441f9c3760c8f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,5,1,string 1,"All allies are annihilated
+Barrier generator is destroyed
+
+
+","Alle Verbündeten sind vernichtet
+Barrier-Generator zerstört Z
+
+
+",translate,translated,displayed-string,080c83866a3ef42d4c055c63890b21d93ec767bdf045ce6a9051f1d342d55a99
+7e9ce7a26dd3c794cda9770c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,6,1,string 1,"All allies are annihilated
+School bus is destroyed
+
+
+","Alle Verbündeten sind vernichtet
+ZSchulbus zerstört Z
+
+
+",translate,translated,displayed-string,798303731b30fdb51c124b281b3c8df3a097a27c7ad50e6ba5149b32fd466891
+d7d5b6dbe4e7d9e40e9af1e0,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,7,1,string 1,"All allies annihilated
+
+","Alle Verbündeten vernichtet
+
+Z",translate,translated,displayed-string,db622f18fb3ce6bc48bd02c7e36426cd08abdbb6a9e64a92d8070a4ae2e6e642
+81886a323ac0047a70426ed8,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,8,1,string 1,"Any one ally dies in battle
+Barrier generator is destroyed
+
+","Jeder Verbündete stirbt im
+Kampf Barrier-Generator zerstört
+
+",translate,translated,displayed-string,ff7f9835156e2e64f7e3a00d0e0e41533ce3e79ff89a3cb4d2b39194a93ccb7f
+fff454001d7b216a01d5c683,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,9,1,string 1,"Any one ally dies in battle
+
+","Jeder Verbündete stirbt im Kampf
+
+",translate,translated,displayed-string,a7d6d051b38067f01ce761ab2fd5357e35020dcfdb2b7f7438f8da3f0f258476
+56670c1e77d290f91f54f48f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,10,1,string 1,"Defeat Moko Mojiro?
+","Besiege Moko Mojiro?
+",translate,translated,displayed-string,9a5a6d78b41c44a85952d1d4dd70344466c69c3ffd3bdadaa5d7e350b84113cb
+5e925e4d6aaed79ab47ee47b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,11,1,string 1,Defeat Moko Monster,Besiege Moko Monster,translate,translated,displayed-string,275c36cc577001684a12cac70ff331e1824fc5e52efcd8b32a88fec237792bc3
+59b9de0044d6fb35954b4ade,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,12,1,string 1,"Defeat unknown enemy
+
+
+","Besiege unbekannten Feind
+
+
+",translate,translated,displayed-string,26ad57363af8bea6220a6863924ad2dcd8c8c318876d0ef2e108ac72bd58f47f
+d9452e118891deea851413fa,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,13,1,string 1,"Defeat Eito Aotsuki?
+
+
+","Besiege Eito Aotsuki?
+
+
+",translate,translated,displayed-string,05ef9fddd7249c1ac95e0ba8f77b45962424987e9cc4548f1cc762fc9490900f
+4f603e5b660adf53542a314b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,14,1,string 1,"Defeat Nyewgank
+
+
+","Besiegt Nyewgank
+
+
+",translate,translated,displayed-string,2100744f826e27dfd655f236ca2974bbb241149469e3a7cf4ef2876e549e4ad0
+0b553eb627ce4ceb7fd0256f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,15,1,string 1,"Defeat Turamtammi
+
+
+","Besiegen Turamtammi
+
+
+",translate,translated,displayed-string,36b456c0ba37c78cc74d35655cf301591c9cfbb545984c36d889fc9480d0350a
+07b99dd8b644e51b6d52716f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,16,1,string 1,"Defeat Eito Aotsuki
+
+
+","Besiege Eito Aotsuki
+
+
+",translate,translated,displayed-string,dd772378a2b734336ca923a3dd51f7bb7a3376589f147bfc195a55ea1d9c5bee
+018e6c39a620a49800a9f6ff,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,17,1,string 1,"Defeat Eito Aotsuki
+
+
+","Besiege Eito Aotsuki
+
+
+",translate,translated,displayed-string,dd772378a2b734336ca923a3dd51f7bb7a3376589f147bfc195a55ea1d9c5bee
+e12fa68c03ffe5771ecd626e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,18,1,string 1,"Destroy all sources of mist
+
+
+","Zerstören Sie alle Quellen von Nebel
+
+
+",translate,translated,displayed-string,adc682288756183047335949ce468c0ec8aad060a50f0a0ae7606108545b469a
+608ae261c9629f6d433e68b4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,19,1,string 1,"Destroy source of mist
+
+
+","Zerstören Sie die Quelle des Nebels
+
+
+",translate,translated,displayed-string,53682f5dd4367020603ef6c4b7d61f0caea0e03774cf1b6dc81f246c3ad37fd6
+3b036c1397d36923265207f9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,20,1,string 1,"Destroy all sources of sound
+
+
+","Zerstöre alle Klangquellen
+
+
+",translate,translated,displayed-string,1ae846ebfbc8ab906602dcbc2ba626579e72fe92cbf9dd959dfcd374b158f405
+844469cac82426ea9646097c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,21,1,string 1,"Destroy source of sound
+
+
+","Tonquelle zerstören
+
+
+",translate,translated,displayed-string,ca5ee7770f960f96fb89228413fe1f776bd5c7ac64f9756c713cc215d108d489
+a9778d45b42be8d69c0bf03d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,22,1,string 1,"Destroy enemy defensive barrier
+
+
+","Zerstöre feindliche Verteidigungsbarriere
+
+
+",translate,translated,displayed-string,5343eb75d37aba62428af430a0a85d0b700a9ac48e5959b893f4f23197b8ea72
+51cf1e59d305e9546fb32c57,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,23,1,string 1,"Destroy Bogus Rocket
+
+
+","Zerstöre Bogus Rocket
+
+
+",translate,translated,displayed-string,42b806dd9d74200006082d6a23fa5cf27c2867ec6aba1622fa98236d60d7ee1c
+a9a5b37f8acb70455c2bd03d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,24,1,string 1,"Destroy all missiles
+Destroy central device
+
+","Zerstören Sie alle
+Raketen Destroy Zentralgerät
+
+",translate,translated,displayed-string,376f9c5243cc338504fe35751386ec53786734e956ea1d3fe6b2060ea9fa31e3
+b6865de4c247660d6fa85756,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,25,1,string 1,"Takumi Sumino dies
+Fail to protect Karua Kashimiya
+
+
+","Takumi Sumino dies
+Fail zum Schutz von Karua Kashimiya
+
+
+Z",translate,translated,displayed-string,1af9ccc7d94a716b7a7e92c34b37e8c6bac31f9e193e25587f9ab5160132128b
+83955dc2374b6ab49691d99a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,26,1,string 1,"Annihilate all enemies on the ground
+
+
+","Vernichten Sie alle Feinde auf dem Boden
+
+
+",translate,translated,displayed-string,7fcc5567a5b243e21317532ae4dd0ef8836bde87f94dff54e6d85f1ff27af624
+06721c6e384366bc4b92c47f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,27,1,string 1,"Defend Kurara Oosuzuki for 3 turns
+
+
+","Verteidigen Sie Kurara Oosuzuki für 3 Runden
+
+
+",translate,translated,displayed-string,b7bfb99770b011348385274078c7d6f741b4a1a10631caa2202790945c19d65a
+690bcf9f20c897d0b3d111f9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,28,1,string 1,"Eito Aotsuki dies
+All allies are annihilated
+
+","Eito Aotsuki dies Alle
+Verbündeten sind vernichtet
+
+",translate,translated,displayed-string,8925492c60f3a01145991c2042d465ee6d9e510ca7cdbf45b5366d6fd369ed5a
+2dc24cd0bf07135a635ee90c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,29,1,string 1,"Moko Mojiro dies
+All allies are annihilated
+
+","Moko Mojiro dies Alle
+Verbündeten sind vernichtet
+
+",translate,translated,displayed-string,7d282ec99c94d09acd756e4ce3a3f2fba564df97287e03cf54ae0e2787a7029b
+25f7817ba4554c8643f42c9b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,30,1,string 1,"Kurara Oosuzuki dies
+Barrier generator is destroyed
+
+
+","Kurara Oosuzuki dies
+Barrier-Generator wird zerstört
+
+
+Z",translate,translated,displayed-string,54ad095973684ca1c7b91181f34aa7491d33ced2944f259e92b311ecc3e41be3
+7801c7351bd19d570c528b35,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,31,1,string 1,"Annihilate all enemies in 1 turn
+
+
+","Vernichten Sie alle Feinde in 1 Runde
+
+
+",translate,translated,displayed-string,980f2ad68235a709f249433653903b62114ae2ea9811249fe99278fbce5f76eb
+4248d5157619edcf3432d9f2,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,32,1,string 1,"Defeat all enemies except the boss
+
+
+","Besiege alle Feinde außer dem Boss
+
+
+",translate,translated,displayed-string,bf69e8e1f077403440b06a3096bb63d0311e4aae4974d357f724086802592368
+7508bec9d4b45f3355dccfa9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,33,1,string 1,"Find way to save captured allies
+
+
+","Finden Sie Weg, um gefangene Alliierten zu speichern
+
+
+",translate,translated,displayed-string,17de23087543aa45bf1c41684ca1dfe39f1e96b3fa54f9eee726da58133d59f3
+3b766d2ab686f3a2a39a9cfe,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,34,1,string 1,"Destroy Bogus Rocket
+
+
+","Zerstöre Bogus Rocket
+
+
+",translate,translated,displayed-string,42b806dd9d74200006082d6a23fa5cf27c2867ec6aba1622fa98236d60d7ee1c
+e32a171922c7400f8e82e6d5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,35,1,string 1,"Redo your 100 days
+
+
+","100 Tage wiederbeleben
+
+
+",translate,translated,displayed-string,70fb69dd22cb7787b9e956296e7729c5a0894a6d1dcc926f4c6336ae3a528211
+009fb5d5118a379604da1812,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,36,1,string 1,"Nigou dies
+","Nigou dies
+",translate,translated,displayed-string,05b380445c1ccc89fccf8bfd4ce2c7550a59a77baff47dd26066c2e04397f765
+101bf8fd553f0c210f42741d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,37,1,string 1,"Rescue Gaku or Kurara in 1 turn
+
+
+","Rettung Gaku oder Kurara in 1 Runde
+
+
+",translate,translated,displayed-string,7e873b01718f8156bd2c350da3b33b280ba3606d8df6d9687c4020cdab3a12d7
+9ec61eaa63ab4fe4ce6b3313,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,38,1,string 1,"Rescue fails
+
+","Rettung fehlgeschlagen
+
+",translate,translated,displayed-string,d7fcf92e9466e05011051d081f40d89a28b0d8c24b570e14251bc578b7bf94d0
+d4d4869f9afe88d201507996,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,39,1,string 1,"Defend Nozomi Kirifuji for 3 turns
+
+","Verteidigen Nozomi Kirifuji für 3 Runden
+
+",translate,translated,displayed-string,b996ad910bad229a121a244e784e0c4fc4845e7287ce77667a487a0c63fce476
+899e3a9cde6b312e5a98a8e9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,40,1,string 1,"Nozomi Kirifuji retreats
+School bus is destroyed
+
+
+","Nozomi Kirifuji retreats
+Schulbus wird zerstört
+
+
+",translate,translated,displayed-string,d4b0181450e73d06a296e86f013f49c155bdf3281fb3aa13de7dfd678448049b
+8b5101ba0e8f03b75c3d880a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,41,1,string 1,"Defeat all Eito copies
+
+","Besiege alle Eito Kopien
+
+",translate,translated,displayed-string,1cf4a4d0733f53307d41c20e5207a7241c24e3e2335ad3514e70a14be6fea26d
+527f3ba0719f847196f052c7,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,42,1,string 1,"Find and defeat the real Eito Aotsuki
+Defeat enemy boss","Finde und besiege den echten Eito Aotsuki
+Defeat feindlichen Boss",translate,translated,displayed-string,73925b8394f3e8c2d73682dad6e24e9dfe4e6fd7ff09528ca7d6900c2821725a
+f1c6c329998fc25f994263fb,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,43,1,string 1,"Shouma Ginzaki dies
+Barrier generator is destroyed","Shouma Ginzaki dies
+Barrier-Generator wird zerstört",translate,translated,displayed-string,02207471ee937bd96ea337513fdbd8a45047e47adb89aec0ebfc2e6f0782b2a9
+90a611e677b67a73b4c7aa68,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,44,1,string 1,Hit Dahl'xia with the Shion Bomb,Schlag Dahl'xia mit der schiitischen Bombe,translate,translated,displayed-string,3ab0c16bcc61a1668c78fb5fe06c6d01a9594a5e72a69dfb98bcdaa4120110a2
+7f88207b0b5cea6405ee6c14,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,45,1,string 1,Hit Dahl'xia with the Poison Trap,Schlag Dahl'xia mit der Giftfalle,translate,translated,displayed-string,0934795e7e8f1f7985c618fa15f41f004c38a1f720ecda409d55f37d2f60191e
+9600b1d770d607473836f8da,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,46,1,string 1,"Nozomi Kirifuji retreats
+Poison Trap is destroyed
+Barrier generator is destroyed
+
+
+","Nozomi Kirifuji Rückzug
+Poison Trap wird zerstört
+Barriere-Generator wird zerstört
+
+
+",translate,translated,displayed-string,21b9634d5a064a5bd52188c5451eb619bdfb5b3af35e32dc55ec318c8f5ec277
+e2ba5e640920e857eeb07d5f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,47,1,string 1,"Kurara Oosuzuki dies
+Poison trap is destroyed
+Barrier generator is destroyed
+
+
+","Kurara Oosuzuki dies
+Poisonfalle zerstört
+Barrier-Generator zerstört
+
+
+",translate,translated,displayed-string,6af2747db7cf5c1b4a3b47a9e3177c718a0ebdb9a1071c1d9dfb0f6a56856a5b
+f1c83c7d539dd43f69d0babe,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,48,1,string 1,"All allies are annihilated
+All poison traps are destroyed
+Barrier generator is destroyed
+
+
+","Alle Verbündeten werden vernichtet
+ZAlle Giftfallen werden zerstört
+ZBarrier-Generator wird zerstört
+
+
+",translate,translated,displayed-string,6233fea7cb8153ca2656d9a96a43cd5130ca7eb165ed662785033a9853a36440
+cbcc0a5712fef11debe302bc,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,49,1,string 1,"Nozomi Kirifuji retreats
+Barrier generator is destroyed
+
+
+","Nozomi Kirifuji Rückzug
+Barrier-Generator zerstört
+
+
+",translate,translated,displayed-string,ff6ba592c2cf5905c028e8ccfd6d11f100e412c96b8f3772e4e334d7a371b984
+dd11450b87a10f5915e04b52,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,50,1,string 1,"Kurara Oosuzuki dies
+Barrier generator is destroyed
+
+
+","Kurara Oosuzuki dies
+Barrier-Generator wird zerstört
+
+
+Z",translate,translated,displayed-string,54ad095973684ca1c7b91181f34aa7491d33ced2944f259e92b311ecc3e41be3
+6ddd1efff3385059dc91d74e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,51,1,string 1,"Defeat all enemies except V'ehxness
+
+
+","Besiege alle Feinde außer V'ehxness
+
+
+",translate,translated,displayed-string,ca1535ecda8ab46b8eff52148e3fe8221b226742c4479b3178e80b54fe5d05c0
+d9de176e14498876ea165187,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,52,1,string 1,"Hit V'ehxness with the Poison Trap
+
+
+","Mit dem Gift Trap Z
+
+
+",translate,translated,displayed-string,6c58e673ade8968b26063dacf00e98844128955b02b00bf2a99a39521b5fa69a
+ee8222d2a01d8dcf9b92a841,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,53,1,string 1,"Hit V'ehxness with the Shion Bomb
+
+
+","Mit dem Shion Bomb Z
+
+
+",translate,translated,displayed-string,8009564e850539d9be49e1a8ec5f97d53b699c0d55198fc7606938e40387f2cb
+1d45e1203b00d18c74e2b83c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,54,1,string 1,Takumi Sumino dies,Takumi Sumino stirbt,translate,translated,displayed-string,fa6a3436efeef07d2851f77d2fe3e524308708e2521f36679f1d452c84a2a035
+5cd20b068d5bf45b5879b2f8,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,55,1,string 1,Reach central device and destroy it with The Final Blow,Erreichen Sie das zentrale Gerät und zerstören Sie es mit dem Final Blow,translate,translated,displayed-string,cb01a32410eb0f7b4e1c81eff3ae9347e943c551c2cb12b734c4bdbaaf201773
+3d7f31642927c1fba1aeed56,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,56,1,string 1,Hold out until Kamyuhn releases the arrow,"Halte durch, bis Kamyuhn den Pfeil loslässt",translate,translated,displayed-string,4bb0b05c1170e32aa014af5f631a9d389d730b07348a9402abb7bbabf059ec77
+29cd490ebdbbe679bdddbddd,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,57,1,string 1,Defeat Hiruko Copy,Besiege Hiruko Kopieren,translate,translated,displayed-string,63e9d3551c14e9a20149fafc2d3ea2fd9f4b43f3f8b775fce57bb6fcb5ab625c
+cc08786e140900643a6db387,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,58,1,string 1,Defeat all Hiruko Copies,Alle Hiruko-Kopien besiegen,translate,translated,displayed-string,817a97e812d299d1b47819c74a5bd6e72d291cd444ad88aa0986830f6fc8a633
+c0e08111641a575b908d95ad,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,59,1,string 1,Defeat commander hidden among the copies,Unter den Kopien versteckter Befehlshaber der Niederlage,translate,translated,displayed-string,1572b59055bf3a31bea5de409f591bdca3c13db6757941ba56f24bd83752c31f
+ee76687a8a23795654a9028e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,60,1,string 1,Defeat Kako Copy,Kako-Kopie besiegen,translate,translated,displayed-string,2d9e114bce0718920d13c1dd2968d218170fda717bcc65aa98446f8de005e4aa
+d7f570fb3ed5bb0fb2257b1b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,61,1,string 1,Defeat all Kako Copies,Alle Kako-Kopien besiegen,translate,translated,displayed-string,6748f886845757621b6e39fc8d4dda36d5cd7117f00bcf562de5ce96a85cfddd
+2bbfa78a88c79ff31cba559b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,62,1,string 1,Defeat commander hidden among the copies,Unter den Kopien versteckter Befehlshaber der Niederlage,translate,translated,displayed-string,1572b59055bf3a31bea5de409f591bdca3c13db6757941ba56f24bd83752c31f
+6b521ab97a41df1ffa95e2e9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,63,1,string 1,Hit Dahl'xia with the secret weapon???,Hat Dahl'xia mit der Geheimwaffe getroffen???,translate,translated,displayed-string,b45e58b51f39686b88eaf5f9603541135db96e7e611c24338c251fab7dc10169
+924975c9edf9db79fcc9507d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,64,1,string 1,Hit V'ehxness with the secret weapon???,Schlagen Sie V'ehxness mit der Geheimwaffe???,translate,translated,displayed-string,47c9b36e018dfe478a14631c59c9a79610989dde018f06ad9318144306726b97
+f52aae05882636b5ed381cfe,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,65,1,string 1,"Kurara Oosuzuki dies
+School bus is destroyed
+
+
+","Kurara Oosuzuki dies
+Schulbus wird zerstört
+
+
+",translate,translated,displayed-string,37032cae42f7484ce828e8d61f8f853ae9084d50fa6903c014bb3dc6dcadaaec
+23cb612d6e366545556c22d5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,66,1,string 1,"Kurara Oosuzuki dies
+
+
+","Kurara Oosuzuki dies
+
+
+",translate,translated,displayed-string,479161a609f3c5587c625b293f9a9fb20ceeb2dbff0f537db4f910aae78fd373
+772c8205a318ec1982d0b251,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,67,1,string 1,"Annihilate enemy boss?
+
+","Feindlichen Boss vernichten?
+
+",translate,translated,displayed-string,0bcba72e71637e7f9d3b10d7813d91ae68b144e4d379f5e800834d8bb2206697
+ab49c78f86cebe44f631cad1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,68,1,string 1,"All allies are annihilated?
+Barrier generator is destroyed?
+
+","Alle Alliierten sind vernichtet?
+Barrier-Generator wird zerstört?
+
+",translate,translated,displayed-string,21e1b0a407ab535658c4548ba8b709b04ba6291472c23e58cc30c869f82f5fdc
+fa6d7029528c355b60191f5b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,69,1,string 1,"Annihilate all enemies?
+
+","Alle Feinde vernichten?
+
+",translate,translated,displayed-string,af6dff946bdbe614de5ab38216db2832ce1a839b285c328e7711c4f3730ad0f6
+026108d7b99617e68dca5db8,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,70,1,string 1,"Spoilers
+Takumi Sumino will do something about it now
+
+","Spoiler
+Takumi Sumino wird jetzt etwas dagegen unternehmen
+
+",translate,translated,displayed-string,b0d3b2863a5e88a89bda409f507000cfd4aed3d7397ad220b168a63e21ca42ec
+01b3c2d9ed2559552f74a0fa,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,71,1,string 1,"I don't think we'll lose
+
+","Ich glaube nicht, dass wir verlieren
+
+",translate,translated,displayed-string,818d14df8f6d448177db29331d9e77e06606bf3e84d620479b4364ea68edd634
+d7e48fa071c93c2524968078,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,72,1,string 1,"Drive the boss back
+
+","Fahren Sie den Chef zurück
+
+",translate,translated,displayed-string,32988ac01ce9dc0df01e1bc6b20b4e9e942b9c46e2a3c13bac782011ea29999d
+1b6b7d11ae50af0473a9d7ed,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,73,1,string 1,"Darumi Amemiya is defeated
+
+","Darumi Amemiya ist besiegt
+
+",translate,translated,displayed-string,be7277d525af77fa397d468307006ecfb627561b44c9bff0f474351d6066d025
+f780ed1aa8cfc8aec0084658,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,74,1,string 1,Hit both V'ehxnesses with the poison trap,Schlagen Sie beide V'ehxnesses mit der Giftfalle,translate,translated,displayed-string,1fd507578c8dbf76c4fbae4c14f80d700396e3fc61b3619ab30596750900ded0

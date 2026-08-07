@@ -1,0 +1,13 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+26b966a03f10cbefb99cc79d,app_steam_text01.dx11.mvgl,app_steam_text04.dx11.mvgl,text/system_message_steam.mbe/000_Sheet1.csv,1,1,string 1,Restart game for language change to take effect.,"Neustart-Spiel, damit die Sprachänderung wirksam wird.",translate,translated,displayed-string,2f6f7b112478e2b93f9835438fbf0c18302795c1232d1dd358756fd8a1076a7e
+c6377cf5dfea4c54f44c5df7,app_steam_text01.dx11.mvgl,app_steam_text04.dx11.mvgl,text/system_message_steam.mbe/000_Sheet1.csv,2,1,string 1,The game must be restarted for graphical setting changes to take effect.,"Das Spiel muss neu gestartet werden, damit die Änderungen der grafischen Einstellungen wirksam werden.",translate,translated,displayed-string,8fc48405c1eb4e2b4abe5b04b7745e934489f93c375e3838d7749fa5ff6152fb
+b6d128acc352eb838a8b5a7c,app_steam_text01.dx11.mvgl,app_steam_text04.dx11.mvgl,text/system_message_steam.mbe/000_Sheet1.csv,3,1,string 1,"Save changes to your graphical settings?
+If no input is made, changes will be discarded after %d seconds.","Änderungen an den grafischen Einstellungen speichern?
+Wenn keine Eingaben gemacht werden, werden Änderungen verworfen, nachdem %d Sekunden.",translate,translated,displayed-string,a58b76c5a1405b0bd62671f8406e1813cee7e9421606f212116c9dbc7826cc74
+777fddbbcab6f99bb6ac54ac,app_steam_text01.dx11.mvgl,app_steam_text04.dx11.mvgl,text/system_message_steam.mbe/000_Sheet1.csv,4,1,string 1,Press button to assign.,"Drücken Sie die Taste, um zuzuweisen.",translate,translated,displayed-string,4ad4f1ff96fb83c220908e0b8b7d74fa81995a28fcb06f8fce2e6a2f6ee72088
+b9f37b258a33e850cdb32673,app_steam_text01.dx11.mvgl,app_steam_text04.dx11.mvgl,text/system_message_steam.mbe/000_Sheet1.csv,5,1,string 1,"This function is already assigned to another button.
+Switch to this one?","Diese Funktion ist bereits einer anderen Taste zugeordnet.
+Switch zu dieser Taste?",translate,translated,displayed-string,fc2cb057bb737e6e6ab1587b2c73eb42f550b4a0778c84982e3cded23e3c9561
+50eeb7d77f150777e31d5469,app_steam_text01.dx11.mvgl,app_steam_text04.dx11.mvgl,text/system_message_steam.mbe/000_Sheet1.csv,6,1,string 1,"Save data could not be created. 
+Please ensure your hard drive has enough free space.","
+Bitte stellen Sie sicher, dass Ihre Festplatte genügend freien Speicherplatz hat.",translate,translated,displayed-string,4ed2264e012e26ca4719cb59114c30abd97d18b7db409eca0ca24f22b817f244

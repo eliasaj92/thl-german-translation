@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+efd91ed0649a01ec4c38e0a1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s11_0_seisyunr_a0_d037_m020_020.mbe/000_Sheet1.csv,1,2,string 2,"Shall we get going, then?",Sollen wir dann los?,translate,translated,displayed-string,1f700c5d3551c0fccf000aabc8336d796c856512b566e9d1c3812d91c78c7305
+14e621da443f14a42c208ef2,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s11_0_seisyunr_a0_d037_m020_020.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+26dd1b737cecd88ad183b008,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s11_0_seisyunr_a0_d037_m020_020.mbe/000_Sheet1.csv,1,4,string 4,"Shall we get going, then?",Sollen wir dann los?,translate,translated,displayed-string,1f700c5d3551c0fccf000aabc8336d796c856512b566e9d1c3812d91c78c7305

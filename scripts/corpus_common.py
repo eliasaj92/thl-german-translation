@@ -31,7 +31,7 @@ CONTROL_RE = re.compile(
     r"|(?<![A-Za-z0-9])%(?:\d+\$)?[-+#0']*\d*(?:\.\d+)?[a-zA-Z](?![A-Za-z0-9])"
     r"|\\[nrt]|<[^<>]+>"
 )
-FC_TEXT_RE = re.compile(r"\{(?P<head>fc\([^{}]*\))(?P<body>[^{}]*)\}", re.I | re.S)
+FC_TEXT_RE = re.compile(r"\{(?P<head>fc\([^(){}]*\))(?P<body>[^{}]*)\}", re.I | re.S)
 LINE_BREAK_RE = re.compile(r"\r\n|\r|\n")
 
 
@@ -130,4 +130,3 @@ def control_tokens(value: str) -> tuple[str, ...]:
 
 def structural_signature(value: str) -> tuple[tuple[str, ...], tuple[str, ...]]:
     return control_tokens(value), tuple(LINE_BREAK_RE.findall(value))
-

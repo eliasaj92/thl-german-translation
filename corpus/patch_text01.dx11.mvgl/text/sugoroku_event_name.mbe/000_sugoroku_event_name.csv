@@ -1,0 +1,672 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+1949cfefce353803514c28ff,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,1,1,string 1,"You find some small flowers.
+They may be useful as a raw material.","Sie finden einige kleine Blumen.
+Sie können als Rohstoff nützlich sein.",translate,translated,displayed-string,aae9b0aeed4c55007e5fbcd559705534c5fa93268dd18b2bc8c152d8416075bb
+5553580434d1f6a5e1192b9e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,2,1,string 1,"A large, foul-smelling flower blocks your path.
+Maybe it's a rare material?","Eine große, foul-smelling Blume blockiert Ihren Weg.
+Vielleicht ist es ein seltenes Material?",translate,translated,displayed-string,9c68c3a5a6bc0214d7c77a0201e9ce43b1bdb1c00f37b21706f4f9db22580f9a
+e6938dcd9849dd01a016b41e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,3,1,string 1,"Various mushrooms are growing on a fallen tree.
+Some of them might be useful...","Verschiedene Pilze wachsen auf einem gefallenen Baum.
+Einige von ihnen könnten nützlich sein...",translate,translated,displayed-string,58cb851809a3ac42b7e08bf68d103ee0faae465f73172a15af4bda6f1db77a38
+c6cf5b4eaf485055ecc526f2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,4,1,string 1,"You trip and get entangled in vines.
+A huge carnivorous plant bears down on you!","Sie reisen und verstricken sich in Reben.
+A riesige fleischfressende Pflanze trägt auf Sie!",translate,translated,displayed-string,c62bcf5e0aa88254793683f00b8934d22adae5e99d2f61ad0c5de21787aa3f8d
+ec3609622b44c4a969685875,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,5,1,string 1,"You find plants growing outside an empty house.
+Some of them might be useful...","Sie finden Pflanzen, die außerhalb eines leeren Hauses wachsen.
+Einige von ihnen könnten nützlich sein...",translate,translated,displayed-string,d57794e36ac3cd65d5ae936f46127b9963138792ed6946cdd85029dcb1567713
+f021c92415896ddf9a0b9db8,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,6,1,string 1,"You find a beehive.
+Maybe you can get some honey out of it...","Sie finden einen Bienenstock.
+Vielleicht können Sie etwas Honig aus ihm heraus...",translate,translated,displayed-string,869b17598b8c9fc4f0dc2ec25bc920ac31d488d81f30745591583ca3a38dc6ca
+3a625dd29fdcfc6805f9b74f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,7,1,string 1,"Insects are swarming around one particular tree.
+What are they so interested in?","Insekten schwärmen um einen bestimmten Baum.
+Was interessiert sie so?",translate,translated,displayed-string,6c769e663049f9364cb590f7ec81ac44f58af2fd02b05dc69748da8a911b2f4b
+bc671b9be8a4acbe90423229,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,8,1,string 1,"You find a dilapidated old greenhouse.
+Lots of pumpkins are growing inside.","Sie finden ein verfallenes altes Gewächshaus.
+Im Inneren wachsen viele Kürbisse.",translate,translated,displayed-string,d75cb9200faf88aaab26c3c8c0328de2d71221cfa4a4b208f7b0cbaf71ffe32b
+524849fdcf3f2c9bfe3c7198,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,9,1,string 1,Strange seeds are falling from the sky.,Seltsame Samen fallen vom Himmel.,translate,translated,displayed-string,a7bc55ff9f75d066499e02ba34f33022c8858a74d299e8918f932bff840462fc
+b528b0b4b2bc9ec9d0b6e5b0,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,10,1,string 1,"You find an old cabin made of scrap and driftwood.
+Some of it might be useful as crafting materials.","Sie finden eine alte Kabine aus Schrott und Treibholz.
+Einige davon könnten als Bastelmaterial nützlich sein.",translate,translated,displayed-string,7e771218d845b071bca4c246812005db6389657b1e55bf9dc2105e75c0dbae9b
+cc89825d04335f6a8557968d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,11,1,string 1,"You start sinking into the ground while exploring marshland.
+You've been caught in quicksand!","Sie beginnen, in den Boden zu sinken, während Sie Marshland erkunden.
+Sie wurden in Treibsand gefangen!",translate,translated,displayed-string,d4edf496be4096cb6c96b01be00a2366d9b9e4a69aad176f14abc55a6f74be82
+26b3d8471543c43935e191eb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,12,1,string 1,"You find a large turnip in the ground.
+You might be able to use it for something if you dig it out.","Sie finden eine große Rübe im Boden.
+Sie könnten sie für etwas verwenden, wenn Sie sie ausgraben.",translate,translated,displayed-string,db9971e0a1e845406fd3c61a384301302c5e7c5a1c0074ae2ed0589dcda4dcfe
+f059dd5005d97f9742cbac12,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,13,1,string 1,"You arrive in a pretty flower field.
+You decide to pick a nice flower before leaving.","Sie kommen in einem hübschen Blumenfeld an.
+Sie entscheiden sich, eine schöne Blume zu wählen, bevor Sie gehen.",translate,translated,displayed-string,a21bbbfe88ba6878def1f38f5a1fd9879d19f357174374d0a5cc7971d2012caf
+75b39a3be0b66d0c72dedaf4,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,14,1,string 1,"You found an overrun greenhouse that looks like a miniature jungle.
+You might find something good inside.","Sie haben ein überranntes Gewächshaus gefunden, das aussieht wie ein Miniatur-Dschungel.
+Sie könnten etwas Gutes innen finden.",translate,translated,displayed-string,b4abd18a6024d8965c318cfe3360b38a951572c3698fb269327a1872253ee691
+ce52dbbe95d64a9353899428,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,15,1,string 1,"You find lots of clovers growing on the ground.
+Maybe you can find a lucky four-leaf one.","Sie finden viele Kleeblätter wachsen auf dem Boden.
+Vielleicht finden Sie ein glückliches vierblättriges.",translate,translated,displayed-string,188f91738ae6632bfb7319230822f515e19d482b76ad56c4729f1fc30854f647
+7fcb01e10e4427a1c82a8214,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,16,1,string 1,"You see some pretty butterflies fluttering around.
+Their wing patterns are quite unusual.","Sie sehen einige hübsche Schmetterlinge herum flattern.
+Ihre Flügelmuster sind ziemlich ungewöhnlich.",translate,translated,displayed-string,0cd9037e56b351322edb7fc43e64646191b7dea025037b58cc79a7879a0e15b6
+0d4ad5b353fd9a60653ebdc3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,17,1,string 1,"You find an area with some unusual-looking plants.
+Which will you pick?","Sie finden eine Gegend mit einigen ungewöhnlich aussehenden Pflanzen.
+Welche werden Sie wählen?",translate,translated,displayed-string,a64da58a1109d71dc41c5bea7c56385440ba360fd849f8aa8e9633f2caa6659f
+aff4b1efa3b8feedce40c147,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,18,1,string 1,"You find a forest where bamboo and mushrooms grow in profusion.
+Which one will you pick?","Sie finden einen Wald, in dem Bambus und Pilze in Überfluss wachsen.
+Welche werden Sie wählen?",translate,translated,displayed-string,e36e2c8267ccb3eafc223108e47e8af69c0f3dca82a2bf7f5302af2e1e2d15b1
+243ce8cddd62e3c1211b78c9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,19,1,string 1,Your path is blocked by thick clumps of bamboo grass.,Ihr Weg wird durch dicke Klumpen Bambusgras blockiert.,translate,translated,displayed-string,8e28c4a0c79fc74d77c9038ad7ce85561d8f5c68a3a89a8f159223cbf949727f
+5e7b772b34215eb46ef8abb9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,20,1,string 1,"You see a deer eating tree bark.
+It turns and fixes its big, brown eyes on you.","Sie sehen ein Hirsch essen Baumrinde.
+Es dreht und fixiert seine großen, braunen Augen auf Sie.",translate,translated,displayed-string,43181cea426e76347ed844c8b40f206f7dd0bc635a97810acd264755c8ce8bde
+b4ea419e2193abc782ef1393,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,21,1,string 1,"You find an area with a strange, medicinal odor.
+Herbs and grasses with healing properties 
+seem to thrive here. You might be able 
+to use some of them...","Sie finden einen Bereich mit einem seltsamen, medizinischen Geruch.
+Kräuter und Gräser mit heilenden Eigenschaften 
+Seem hier zu gedeihen. Sie könnten in der Lage 
+ einige von ihnen verwenden...",translate,translated,displayed-string,5e02cdaee90da8b4cb569c4beb30c56af8daa58212286a846266304fbebfc609
+00792edd18589df7fd96a2e4,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,22,1,string 1,"You find a grove where different fruit trees are growing.
+Will you try some?","Sie finden einen Hain, in dem verschiedene Obstbäume wachsen.
+Willst du es probieren?",translate,translated,displayed-string,690aa456c4a48776ad7e38c1f861b1e52d5a04a77b2d57b76caa3653ded7e136
+0d875a9cfa6e67180829b429,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,23,1,string 1,"You find a sharp, sturdy axe.
+You can probably use it to cut down some of the nearby trees.","Sie finden eine scharfe, robuste Axt.
+Sie können es wahrscheinlich verwenden, um einige der nahe gelegenen Bäume zu schneiden.",translate,translated,displayed-string,4043b20ab4ee2dc445add1f97071235ea150eaa55daff3d7c7ab1fccf9522b53
+cf81c349d63e34be8cc270e3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,24,1,string 1,"As you climb a sloped path, a log starts rolling down it!
+It's going to hit you if you don't do something!","Wenn du einen schrägen Pfad kletterst, beginnt ein Log zu rollen!
+Es wird dich treffen, wenn du nichts tust!",translate,translated,displayed-string,72d47e6e04a7f67a35356841904e84bf4fa45123b7048d6e4638a3bac3dbe2df
+5cf8448c22123a1ec1565df2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,25,1,string 1,"You find a tree with strange black fruits growing on it.
+You've never seen fruit like this before...","Sie finden einen Baum mit seltsamen schwarzen Früchten, die darauf wachsen.
+Sie haben noch nie solche Früchte gesehen...",translate,translated,displayed-string,28a4ec22e1be52cf65d5c221e1505e3a510bb936143234040b3dc77ce53b543a
+44d6118b55a9feaa0435eaea,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,26,1,string 1,"You find a plushie abandoned on the roadside.
+It looks like an invader. Sure is creepy...","Sie finden einen Plüsch am Straßenrand verlassen.
+Es sieht aus wie ein Eindringling. Sicher ist gruselig...",translate,translated,displayed-string,85c3d435f19e5e6ba479d971d5c96e4758a5cc5bea9eb535338631a32cc00b9d
+4f7bc8fdf43770dabf4218b8,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,27,1,string 1,You catch sight of a figure in a black cape cut across your path. What was that...?,"Du erhast eine Figur in einem schwarzen Umhang, die über deinen Weg gehauen ist.",translate,translated,displayed-string,40097ada124f4aa9207583caf9488e148ab5b8fb1ac843c0cb494272a86a12e1
+7d6e335803b26b13a0ff75b5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,28,1,string 1,"You see a large piece of cloth in the middle of the road.
+It looks like there's something underneath it.","Sie sehen ein großes Stück Stoff in der Mitte der Straße.
+Es sieht aus, als wäre etwas darunter.",translate,translated,displayed-string,481a44fad3b08556c0810f4f776586e2bcf3d7856696ff82746b66c9be3f083b
+55106f0f3a05c4abd5177837,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,29,1,string 1,"You see several mannequins in a display window.
+Their outfits look pretty stylish.
+Maybe you should take one.","Sie sehen mehrere Schaufensterpuppen in einem Schaufenster.
+Die Outfits sehen ziemlich stilvoll aus.
+Vielleicht sollten Sie eine nehmen.",translate,translated,displayed-string,6041ffb6d997361d2fa908fabc32c7a87c2e3beb20c8ce29d9c116e7d6372703
+6a1f5023d495b93ab98e98e3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,30,1,string 1,"You find a herd of goat-like animals.
+Their fur looks soft and fluffy.
+It might feel good to pet them...","Sie finden eine Herde von Ziegen-ähnlichen Tieren.
+Their Fell sieht weich und flauschig.
+Es könnte sich gut anfühlen, sie zu streicheln...",translate,translated,displayed-string,7d4fc7b67a35311250bcd3c27f74ee395ab3c45a434593b19d03497c80a2531c
+bab828ce6957144e40e506e0,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,31,1,string 1,"You see a bird's nest in a tree.
+You get the feeling there might be something valuable inside.","Sie sehen ein Vogelnest in einem Baum.
+Sie bekommen das Gefühl, es könnte etwas Wertvolles im Inneren sein.",translate,translated,displayed-string,c8986fbb90716993997bc86bdb9c78982a82a9b34d062a6f23c831c8982425f1
+1c9c7b719aee6d73c60092fd,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,32,1,string 1,"You are suddenly unable to move. You've been
+caught in a huge spiderweb!","Sie sind plötzlich nicht in der Lage, sich zu bewegen. Sie haben 
+caught in einem riesigen Spinnennetz!",translate,translated,displayed-string,dbf9e7609daec666c70d019cb1bdfb3ce06a2dd32eb1ab3840793bb8a145d74a
+3796013bfbe820fa55f5d2bd,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,33,1,string 1,"You find a pair of men's underwear on the ground.
+What is this doing here...?","Sie finden ein Paar Herrenunterwäsche auf dem Boden.
+Was macht das hier...?",translate,translated,displayed-string,df6b3829aa93198e0187323136eb0ab6891e4af0771a7e0260526bcec658cfb8
+6579a8784c8bf250e25b5ad2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,34,1,string 1,"You find a box with a talisman pasted on it.
+What could be inside...?","Sie finden eine Box mit einem Talisman aufgeklebt.
+Was könnte drin sein...?",translate,translated,displayed-string,5f8cfceee16aee84d72763d5136662e30a1998f5f281a70b34d7b34154319ed6
+eb445b0875db5c5b0f0b8ccb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,35,1,string 1,"You find a first aid kit.
+The box is old and beaten-up.
+The gauze and other supplies still look usable, though.","Sie finden ein Erste-Hilfe-Kit.
+Die Box ist alt und verprügelt.
+Die Gaze und andere Vorräte sehen immer noch verwendbar aus.",translate,translated,displayed-string,1ec02c6dad9ead864b81ef8a3cff08d4b8264c7ae84b3c12e15ce539da913f53
+22fe725aa93f225935e4a15a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,36,1,string 1,"You find a wrecked ship washed up on the beach.
+There are probably valuable resources inside.","Sie finden ein zerstörtes Schiff am Strand gespült.
+Es gibt wahrscheinlich wertvolle Ressourcen im Inneren.",translate,translated,displayed-string,078f95da6476eeb4ae4203f8e907d4e4ced59aba58c2c0a210664064a6734ca9
+bbfca542c0fd4c133cf159e6,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,37,1,string 1,"You see a dog picking through trash.
+Someone might have thrown away something rare.","Sie sehen einen Hund, der durch Müll plündert.
+Jemand könnte etwas Seltenes weggeworfen haben.",translate,translated,displayed-string,c6763ca7b93f7f54256e75e2ade33d6dbf38812174fc556c5c4fc1d179cd60c1
+0e0e147147e3e838e9f1002a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,38,1,string 1,"A invader in an awesome cape is wandering around.
+It looks so cool...","Ein Eindringling in einem ehrfürchtigen Umhang wandert herum.
+Es sieht so cool aus...",translate,translated,displayed-string,6de877f01d3955c99518aa42294f8071787c06e2560217f0bb62be7c4de02c0e
+56cedb4f223b07014a1bddbc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,39,1,string 1,"You find a claw machine in the ruins of an arcade.
+And it still works! Want to give it a try?","Sie finden eine Krallenmaschine in den Ruinen einer Arkade.
+Und es funktioniert noch! Möchten Sie es versuchen?",translate,translated,displayed-string,85cc8a7a465f51888dee3626fcc104c40417b212b97f7a84f15866f0df2d24b4
+9b65c6a77e185d7c1abd1fc3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,40,1,string 1,"You feel a sudden strong gust of wind.
+A piece of trash is flying right toward you!","Sie spüren einen plötzlich starken Windstoß.
+A Stück Müll fliegt direkt auf Sie zu!",translate,translated,displayed-string,c42cde84e030806d7344d48a76f81a35afe366c61166edad3db92c84f093338b
+b828843e4ae7c3e81655f577,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,41,1,string 1,"You find a suitcase on the ground.
+There seems to be something inside, but it's locked.","Sie finden einen Koffer auf dem Boden.
+Es scheint etwas im Inneren zu sein, aber es ist verschlossen.",translate,translated,displayed-string,baf824da2f00bfc4dd60920f2564178d46a50e8273257e4e14993d47eff0b112
+b69add8f90cfe2e0aca5e820,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,42,1,string 1,"You find a cowboy-looking invader.
+It's even wearing a ten-gallon hat.
+It doesn't seem to have noticed you yet.","Sie finden einen Cowboy-Anblicker.
+Es trägt sogar einen zehn-Gallonen-Hut.
+Es scheint noch nicht bemerkt zu haben.",translate,translated,displayed-string,dd979024fc25c9ef6cafaa958ec98957947d5029972dff96d03f6e4ffecb137b
+d05b737b662a81b9b9853def,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,43,1,string 1,"You found a large piece of red cloth while exploring old houses.
+What could this be...?","Sie haben ein großes Stück rotes Tuch gefunden, während Sie alte Häuser erkunden.
+Was könnte das sein...?",translate,translated,displayed-string,2de609f8737eee5732c05aff3387407cda479dba230f7685353d8aa2fd5260bf
+f26f699e48a0624fd65ead30,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,44,1,string 1,"You found a creepy straw effigy in some temple ruins.
+It exudes a discernibly malevolent aura.","Sie fanden ein gruseliges Strohbild in einigen Tempelruinen.
+Es strahlt eine erkennbar bösartige Aura aus.",translate,translated,displayed-string,966e689d21ed89ac15fe8f41eb550b7d41822e0de56996cf787b588828868d35
+418f012a4b58357bd04d8320,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,45,1,string 1,"You see a cardboard box moving around by itself!
+Could there be something inside?","Sie sehen einen Karton, der sich von selbst bewegt!
+Könnte es drinnen etwas geben?",translate,translated,displayed-string,f92bc7f60bbf95969ac7617d3ca340c3906527552939fa848a7b2a3f287a785c
+96a259d5d35718a93bb5e6e3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,46,1,string 1,"You see a sign in the middle of your path.
+It has an arrow drawn on it.","Sie sehen ein Zeichen in der Mitte Ihres Pfades.
+Es hat einen Pfeil darauf gezeichnet.",translate,translated,displayed-string,fc0c0c75ccabbb23c87d9582f5b9d7fb77c389c8385d3f387346539cfdab7d5e
+d074453a87d91991966a7f1d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,47,1,string 1,"You find a field with fangs and fur scattered around it.
+Looks like some animals have been fighting.","Sie finden ein Feld mit Reißzähnen und Fell verstreut um es.
+Es sieht aus, als ob einige Tiere gekämpft haben.",translate,translated,displayed-string,1b1d965ba82369b79f8969df3b72b8ac61dcd0d0f75caec20844e5f09e8d893d
+8a2a354586f5c7d5ee20f766,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,48,1,string 1,"You see a bird roosting on top of a tall tree.
+Its feathers are a beautiful crimson color.","Sie sehen einen Vogel, der auf einem hohen Baum thront.
+Seine Federn sind eine schöne purpurfarbene Farbe.",translate,translated,displayed-string,a3bd9a2a13defa8dc1af5002bb96595bc70fa32cf8df07f6da00c8dd05b14017
+c66201c20fbb65e0300a98cb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,49,1,string 1,"You find some graffiti sprayed on a wall.
+It's not exactly high art, but you find your eye drawn to it.","Sie finden einige Graffiti an einer Wand gesprüht.
+Es ist nicht gerade hohe Kunst, aber Sie finden Ihr Auge zu ihm hingezogen.",translate,translated,displayed-string,6a4b62c2c95528e4c7d33d2590846683254688bbebe6a2446bb79a1d7e1dce9a
+2bd61ec80ba23cee33a0918f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,50,1,string 1,"You find a tiger sleepy soundly.
+Strike now and you can defeat it! Probably!","Sie finden einen Tiger verschlafen laut.
+Strike jetzt und Sie können es besiegen! Wahrscheinlich!",translate,translated,displayed-string,6d7294e3a86bc52de8f586f54ef2955d6bdb9114483e4dfc13c0c82cd2b647ce
+0204c3db3e44c98f2593a34b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,51,1,string 1,"You find a neglected bronze statue of a dog.
+It seems to regard you with baleful eyes.","Sie finden eine vernachlässigte Bronzestatue eines Hundes.
+Es scheint, Sie mit ballenhaften Augen zu betrachten.",translate,translated,displayed-string,2992105e055d36f20bed170f4b13666cefc4888f045f6bab876983f363c710b7
+c43dc9d6cc062ac6422657cf,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,52,1,string 1,"You find a large stone with sacred rope around it.
+It seems to be a seal for something.
+You can probably get rare ore if you break it open.","Sie finden einen großen Stein mit heiligem Seil um ihn herum.
+Es scheint ein Siegel für etwas zu sein.
+Sie können wahrscheinlich seltenes Erz erhalten, wenn Sie es aufbrechen.",translate,translated,displayed-string,c6ee10a19fee7abe4bc6040a722d17cb0f67fa93529e6f816ad7f2a0d542fb36
+f9eab2032a4976211bd50152,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,53,1,string 1,"You find an old jewelry store in the ruins.
+There might be something useful inside.","Sie finden einen alten Schmuckladen in den Ruinen.
+Es könnte etwas Nützliches im Inneren sein.",translate,translated,displayed-string,92f1db7cc768ef812f3d8978d65a2f4e84bd622209ada720173a167183e4103c
+7d80e4213fd28a2576f87fc6,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,54,1,string 1,"You find a jewelry box on the roadside.
+It seems to be locked.","Sie finden eine Schmuckbox am Straßenrand.
+Es scheint verschlossen zu sein.",translate,translated,displayed-string,9e164c0849adb207f2712797b23c430436303056ad3c74c1091435a222fc6a7c
+aa8ff85fd09a5fc4186e00ca,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,55,1,string 1,"You find a disused mine.
+Dynamite, pickaxes, and other equipment are scattered around.","Sie finden eine stillgelegte Mine.
+Dynamit, Pickaxen und andere Ausrüstung sind herum verstreut.",translate,translated,displayed-string,1b607ca098217e6da5d2dc4f33d8e0e5edcea05a79d071f706819993f2901b3b
+914b972083d4f1b8730ed63c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,56,1,string 1,"You find an abandoned research lab.
+It looks like they studied mineral ore here.","Sie finden ein verlassenes Forschungslabor.
+Es sieht so aus, als hätten sie hier Mineralerz untersucht.",translate,translated,displayed-string,a0990635b0128804b6630fbcee7198e4a4ea78ac7d66ef61a7037cbe796707d2
+911c67d7158ee0a29fef9569,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,57,1,string 1,"You see a hole in the road ahead.
+It's so dark you can't see anything.","Sie sehen ein Loch in der Straße vor uns.
+Es ist so dunkel, dass Sie nichts sehen können.",translate,translated,displayed-string,6f5daf737cc84887ba309ef4d7cff949cbbd7045291a30c58ce89f1a772119ff
+5ffbda74095db33aca9735b3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,58,1,string 1,"You see a hazard sign in the middle of the road.
+It might be dangerous to go any farther.","Sie sehen ein Gefahrenschild in der Mitte der Straße.
+Es könnte gefährlich sein, weiter zu gehen.",translate,translated,displayed-string,f8c7cd2ba6a840f0c93a3830cbb39e4071ffdb9da0993df817acdaafc8d56a92
+aa97a70b58e50f8d8cde5531,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,59,1,string 1,"You see a humongous sandstorm brewing in the distance.
+It's getting closer and closer.","In der Ferne braut sich ein riesiger Sandsturm.
+Es kommt immer näher.",translate,translated,displayed-string,5f406063981ee14648b73ab3f15fe2a904aa5623efe63c858118f59ab3202b6f
+993dd0b9f2f929f49058ae9e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,60,1,string 1,"You start sinking into the ground while exploring the desert.
+You've been caught in quicksand!","Sie beginnen, in den Boden zu sinken, während Sie die Wüste erkunden.
+Sie wurden in Treibsand gefangen!",translate,translated,displayed-string,9960cf863e66ddc67d2e6c107a57887b07af0961e5c498a063e4aa2085c50ecd
+aabd021f031329b807b09ba9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,61,1,string 1,"You find the ruins of an old park.
+One flowerbed still contains lots of healthy flowers.","Sie finden die Ruinen eines alten Parks.
+Ein Blumenbeet enthält noch viele gesunde Blumen.",translate,translated,displayed-string,525c4c323870d54c7726d3583915e63dc2942e266605f625e4efa541cec040ae
+a58631e0b8c95be4c37a5bb0,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,62,1,string 1,"This looks like an old mineral store.
+There are lots of rocks on the shelves.","Das sieht aus wie ein alter Mineralladen.
+Es gibt viele Steine in den Regalen.",translate,translated,displayed-string,a3cb623e492841d3e7a30701457d59d32988cbdc846963e9aa1031b32109120f
+35ce3351c53f27c7c821ce12,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,63,1,string 1,"You find a discarded minecart while exploring a cave.
+Will you ride in it, or just push it along?","Sie finden einen abgeworfenen Minenkarren, während Sie eine Höhle erkunden.
+Willst du darin reiten, oder einfach mitfahren?",translate,translated,displayed-string,15a7a728ed4813ca4cf39a71b078d111aa4f5b45e14512719bc8fa64582d41b7
+9f7a91d2371dcaf7fd6a5c4e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,64,1,string 1,"You find a creepy suit of armor while exploring an old-fashioned mansion.
+...Did it move just now?","Sie finden einen gruseligen Anzug der Rüstung beim Erkunden einer altmodischen Villa.
+...Hat es sich gerade jetzt bewegt?",translate,translated,displayed-string,0693c423d7f4035eefc26da31e3855ee44d85040ef670ccb609c628f247eed39
+7a89de0a2ea1bc08795b5182,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,65,1,string 1,"The ground starts shaking while you're exploring an abandoned building.
+The best thing to do is...","Der Boden beginnt zu zittern, während Sie ein verlassenes Gebäude erkunden.
+Das Beste, was zu tun ist...",translate,translated,displayed-string,e31bc82ed6724c90fc39a3d7ffc1ee2ad3f8831ba0a1c8a33caa1a838a841cb7
+99a5fa0794e7f8dc3ff44bfa,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,66,1,string 1,"As you climb a sloped path, a boulder starts rolling down it!
+It's going to hit you if you don't do something!","Wenn du einen schrägen Pfad kletterst, beginnt ein Felsbrocken ihn herunter zu rollen!
+Es wird dich treffen, wenn du nichts tust!",translate,translated,displayed-string,7b69e3f090843de8a2dc4fd1b86fcd50a3fd975dc5e1a2a3f236929f58ac76cf
+a529cd91eb13fafe4b75634f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,67,1,string 1,"*thwp!*
+A pebble hits you.
+Where did it come from...?","*thwp!*
+A Kies trifft Sie.
+Woher kam er...?",translate,translated,displayed-string,b12d18799f1dd11da4485f54ad02f85a3a821d3ae2a1d94402c0a650c1e5ecdf
+32c1bde149cfa5017001f956,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,68,1,string 1,"You see shards of glass on the ground.
+You might be able to use them for something.","Sie sehen Scherben aus Glas auf dem Boden.
+Sie könnten sie für etwas verwenden.",translate,translated,displayed-string,f7fc652c2c31aa4fe657701b614c9aff681f63200e370e7e0fd7b0f924fb8781
+924c033332dfbe85c9240db3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,69,1,string 1,"You decide to explore the beach area.
+Where will you look for materials?","Sie entscheiden sich, das Strandgebiet zu erkunden.
+Wo werden Sie nach Materialien suchen?",translate,translated,displayed-string,324fe79ba0deb9c1121e09961c45b9c6a0cb34a195ea49cbecc4fe35df5c2963
+21b8832559db285ff8f53926,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,70,1,string 1,"You find a shooting game at an abandoned arcade.
+Prizes are still lined up on the shelves.
+You can probably shoot one down.","Sie finden ein Shooting-Spiel an einer verlassenen Arkade.
+Preise sind immer noch auf den Regalen aufgestellt.
+Sie können wahrscheinlich eine nach unten schießen.",translate,translated,displayed-string,765ad057a95b5a665f2c7fdee926a929dc49d2ef1484ebee916478eec052d2ed
+242b1257f564b27b31e5a4d0,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,71,1,string 1,"You pick up black ore. It smells kind of strange.
+Should you really take this with you...?","Du nimmst schwarzes Erz. Es riecht irgendwie seltsam.
+Solltest du das wirklich mitnehmen...?",translate,translated,displayed-string,f4ae2d7608a8bd5d6c064969e82472737fcfc3ce3cf0a66bfbc02510a1cd38eb
+8ca3c8154ad80bebf49dfd1a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,72,1,string 1,"Your path is blocked by a large hole.
+How did this get here...?","Ihr Weg wird durch ein großes Loch blockiert.
+Wie kam das hierher...?",translate,translated,displayed-string,c9ab8461ad56b0c201120fe850a0d81dbd0bf0c21f9ed2b8eedf265c7169b62f
+cdc94b2955e9600bec93591c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,73,1,string 1,"Water is coming out of the ground here.
+Could it be a natural spring?","Hier kommt Wasser aus dem Boden.
+Könnte es eine natürliche Quelle sein?",translate,translated,displayed-string,b7b49990ef01aacf15b7cd096a2bf54cba08274b323014e074afbf3e6a8a9c20
+475129e7fb6bf5e0c988019e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,74,1,string 1,"You trip and fall while exploring some ruins.
+You end up in the basement.","Sie reisen und fallen, während Sie einige Ruinen erkunden.
+Sie landen im Keller.",translate,translated,displayed-string,acaa926b4b5d48c840f5624e0bea7bf65e62096f033ef2794a798b4c2ab6303a
+71146413964d306a11cc3084,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,75,1,string 1,"You find a small hole in a cavern wall.
+Could there be something on the other side...?","Sie finden ein kleines Loch in einer Höhle Wand.
+Könnte es etwas auf der anderen Seite...?",translate,translated,displayed-string,11ca6067b731cf5e6db0727eef8b4ab8a642eaf6b089b7e20db792a7c1122476
+5c133b9b2025b092a05b2d8c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,76,1,string 1,"You've activated a time bomb!
+Do something, or it'll explode!","Sie haben eine Zeitbombe aktiviert!
+Tu etwas, sonst explodiert es!",translate,translated,displayed-string,426a1e37c55da3b171c2a8f2dc2cb8fd9e847e028c5e07b7bb73bf043bd77a61
+9a5d5ed185666c52b6b694e5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,77,1,string 1,"You find an old recycling machine.
+Put material inside, and it will dispense something new.","Sie finden eine alte Recycling-Maschine.
+Put Material im Inneren, und es wird etwas Neues zu spenden.",translate,translated,displayed-string,abf7ddee18e82888fe049d0416d3770f288f24ac8d87c8592516b9a0f2c22db9
+e1fb845f361b8e39fac75f63,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,78,1,string 1,"You find a crumbling building with machine parts littered around it.
+You might be able to find something useful here.","Sie finden ein zerbröckelndes Gebäude mit Maschinenteilen, die um sie herum verstreut sind.
+Sie könnten hier etwas Nützliches finden.",translate,translated,displayed-string,62c9e7fed0236eb63429238ddbdcb82d36a5427457079f244df0c9f55fc8114c
+0950f4108fb7d5d5f606476c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,79,1,string 1,"You find an abandoned car.
+It might be worth taking a look inside.","Sie finden ein verlassenes Auto.
+Es könnte sich lohnen, einen Blick ins Innere zu werfen.",translate,translated,displayed-string,67be76158f8bfc10e22b8ec2de150f8023a426669b5ccf6e55a8e586e0c19295
+3cddc6f5a405eac5098b4dc5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,80,1,string 1,"You find the remains of a giant robot.
+It might have some rare materials inside it.","Sie finden die Überreste eines riesigen Roboters.
+Es könnte einige seltene Materialien darin haben.",translate,translated,displayed-string,527ac6b5df6a89c68f10234fce7030e4461c9635a9c3ff1fc28101ae8f833369
+f7f35e678c562a964ba84b8b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,81,1,string 1,"You find lots of abandoned home appliances.
+You might be able to dismantle them for parts.","Sie finden viele verlassene Haushaltsgeräte.
+Sie könnten sie für Teile demontieren.",translate,translated,displayed-string,49f55c8814b4b869bd87acdb25742e4808cc5fa09d8526a3ce3e5826e88798cb
+b1059a4c96e88696b83c956a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,82,1,string 1,"You find a toy store in some ruins.
+There are still some products on the shelves.
+You might be able to dismantle them for parts.","Sie finden ein Spielzeuggeschäft in einigen Ruinen.
+Es gibt noch einige Produkte auf den Regalen.
+Sie können sie möglicherweise für Teile demontieren.",translate,translated,displayed-string,bb3e25e6422886b481fe038bcbf91d29086d6bdf9dfb8d4d67180d6172f0cf8d
+37b193a419450d04c44a1ed1,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,83,1,string 1,"You find an old cassette player on the ground.
+It looks like it still works.","Sie finden einen alten Kassettenspieler auf dem Boden.
+Es sieht aus, als ob es noch funktioniert.",translate,translated,displayed-string,d8bd1ded8a8aa7b8fb294eeca70b68f950ad45eb650ac5c8af44fce5794426c3
+ddb69dce1f933b5ad89cb385,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,84,1,string 1,"You find a fishing rod near the water.
+Want to do some fishing?","Sie finden eine Angelrute in der Nähe des Wassers.
+Willst du etwas Angeln machen?",translate,translated,displayed-string,027a8d81ac0299a1a503f6f3b710d79e25bb699a1a90d09b4e671b6324f4fa1e
+3556edc8d49be5c5809d5a96,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,85,1,string 1,"You find a discarded bicycle by the roadside.
+You haven't rode one of these in a while.","Sie finden ein weggeworfenes Fahrrad am Straßenrand.
+Sie sind seit einer Weile nicht mehr mit einem von diesen gefahren.",translate,translated,displayed-string,e724375272cffc0dbe139c0c35cc1311387464306186654c66c68c9c49a6d83d
+052c26299d0ccd44bb8e167d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,86,1,string 1,"You find the ruins of an invader base.
+There are still lots of invaders around.
+There might be something good here, though...","Sie finden die Ruinen eines Eindringlings Basis.
+Es gibt noch viele Eindringlinge herum.
+Es könnte etwas Gutes hier, obwohl...",translate,translated,displayed-string,f512ee0b715be6a2f00882d28a5a51235d7054655a5d6b1018e0df6cfd6cdc11
+255d08196f4c560bfcec87a7,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,87,1,string 1,"You find the ruins of an invader base.
+There's a security camera at the entrance.
+Maybe there's a way to get past it...","Sie finden die Ruinen eines Eindringlings Basis.
+Es gibt eine Sicherheitskamera am Eingang.
+Vielleicht gibt es einen Weg, um über...",translate,translated,displayed-string,61d20ec58bfa9527d9ac8c9bd25e93008de459956b099015b64877c575b6339a
+9cb3f89171a4e253f2561a6a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,88,1,string 1,"You find a remote control on the ground.
+What could this be for...?","Sie finden eine Fernbedienung am Boden.
+Was könnte das für...?",translate,translated,displayed-string,9335973f62e21ead17e617a256aac8c7f643b320130ded915378b1ca247f1678
+1cc895f1cf2bede8b022d650,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,89,1,string 1,"You see a small drone flying around.
+It changes direction... It's coming right for you!","Sie sehen eine kleine Drohne herumfliegen.
+Es ändert die Richtung... Es kommt genau für Sie!",translate,translated,displayed-string,730bcb780513a421065e284a365582fea1ac42836577346ed238d4b4d3ab95c0
+6f977db571234a8eed762705,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,90,1,string 1,"You find the ruins of a clock store.
+It's still stocked with clocks of all sizes.
+Some of these might have useful parts.","Sie finden die Ruinen eines Uhrenladens.
+Es ist immer noch mit Uhren aller Größen bestückt.
+Einige von diesen könnten nützliche Teile haben.",translate,translated,displayed-string,cdee59511c0e70bb38e42364f081a1f6f6ad379ee7e5c375a4652bfef4ead996
+ed7a34b3f9652cd312bc0960,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,91,1,string 1,"A runaway dump truck suddenly hurtles toward you.
+What the heck?!","Ein ausgelaufener Dump Truck schmerzt plötzlich auf Sie zu.
+Was zum Teufel?!",translate,translated,displayed-string,ffc791f3c22671f49cbfe407ec1fc84fa17eacc7a96689b25be5dad63ad3af96
+104043f449b7791b1093715e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,92,1,string 1,"You explore an abandoned building.
+You find a loose cable that's still live.
+It's smoking and might catch fire soon.","Sie erkunden ein verlassenes Gebäude.
+Sie finden ein loses Kabel, das noch lebt.
+Es raucht und könnte bald Feuer fangen.",translate,translated,displayed-string,8093410a4cbd8ccdf1085972d71f9a7d196ff648f55776cf242230a3c842ca57
+196c8cd9fff1ed15e29657e3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,93,1,string 1,"You see a small drone stuck up a tree.
+You might be able to scrap it for parts...","Sie sehen, eine kleine Drohne steckte oben einen Baum.
+Sie könnten in der Lage sein, es für Teile zu schrotten...",translate,translated,displayed-string,a6909b8d630f2a20195435b44c4b03f2479ae1789ccc445d6b9f3b4a32ee699a
+aa70b8deadb658e451f72ed0,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,94,1,string 1,"You find the ruins of an old home appliance store.
+Some of these might still work...","Sie finden die Ruinen eines alten Haushaltsgerätspeichers.
+Einige dieser könnten noch funktionieren...",translate,translated,displayed-string,fbaed111dcc222ad576c3e79ed64603f34835430148425f7cce08eb7f78f2af6
+969857b65d22ecfe11368935,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,95,1,string 1,"You see an old grand piano abandoned by the roadside.
+A strange noise is coming from it.
+How can that be? There's no one playing it...","Sie sehen einen alten Flügel am Straßenrand verlassen.
+A seltsame Geräusche kommt von ihm.
+Wie kann das sein? Es gibt niemand, der es spielt...",translate,translated,displayed-string,34c9e7d53a9f7bf0ab156f9eef4ba4e9a0a3c1251dc705bde9f704a74c0f9cf5
+fb768cd9b307213b62477428,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,96,1,string 1,"You find what seems to be an old factory.
+The inside is ragged and ruined.
+The machines all seem to be broken.","Sie finden, was eine alte Fabrik zu sein scheint.
+Die Innenseite ist zerklüftet und ruiniert.
+Die Maschinen scheinen alle kaputt zu sein.",translate,translated,displayed-string,844eb31254b18398958c276ab7077d97a226734598496cf773016517fce9cf7e
+e14c2ecf4052958d5d90063c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,97,1,string 1,"You hear singing in the distance.
+It sounds beautiful.
+It's almost spellbinding.","Sie hören singen in der Ferne.
+Es klingt schön.
+Es ist fast verzaubern.",translate,translated,displayed-string,7f9417833650c391ff594702aa08a9e35b2fa4bfd0af2435c1a7eea3f2104acb
+bab06c21d1b69db3e0b38ff1,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,98,1,string 1,"You find an old security robot.
+It doesn't look like it's going to move.
+It's probably broken.","Sie finden einen alten Sicherheitsroboter.
+Es sieht nicht so aus, als würde er sich bewegen.
+Es ist wahrscheinlich kaputt.",translate,translated,displayed-string,da07fcc3f065ed2f9caa38c1654b1ca1a5755c4518c41c90fd36c1dd0b326896
+92d305cd8870ccb3e30255b7,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,99,1,string 1,"You find a lab with lots of books on the shelves.
+Which will you take?","Sie finden ein Labor mit vielen Büchern in den Regalen.
+Welches nehmen Sie mit?",translate,translated,displayed-string,3d7140975b3f1f730aaf3b91ad24126bbcd5b29eae692318227fd17f3fc71d5b
+bbdcd762c3ce14c39064c9b9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,100,1,string 1,"You find an unexploded bomb under some rubble.
+You might be able to scrap it for parts.","Sie finden eine nicht explodierte Bombe unter einigen Trümmern.
+Sie könnten in der Lage sein, sie für Teile zu verschrotten.",translate,translated,displayed-string,5ff0e5cada194b5af6475c93c727dbbecb556972c2fb5adc6456a21ba4537c95
+3d0177df384b81feec1536cb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,101,1,string 1,"You see something shiny under a pile of rubble.
+You can't tell what it is from here...","Sie sehen etwas glänzend unter einem Haufen Schutt.
+Sie können nicht sagen, was es von hier aus ist...",translate,translated,displayed-string,7bdb17fa969a4f472c0c65bd7886f7f22b9bb9673329382d5c0468421064f122
+2a5134ffbbb413f754a28f8f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,102,1,string 1,"You find a boxing machine at an old arcade.
+It gives out prizes depending on the force of your punch.
+Want to give it at try?","Sie finden eine Boxmaschine an einer alten Arkade.
+Es gibt Preise, abhängig von der Kraft Ihres Schlages.
+Willst du es versuchen?",translate,translated,displayed-string,13174e0bd65c48588bbfd5895f88db532bc884f9384c494447890e09542f0ee1
+e411e3a287307830640ca81d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,103,1,string 1,"You find a river with a broken bridge.
+It's a long way, but you might be able to jump to the other side.","Sie finden einen Fluss mit einer kaputten Brücke.
+Es ist ein langer Weg, aber Sie können vielleicht auf die andere Seite springen.",translate,translated,displayed-string,cec815466ed0531b543e1e08a33ee28f064e78805d296d752ac416a949193a6e
+28acdb66a7bb3ec6d84af979,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,104,1,string 1,"You reach a fork in the road.
+Which path will you take?","Sie erreichen eine Gabelung in der Straße.
+Welchen Weg nehmen Sie ein?",translate,translated,displayed-string,ae810485b031bd107019660e24c65d3a22f35b7558fd6a779967cf05d1bd8525
+573ee91433f108feb040abeb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,105,1,string 1,"You find an old slot machine.
+It will give a prize if you line up three of the same pictures in a row.","Sie finden einen alten Spielautomaten.
+Es wird einen Preis geben, wenn Sie drei der gleichen Bilder in einer Reihe aufstellen.",translate,translated,displayed-string,d9b5bbdb5929ad7c0faa7e3f638a1c02360ee571c80947eecb7922cb08e75dc3
+c27b0c7f5512930ed11f19e6,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,106,1,string 1,"You find a pitch-black room while exploring the ruins.
+It's so dark it's hard to see.","Sie finden einen pechschwarzen Raum, während Sie die Ruinen erkunden.
+Es ist so dunkel, dass es schwer zu sehen ist.",translate,translated,displayed-string,4dd45fe22139b0643d2ea16f0357cfa34db433aa6c943ac50277d2d9b1d0aca3
+f1b4523431551be8c19f39fd,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,107,1,string 1,"You find a dark passageway while exploring a cave.
+It's going to be hard to go any further.","Sie finden einen dunklen Durchgang, während Sie eine Höhle erkunden.
+Es wird schwer sein, weiter zu gehen.",translate,translated,displayed-string,07b11c2a60cd74f6a754f78277e56612738be4aed4fdf1a0933021d03f3b2e20
+3f7f3bef14ae618d18aaea2c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,108,1,string 1,"You find a bronze statue of a lion.
+There's something in its mouth that shines like a jewel.
+But...is it safe?","Sie finden eine Bronzestatue eines Löwen.
+Es ist etwas in seinem Mund, das wie ein Juwel scheint.
+Aber...ist es sicher?",translate,translated,displayed-string,20f66841b37cd1f1962d8f53fd6f5dd4a9b15007dda0568bce4d8250044d430a
+5ef14f964ce52b5ac5f3f55e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,109,1,string 1,"You find a small pond.
+The water is cloudy and you can't see the bottom.
+There seems to be something down there...","Sie finden einen kleinen Teich.
+Das Wasser ist trüb und man kann den Boden nicht sehen.
+Es scheint etwas da unten zu sein...",translate,translated,displayed-string,de89ba5ba63262856041dc9ae623942ec4387829a75b3f3805b52e5090db95a7
+1fe0e7cc89af95185bf6f0cf,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,110,1,string 1,"You find a ragged-looking bridge. It might make a good shortcut...
+If it doesn't collapse before you get across.","Sie finden eine zerklüftete Brücke. Es könnte eine gute Abkürzung machen...
+Wenn sie nicht zusammenbricht, bevor Sie rüber kommen.",translate,translated,displayed-string,814b14d21d09084302aa944556ece3fd17dd0393459dcf480fc6f65457699e32
+8e3bdb435ad3f7d6f7f903bb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,111,1,string 1,"Oh no!
+You dropped your bag.
+Everything fell into a nearby pond.","Oh nein!
+Sie ließen Ihre Tasche fallen.
+Alles fiel in einen nahe gelegenen Teich.",translate,translated,displayed-string,aaf20c3565ec2b89ca7c68378a393ddad7e36cb242c3b09aef17e63edcd08e50
+28ebc66ae792df02817fca56,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,112,1,string 1,"You see a bird flying overheard
+with something shiny in its beak.
+It might be something valuable...","Sie sehen einen Vogel fliegen überhört
+mit etwas glänzend in seinem Schnabel.
+Es könnte etwas...",translate,translated,displayed-string,91a65491e5d7692668601d4bcb708a3ca97ea37b01cc6287cca75f43d0b6b8fc
+fe7221f6a069127e059e511e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,113,1,string 1,"You see a bear covered in blood staggering through a field.
+Look like it doesn't have long to live.","Sie sehen einen Bären, der mit Blut bedeckt ist, der durch ein Feld stottert.
+Sieh so aus, als hätte er nicht mehr lange zu leben.",translate,translated,displayed-string,522730032f7d1dca5a63de168db059a6acfaed86865b36f4b9c1baaa61cb9646
+58115dfd19cb47a26ef253fc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,114,1,string 1,"You find a pleasant-looking old playground.
+This might be a good place to take a break.","Sie finden einen schönen alten Spielplatz.
+Dies könnte ein guter Ort, um eine Pause zu machen.",translate,translated,displayed-string,e3dbce99ad9c4cad07b462cd8b9128410dde42457c204b9b758a6048221d190c
+9d163f686fc154a9400e8561,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,115,1,string 1,"You see a mummy on the roadside.
+What in the world is this doing here?","Sie sehen eine Mumie am Straßenrand.
+Was in aller Welt macht das hier?",translate,translated,displayed-string,dc550284b714eac842a91a0aca1e44035da4e9fecb01c306dfd0016eecb8d3af
+1f9a72f20e5485867b0ce292,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,116,1,string 1,"You find an old vending machine.
+There might be some rare products inside...","Sie finden einen alten Automaten.
+Es könnte einige seltene Produkte in...",translate,translated,displayed-string,a0b5949abe707a91ee9bf6770fc8d3513e18088102839232fda218f747786f71
+9f9bb8fd371b7308ba920190,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,117,1,string 1,"You see a large barrel.
+What could this be doing here?","Sie sehen einen großen Lauf.
+Was könnte das hier tun?",translate,translated,displayed-string,511296ae35c2eec5ef6553bc333a0b5aac59f77d1dedad97130c3570bf2645ef
+c2c6c607bc0704e3b05171f6,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,118,1,string 1,"You find a large jar.
+There's only one thing to do at a time like this!","Sie finden ein großes Glas.
+Es gibt nur eine Sache zu tun, in einer Zeit wie dieser!",translate,translated,displayed-string,aa91f3b8991a828bdaeb38ea2290a8b452ce594a036d6fd643489c7bc6cc2c26
+ba590da256f3e582b66d4bf2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,119,1,string 1,"You find a wallet dropped on the roadside.
+There's a building up ahead that looks like a police station.
+Will you turn it in?","Sie finden eine Brieftasche auf der Straßenseite fallen gelassen.
+Es gibt ein Gebäude vor, das aussieht wie eine Polizeistation.
+Will Sie es einschalten?",translate,translated,displayed-string,b539c1de20136caa701da3e2bbb85b701a2b6a73ed6ece310ca229f59230f10a
+d7b88ace56fd6d05654bf9ae,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,120,1,string 1,"You find a sword embedded in a stone.
+It looks hard to pull out...
+But who knows what might happen if you succeed?","Sie finden ein Schwert eingebettet in einen Stein.
+Es sieht schwer zu ziehen aus...
+Aber wer weiß, was passieren könnte, wenn Sie erfolgreich sind?",translate,translated,displayed-string,615d0124fe4ec6191f6c7dc0e17abefd90f3719781d54af7f3d44e5e00384480
+fa0f6de211bbb04891d2409b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,121,1,string 1,"You find a platform with strange symbols drawn on it.
+Maybe it's an altar?","Sie finden eine Plattform mit seltsamen Symbolen auf sie gezeichnet.
+Vielleicht ist es ein Altar?",translate,translated,displayed-string,dbc2bdc1398a8a827f5b6573333a58e9f8809ba1a5bf2fe57b1a985d50d39384
+b5decd39d8546f34517f5452,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,122,1,string 1,"You see a stone statue on the roadside.
+It has an odd, almost spiritual air about it.","Sie sehen eine Steinstatue am Straßenrand.
+Es hat eine seltsame, fast spirituelle Luft darüber.",translate,translated,displayed-string,906fe5f4dca193139320d06809a689f25566ebb1e6e2e51482b17430b88fe1bb
+c833f11e250eed4fcd76a9fe,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,123,1,string 1,"You were suddenly caught in a violent squall.
+It's going to be hard to move forward in this.","Sie wurden plötzlich in einem heftigen Zangen gefangen.
+Es wird schwer sein, sich in dieser Sache vorwärts zu bewegen.",translate,translated,displayed-string,3ebb9cfff9a1365d480eba1aab356988f77415d80e463cc056d7eb1edb0bd53d
+806cf5d267bfabfbc513638a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,124,1,string 1,"A stone stele has been erected on the roadside.
+Strange letters are carved into its surface.","Am Straßenrand wurde eine Steinstele errichtet.
+Strange Buchstaben werden in seine Oberfläche geschnitzt.",translate,translated,displayed-string,a461fde4ec45ab0e92987fe27e2f771614f1a71b65557385f38afb565595ede7
+59c649265089415021ded8ae,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,125,1,string 1,"You see a red light floating up ahead.
+Could it be...a ghost?!","Sie sehen ein rotes Licht vor sich schweben.
+Könnte es ein Geist sein?!",translate,translated,displayed-string,906c17ab64de38259a73017a967080d978b6d6b0c6383e0c95bead5985dfc06d
+9a87961d0564efb37f2f91a2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,126,1,string 1,You see a tasty-looking fruit lying on the ground.,Sie sehen eine schmackhaft aussehende Frucht auf dem Boden liegen.,translate,translated,displayed-string,41ffdf29d1665dfa6eb31f7cc35b756b48fa6d68117d6a47512b2620c7b18be2
+c70b0876abfa956a37a705fc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,127,1,string 1,"You see a desert oasis in the distance.
+You might be able to rest there.","Sie sehen eine Wüstenoase in der Ferne.
+Sie könnten sich dort ausruhen.",translate,translated,displayed-string,c9ba47905441a1725d28893e4d3c52f9d8671bac51cbf23d606afdb582369b42
+f722cb458ec7436585af2ce1,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,128,1,string 1,"You find an abandoned pharmacy.
+The interior has already been looted.
+There might still be something useful inside, though.","Sie finden eine verlassene Apotheke.
+Der Innenraum wurde bereits geplündert.
+Es könnte aber noch etwas Nützliches im Inneren sein.",translate,translated,displayed-string,d37ba78ea613b9b5c8ed92cba562930efa123cccb0d13f7ac90839c421767095
+57c2c746df0ab27659a1f53d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,129,1,string 1,You find a natural hot spring.,Sie finden eine natürliche heiße Quelle.,translate,translated,displayed-string,d26921159cd13aea9920877ac32bd8e589636a7bff51b453c1d514592d85b85c
+cebf079637c5d9a08c86e08d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,130,1,string 1,"You see a tree with tasty-looking apples growing on it.
+Is there any way to pick them?","Sie sehen einen Baum mit lecker aussehenden Äpfeln, die darauf wachsen.
+Gibt es eine Möglichkeit, sie zu pflücken?",translate,translated,displayed-string,1bdf2c13469fd6da901004e8b6a133bfd348bab28b90a9beed4ec981568dcb81
+ae2beec01c7bfd628ba0075b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,131,1,string 1,"You are surrounded by a thick fog.
+You can barely see what's in front of you anymore.","Sie sind von einem dichten Nebel umgeben.
+Sie können kaum mehr sehen, was vor Ihnen liegt.",translate,translated,displayed-string,bf9483dc02396a51e11a49f2aedbf9693fcf2c8844fb2c0a20384c74f9b60e2d
+aeaaff4d21fbb2474f42b949,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,132,1,string 1,"You find a magic circle in some ancient ruins.
+It seems to be infused with a mysterious power.","Sie finden einen magischen Kreis in einigen antiken Ruinen.
+Es scheint mit einer geheimnisvollen Kraft durchdrungen zu sein.",translate,translated,displayed-string,0bb1e0c94d8483330b8b0a6dfae814e06c17104400a460e9b0e78c053be94f64
+d13b1175b51b0c3a917f19fc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,133,1,string 1,"You find a strange device in an enemy base.
+You might be able to use it to detect materials.","Sie finden ein seltsames Gerät in einer feindlichen Basis.
+Sie könnten es verwenden, um Materialien zu erkennen.",translate,translated,displayed-string,bd5797b6d4397c542ef11bf708b69cf834a5c3f6fd74ee0795affc813a347770
+68630312c34962c8c08468ee,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,134,1,string 1,"You find an electric lock in an enemy base.
+You need the correct password to open it.","Sie finden ein elektrisches Schloss in einer feindlichen Basis.
+Sie benötigen das richtige Passwort, um es zu öffnen.",translate,translated,displayed-string,7f4d28ba0e8589a326847f55758733a658c3919529159a6a85167e52aead3a35
+ee559536fbb66d27336a5fe1,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,135,1,string 1,"You find a disused gym.
+This might be a good time to work out.","Sie finden ein stillgelegtes Fitness-Studio.
+Dies könnte eine gute Zeit sein, um zu trainieren.",translate,translated,displayed-string,6b86a5fa0c76f39615a8dbe47a49c5af17ecc36b11fbd203feb2699f6c31b934
+6018b9d9c33f946509e49d4a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,136,1,string 1,"You pick up a mask with an exotic design.
+You feel a strange force acting on you.
+It's urging you to put the mask on.","Du nimmst eine Maske mit einem exotischen Design auf.
+Du fühlst eine seltsame Kraft, die auf dich wirkt.
+Es drängt dich, die Maske aufzuziehen.",translate,translated,displayed-string,9bb618d89cf9b6c10c61530edab7a50a7bb85c3ba93835c6c1ad1fc4e0ab84ab
+f2cb7b55de5fc26860b7195c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,137,1,string 1,"You find an altar with an odd statue.
+Offerings have been placed before it.","Sie finden einen Altar mit einer ungeraden Statue.
+Angebote wurden davor platziert.",translate,translated,displayed-string,f50cbb99cf95e19b81b68f0ec14e095e11d5974cce3775a9cb8fb6eb3fede8c4
+762c32236735c6a21f28e14f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,138,1,string 1,"You see a formidable tornado brewing in the distance.
+It's getting closer and closer.","Sie sehen einen gewaltigen Tornado, der in der Ferne braut.
+Es kommt immer näher.",translate,translated,displayed-string,b73e3f47cdf27edecba45f19443a570781242cb648217d1ee5ca48385e1b260c
+777997a984a83fb26163700a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,139,1,string 1,"You look up and see a shooting star.
+If you make a wish now, it may come true!","Sie schauen auf und sehen einen Shooting Star.
+Wenn Sie sich jetzt etwas wünschen, kann es wahr werden!",translate,translated,displayed-string,31e4b4d8a9e8453bf7f52f851886aaa916b30a63ca5621ff4a4a8a34653f4db9
+b8752648dea6c09fdbf8eef8,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,140,1,string 1,"You hear the running water under some rocks.
+There may be a natural spring hidden here.
+Will you clear away the rocks?","Sie hören das fließende Wasser unter einigen Felsen.
+Es könnte eine natürliche Quelle versteckt sein.
+Willst du die Felsen wegräumen?",translate,translated,displayed-string,754dc74c1d8221574eb5d455060b34a050bb393324df69e60d88abe7e908934e
+fbc2dfd8d5fbdf8e17e0ea54,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,141,1,string 1,"You find an abandoned batting cage.
+Takemaru wants to hit some home runs with
+his Class Weapon. How will you bat?","Sie finden einen verlassenen Fledermauskäfig.
+Takemaru will einige Home Runs mit
+his Klasse Waffe treffen. Wie werden Sie schlagen?",translate,translated,displayed-string,b79f9e4edd72e59d7fd467e7254c09729aab27bdc33e11d961ffa4728da3d94b
+5e91d8b8f120f87472c53da7,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,142,1,string 1,"Takemaru finds some old motorcycle parts.
+He wants to use them to modify his own bike.
+What mods should he make?","Takemaru findet einige alte Motorradteile.
+Er will sie nutzen, um sein eigenes Fahrrad zu modifizieren.
+Welche Mods sollte er machen?",translate,translated,displayed-string,4097ab6b85363b7642f146c5e6f5d587c117c46a7e5bed2b5fe167dee9f6851f
+84f6789c159ab145efe000a9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,143,1,string 1,"You found pudding.
+Takemaru wants to use it in a recipe.
+What should he make?","Sie haben Pudding gefunden.
+Takemaru will es in einem Rezept verwenden.
+Was soll er machen?",translate,translated,displayed-string,a4c5c80e3145fb80a3c876a13059788504c5a44a292df01c8288f1891756c22d
+c9e047a911d97c6b151d8ad3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,144,1,string 1,"Hiruko disappeared while you're taking a break.
+She can probably handle herself, but...
+Will you go look for her anyway?","Hiruko verschwand, während Sie eine Pause machen.
+Sie kann wahrscheinlich selbst, aber...
+Werden Sie gehen suchen sie sowieso?",translate,translated,displayed-string,73a2d3fa70dcc5581316fe55f0a1c66df387e0e722e73857a6dfefd3c54315e7
+4e4549c6d7af33c18db887a5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,145,1,string 1,"You find a place that's swarming with invaders.
+They don't seem to have noticed you yet.
+Hiruko wants to spill their guts right now.","Sie finden einen Ort, der mit Invasoren wimmelt.
+Sie scheinen Sie noch nicht bemerkt zu haben.
+Hiruko will ihre Eingeweide jetzt verschütten.",translate,translated,displayed-string,f6f154fc0e682cadaba2dde00aed2d0aaf3ff32342a3ee767719056b1d74650c
+436b1d175fb25051611f0789,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,146,1,string 1,"You see something glimmering at the top of a tall tree.
+Is there any way to retrieve it?","Sie sehen etwas, das an der Spitze eines hohen Baumes glitzert.
+Gibt es eine Möglichkeit, ihn wiederzubekommen?",translate,translated,displayed-string,ad3804d9e7b6fedaee2c2cef047b4a0d852121157fccd5aca168487fa56b54e3
+a78e6d2435793b182c1c0459,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,147,1,string 1,"You see something shining under some rubble and needles.
+What could it be...?
+It's going to be hard to reach it without getting hurt.","Sie sehen etwas, das unter einigen Trümmern und Nadeln scheint.
+Was könnte es sein...?
+Es wird schwer sein, es zu erreichen, ohne verletzt zu werden.",translate,translated,displayed-string,e28b567df6bbb337010d18c8fd03a69f2a9c4c298990d18f2562746ce17f2806
+b25e9eec30b76e887dd0fb2f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,148,1,string 1,"Darumi picked up a revolver from somewhere.
+She wants to play a game (?) of Russian Roulette.","Darumi holte irgendwo einen Revolver auf.
+Sie will ein Spiel (?) des russischen Roulette spielen.",translate,translated,displayed-string,7bae76f8d3a2787fdfa186aa720a5a2faaa5ff191ebe129616194e30457cebb8
+a5173151b1697c69bbb1e857,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,149,1,string 1,"Darumi's feeling blue and unmotivated.
+Find a good way to cheer her up.","Darumi fühlt sich blau und unmotiviert.
+Finde einen guten Weg, sie aufzuheitern.",translate,translated,displayed-string,18bd643261d72fe423ef89f593158237773ade35c7982bd03f03f2500a107c51
+8b0921590044aeb096a3ac2b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,150,1,string 1,"You find what looks like a pine mushroom.
+It just so happens you're feeling hungry.
+Is it okay to eat this?","Sie finden, was aussieht wie ein Kiefernpilz.
+Es passiert einfach, dass Sie Hunger haben.
+Ist es in Ordnung, dies zu essen?",translate,translated,displayed-string,2edcb56bacba18f31f0b6ad74a0848655e7d3747ea6e9f3082610f65ce90a86f
+042e3f3c70bdcda929e73128,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,151,1,string 1,"You find an abandoned video game arcade.
+You can win prizes by getting a high score.
+Find a game you can play co-op with Eito.","Sie finden eine verlassene Videospiel-Arkade.
+Sie können Preise gewinnen, indem Sie eine hohe Punktzahl erhalten.
+Find a game you can play co-op with Eito.",translate,translated,displayed-string,75a739c706d01cdfe00e8f067277278283853a9799524d1d9d4112c0141f8fe3
+21adb27e8117b7240ab0dc73,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,152,1,string 1,"You find a vacant bookstore.
+You can't read this language, but Eito should be able to decipher it.
+Which book will you show him?","Sie finden einen leeren Buchladen.
+Sie können diese Sprache nicht lesen, aber Eito sollte sie entziffern können.
+Welches Buch zeigen Sie ihm?",translate,translated,displayed-string,9e144dabc1d38e750a5eb5a30cd7325b18e14b4655ae8c18dbba04c8a8fb8c77
+8bd8e1409c322a22896dc7c2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,153,1,string 1,"You find a large excavator.
+Tsubasa should be able to use it.
+This could be a good way to get some materials.","Sie finden einen großen Bagger.
+Tsubasa sollte in der Lage sein, es zu benutzen.
+Dies könnte eine gute Möglichkeit sein, einige Materialien zu erhalten.",translate,translated,displayed-string,b437899463a07ad2d099da0929299dd2e11a6d77a233f7df40e4dcb6e1107ea6
+7f790b0090c82c54cb6430b9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,154,1,string 1,"You find what seems to be a vacant gas station.
+There's also an abandoned car here.","Sie finden, was eine leerstehende Tankstelle zu sein scheint.
+Es gibt auch ein verlassenes Auto hier.",translate,translated,displayed-string,41e8b6738995240992daaa38519fd1f889e9529ef4627bc06047246275a3ddf9
+48a9d7e3869c2e0983293728,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,155,1,string 1,"You find an abandoned factory.
+There's lots of junk lying around.
+What will you ask Tsubasa to fix?","Sie finden eine verlassene Fabrik.
+Es gibt viele Schrott herumliegen.
+Was werden Sie Tsubasa bitten, zu beheben?",translate,translated,displayed-string,73d0e1f50138f6882ef5475eab0a41e4887d2ddd78de557c99e99d2d7388827f
+c56eb4fe87485a410670eb20,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,156,1,string 1,"You find what looks like a fast food restaurant.
+Gaku's worked in places like this before.
+He might be able to whip up something.","Sie finden, was aussieht wie ein Fast-Food-Restaurant.
+Gaku hat an Orten wie diesem früher gearbeitet.
+Er könnte in der Lage sein, etwas zu peitschen.",translate,translated,displayed-string,fa509d7494e34b116d422fbe502f95732713c7b3ed91cbd1b781f04d007f0ed4
+748a82abb4e35246e9d9daad,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,157,1,string 1,"Gaku finds something glittering in the river.
+He insists it's gold dust, but...is it really?","Gaku findet etwas Glitzerndes im Fluss.
+Er besteht darauf, dass es Goldstaub ist, aber...ist es wirklich?",translate,translated,displayed-string,b07ee7736211572e6ccb1ea46f1dfd9aead3bb91afcf461c23babb37c19179bf
+59d57ad4b28592bb1a342ec3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,158,1,string 1,"You find a sandy beach. Gaku runs off,
+shouting something about seeing swimsuit-clad babes.","Sie finden einen Sandstrand. Gaku läuft ab,
+shouting etwas über sehen Badeanzug-gekleideten Babes.",translate,translated,displayed-string,505e9bac150cd3d3794682d6f41d1a4a14c0d8b7dacbcdaa06ade0eb85357f9b
+e210ae969d2988d8d4cc036f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,159,1,string 1,"Ima forages for some food.
+They all look quite unique, but he insists they're edible.
+Which will you try?","Ima Futter für einige Lebensmittel.
+Sie alle sehen ziemlich einzigartig, aber er besteht darauf, dass sie essbar sind.
+Welche werden Sie versuchen?",translate,translated,displayed-string,01ee7222c021e726915189c4a2006d5821a53a54c709ee1c4379b4c1a6c8013f
+d26a5d8db67b90d7764c3d2f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,160,1,string 1,"You see a large flag planted on top of a broadcasting tower.
+It seems like it would be useful crafting material.","Sie sehen eine große Flagge auf einem Sendeturm gepflanzt.
+Es scheint, als wäre es nützliches Bastelmaterial.",translate,translated,displayed-string,914cb06c7e96ecb1b197d73b52eec454988dfc94aaf61ccef88caf2a88ce3f6d
+7a827f361dcdc748bf95200b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,161,1,string 1,"You find some rice balls in an abandoned convenience store.
+Ima thinks they're too plain.
+How will you spice them up?","Sie finden einige Reiskugeln in einem verlassenen Convenience Store.
+Ima denkt, sie sind zu einfach.
+Wie werden Sie sie gewürzen?",translate,translated,displayed-string,14b54fd3161ee14e460699011c01ee68f0b98ca25a37a96149146cabcb3b535f
+d8d259ffbcc814d69a3e67f2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,162,1,string 1,"You see an unidentified flying object.
+Kako says it's called a black triangle.
+She might be able to communicate with it...","Sie sehen ein nicht identifiziertes fliegendes Objekt.
+Kako sagt, dass es ein schwarzes Dreieck genannt wird.
+Sie könnte in der Lage sein, damit zu kommunizieren...",translate,translated,displayed-string,668e21118e86b0fd2185f63e3925f5b116b985a4d78809273a343998dfa3923c
+609257b7e26a8ec55cdb9731,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,163,1,string 1,"Your stuff is stolen while you're resting.
+Aspiring detective Kako offers to investigate.
+Find a clue for her.","Ihre Sachen werden gestohlen, während Sie sich ausruhen.
+Aspiring Detektiv Kako bietet zu untersuchen.
+Finde einen Hinweis für sie.",translate,translated,displayed-string,9e529849671e94e439c68e006e51c51be8170d1ef0f450dfc1da2db893c6f5f7
+379b8288a4beb5e01ba6e538,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,164,1,string 1,"Kako has a vision while resting at a nearby ruin.
+She says something bad will happen here.","Kako hat eine Vision, während er sich in einer nahegelegenen Ruine ausruht.
+Sie sagt, dass hier etwas Schlimmes passieren wird.",translate,translated,displayed-string,e0632deeabdbb291c2f2017015a4f5302cc43b53739549dd06ce9c55609b2c50
+69e4d6416924834b7d86bc9c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,165,1,string 1,"Shouma's fallen into a hole.
+He tells you to go on without him.
+What will you do?","Shouma ist in ein Loch gefallen.
+Er sagt Ihnen, ohne ihn weiterzumachen.
+Was werden Sie tun?",translate,translated,displayed-string,df9f92ccb9a63478f7d5700f80ce165bf572ce62ca7375c6005cf6a760e53de6
+00b5a1bb59aa5d5b690586d3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,166,1,string 1,"You find the footprints of a small animal.
+Shouma insists on finding and securing it.
+What will you do?","Sie finden die Fußabdrücke eines kleinen Tieres.
+Shouma besteht darauf, es zu finden und zu sichern.
+Was werden Sie tun?",translate,translated,displayed-string,6afb818bf0ab2e94a1849489b690253d85e6b4e2c65242845b115c3134c43734
+52cfa152b8d77c62c0b74f2e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,167,1,string 1,"You come across an obviously booby-trapped passageway.
+There might be valuable resources inside.
+Will you take a chance?","Sie kommen über einen offensichtlich boby-trapped Durchgang.
+Es könnte wertvolle Ressourcen in.
+Will Sie eine Chance?",translate,translated,displayed-string,002e2dfc568a305f2b2673ed997bb7f8d394e0799d749cc1f4ec72523ee40ee2
+844d27a38e3bdac1873726ac,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,168,1,string 1,"You're moving slower than usual.
+There might be something wrong with you.","Sie bewegen sich langsamer als sonst.
+Es könnte etwas mit Ihnen nicht stimmt.",translate,translated,displayed-string,99e9ccd181562d709cbbcf851fdea97488d2aa24b15540ab4fbdc57a3dc5f066
+9b80867aec50412de1b36adb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,169,1,string 1,"You find an abandoned research lab.
+There's plenty of bottled chemicals still inside.
+Nozomi can probably mix them into usable medicine.","Sie finden ein verlassenes Forschungslabor.
+Es gibt noch viele in Flaschen abgefüllte Chemikalien im Inneren.
+Nozomi kann sie wahrscheinlich zu einer brauchbaren Medizin mischen.",translate,translated,displayed-string,8bffc2af657d0b9a2df46f0dedc7becb1bd588a56822d69ed6470639a9588e4b
+7f5cbfcc3feaa9a562c855c7,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,170,1,string 1,"Everyone looks exhausted.
+Nozomi suggests taking a break.
+She's also prepared some rations to perk everyone up.","Alle sehen erschöpft aus.
+Nozomi schlägt vor, eine Pause zu machen.
+Sie hat auch einige Rationen vorbereitet, um alle zu versauen.",translate,translated,displayed-string,e982e3657179ea09f425db63e14515e7a4c77b2671b3313ca4b2b0d147589516
+6a58cec876ae02a6cb7c6e15,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,171,1,string 1,"You find an empty curry restaurant.
+Kurara is excited to try out spices she's never seen before.
+Rest here and make some curry?","Sie finden ein leeres Curry-Restaurant.
+Kurara freut sich, Gewürze auszuprobieren, die sie noch nie zuvor gesehen hat.
+Rest hier und macht Curry?",translate,translated,displayed-string,a86bdb78513c27bda93118ca379d5e1f9667f8e08c06abe0e096f54b8cbce7d4
+6e8e69300bb0daa8fc94e875,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,172,1,string 1,"A sudden gust of wind blows Kurara's mask away.
+Her confidence fails her and she falls to the ground.
+You have to do something...","Ein plötzlicher Windstoß bläst Kuraras Maske weg.
+Ihr Vertrauen versagt sie und sie fällt auf den Boden.
+Sie müssen etwas tun...",translate,translated,displayed-string,dbe9701f00adf2de181389cd1d9c084ccf1a58903304efd830c67206fa526a72
+cb2e87b6ea6eb843846841a8,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,173,1,string 1,"You find an armory in an empty enemy base.
+Kurara wants to dismantle some of the weapons for parts.
+What will you do?","Sie finden eine Waffenkammer in einer leeren feindlichen Basis.
+Kurara will einige der Waffen für Teile demontieren.
+Was werden Sie tun?",translate,translated,displayed-string,879cb9639aa59871149d44b6cfb86cf36cd94713f879837785cf2d6604308f96
+162467a4fcb444bff3a0e44f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,174,1,string 1,"Kyoshika is training with her sword.
+One day, she'll be the finest swordswoman in history...
+What technique is she trying to learn now?","Kyoshika trainiert mit ihrem Schwert.
+Eines Tages wird sie die beste Schwertkämpferin der Geschichte sein...
+Welche Technik versucht sie jetzt zu lernen?",translate,translated,displayed-string,64e30896eaacd0322fa7b40f6705b70eb135cda8a469ae7f0c5056f38c334dfd
+030b37d78b671fd742962a76,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,175,1,string 1,"You see a shadowy figure while
+exploring a creepy old mansion.
+Kyoshika is afraid it may be a ghost.
+What will you say to calm her down?","Sie sehen eine Schattenfigur, während
+exploring ein gruseliges altes Herrenhaus.
+Kyoshika hat Angst, es könnte ein Geist sein.
+Was werden Sie sagen, um sie zu beruhigen?",translate,translated,displayed-string,a606ee1fbe2f6a4c046e2d55943409c1c093a9829224c99f4999f5c05edf4009
+d6f1a9ae87dde6d693281111,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,176,1,string 1,"Kyoshika's gone missing.
+The Holy Jumonji Sword is still here, though.
+What could have happened to her?","Kyoshika ist verschwunden.
+Das Heilige Jumonji-Schwert ist trotzdem noch da.
+Was hätte ihr passieren können?",translate,translated,displayed-string,da6131138a49c9c2afb383e55fde0c71087f5d834f18ad3358c0cfbba84bffc6
+0cad3659a83ab54d41fdc178,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,177,1,string 1,"Yugamu wants to give you a massage.
+What will you do?","Yugamu möchte Ihnen eine Massage geben.
+Was werden Sie tun?",translate,translated,displayed-string,a22a7e82ef890ed65cbd325a7d176690f84bcf41601a7830673697ca171c6667
+4cc6c5cb20b44803dc83e5af,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,178,1,string 1,"You find an abandoned enemy research lab.
+There are creatures preserved in formaldehyde here.
+Yugamu's dying to dissect them.","Sie finden ein verlassenes feindliches Forschungslabor.
+Hier sind Kreaturen in Formaldehyd erhalten.
+Yugamu stirbt, um sie zu sezieren.",translate,translated,displayed-string,8e52257188c01003cbc885f7bbbb5668c923bd6caa1c0a0f384741a088125a1c
+dd5ddce661c1dd7e16846109,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,179,1,string 1,"You catch an invader that's been isolated from its squad.
+What now?","Sie fangen einen Eindringling, der von seinem Kader isoliert wurde.
+Was jetzt?",translate,translated,displayed-string,b1cbc349cf7ebe863e2d98a7e2e34537d44dd71a32162abeec70c03317061d10
+95a13739b34a26c83914a3fe,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,180,1,string 1,"During an exploration, you ask Moko how you can get
+stronger. She shares a few of her favorite methods.
+Which one will you try?","Während einer Exploration fragen Sie Moko, wie Sie 
+stronger bekommen können.Sie teilt einige ihrer Lieblingsmethoden.
+Welches werden Sie versuchen?",translate,translated,displayed-string,335e72d9455f667a4e70342dcc9a39bfd9206357e394d9038a2182d8c35284e8
+8683964d80dfc69339812982,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,181,1,string 1,"It's time to get back on the road after a break.
+Moko's fallen into a deep sleep.
+What will you do?","Es ist Zeit, nach einer Pause wieder auf die Straße zu gehen.
+Moko ist in einen tiefen Schlaf gefallen.
+Was wirst du tun?",translate,translated,displayed-string,15f0d33c460f47fba6bc511102024b11f03643e7801d05311876961742d0b076
+77a15bb5b122200980b39332,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,182,1,string 1,"A medium-sized invader is blocking the way.
+Moko wants to fight it in a 1-on-1 deathmatch.","Ein mittelgroßer Eindringling blockiert den Weg.
+Moko will ihn in einem 1-on-1-Deathmatch bekämpfen.",translate,translated,displayed-string,cefb5dc13485f73fda0dca1fccf892a7d63e1850f1b4453337fc5d1e27884670
+f9b1286476fc7ec291376a19,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,183,1,string 1,"Eva wants you to give her additional orders.
+She says this will help her be more efficient.
+What will you tell her?","Eva möchte, dass du ihr weitere Befehle gibst.
+Sie sagt, dass dies ihr helfen wird, effizienter zu sein.
+Was wirst du ihr sagen?",translate,translated,displayed-string,24845371b35a4caad23813a51e52a7b19cb9eae8f2310e00137f0f9c32a45146
+d4794cf162d2657ec88b279f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,184,1,string 1,"Eva complains of an intense headache.
+Her brainwashing may be coming undone.
+What now?","Eva beschwert sich über starke Kopfschmerzen.
+Ihre Gehirnwäsche könnte rückgängig gemacht werden.
+Was jetzt?",translate,translated,displayed-string,b6930aa6c3aadf53cf81793db25bdfe9ee109f872af339cda95d8fae192a2113
+252af67e99ffd61d2e93b778,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/sugoroku_event_name.mbe/000_sugoroku_event_name.csv,185,1,string 1,"You find a vacant enemy base.
+Eva has a vague recollection of this place.
+It might be more efficient to let her take charge.
+","Sie finden eine freie feindliche Basis.
+Eva hat eine vage Erinnerung an diesen Ort.
+Es könnte effizienter sein, sie übernehmen zu lassen.
+",translate,translated,displayed-string,88de818d339e7074c69060a2421a2507504cb771cbd78d91830fae817ab87b30

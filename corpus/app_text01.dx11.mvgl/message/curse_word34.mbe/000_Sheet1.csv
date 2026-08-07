@@ -1,0 +1,3 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+5e58b189c1164ae328f1e2a0,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word34.mbe/000_Sheet1.csv,1,2,string 2,Let me die...,Lasst mich sterben...,translate,translated,displayed-string,d221b98c73ada923a75a136659545ff7af042368fcf0e05bfddb195d3163da57
+4249711e7ee069936807aa62,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word34.mbe/000_Sheet1.csv,1,4,string 4,Let me die...,Lasst mich sterben...,translate,translated,displayed-string,d221b98c73ada923a75a136659545ff7af042368fcf0e05bfddb195d3163da57

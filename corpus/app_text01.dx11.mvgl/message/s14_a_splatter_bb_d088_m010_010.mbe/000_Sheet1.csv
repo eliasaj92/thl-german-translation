@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+29c411231b175a11c555451f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s14_a_splatter_bb_d088_m010_010.mbe/000_Sheet1.csv,1,2,string 2,Day 88,Tag 88,translate,translated,displayed-string,e2fb01dd95e93a4bb3f754e1bbf9109d26587e49e791e62e99a98e6da2d7defe
+8b3868250c01c28207c5ff78,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s14_a_splatter_bb_d088_m010_010.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+5b78f404f137152fe38580e3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s14_a_splatter_bb_d088_m010_010.mbe/000_Sheet1.csv,1,4,string 4,Day 88,Tag 88,translate,translated,displayed-string,e2fb01dd95e93a4bb3f754e1bbf9109d26587e49e791e62e99a98e6da2d7defe

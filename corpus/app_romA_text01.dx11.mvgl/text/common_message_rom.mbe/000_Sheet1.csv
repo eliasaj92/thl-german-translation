@@ -1,0 +1,2 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+817716ad1840e07459a3ebcb,app_romA_text01.dx11.mvgl,app_romA_text04.dx11.mvgl,text/common_message_rom.mbe/000_Sheet1.csv,1,1,string 1,"©Aniplex, TooKyo Games","© Aniplex, TooKyo Games",translate,translated,displayed-string,0454bdd4c376050a9ca8779af4c2ddcabba2dd59c44e050fd4a700fc16619f6c

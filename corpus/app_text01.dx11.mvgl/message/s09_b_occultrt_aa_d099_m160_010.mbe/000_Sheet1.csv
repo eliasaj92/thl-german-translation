@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+1f6648e5f770961553aa320e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_b_occultrt_aa_d099_m160_010.mbe/000_Sheet1.csv,1,2,string 2,Coming in hot...!,Ich komme in heißem...!,translate,translated,displayed-string,2f7176b4f4915724c8a92beb2ed8f80f1bc949d20f3745312036f3c4119d5bc7
+cb5066b50e9dc8d84f535107,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_b_occultrt_aa_d099_m160_010.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+58ac94fc1a525b477669f5a3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_b_occultrt_aa_d099_m160_010.mbe/000_Sheet1.csv,1,4,string 4,Coming in hot...!,Ich komme in heißem...!,translate,translated,displayed-string,2f7176b4f4915724c8a92beb2ed8f80f1bc949d20f3745312036f3c4119d5bc7

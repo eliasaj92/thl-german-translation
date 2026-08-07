@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+be9bd1cc75968e8cdffd1881,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_a_boukenrt_bb_d073_m010_040.mbe/000_Sheet1.csv,1,2,string 2,Shall we?,Wollen wir?,translate,translated,displayed-string,0098db07e35e5e3d492124f564d67c49c5437d4ab661723c7cdfe01c7e058b10
+479319db522a22ffc1cde361,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_a_boukenrt_bb_d073_m010_040.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+5b532dd12c57630aa71ffe5a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s09_a_boukenrt_bb_d073_m010_040.mbe/000_Sheet1.csv,1,4,string 4,Shall we?,Wollen wir?,translate,translated,displayed-string,0098db07e35e5e3d492124f564d67c49c5437d4ab661723c7cdfe01c7e058b10

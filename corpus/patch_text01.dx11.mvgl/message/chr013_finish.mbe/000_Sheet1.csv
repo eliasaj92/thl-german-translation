@@ -1,0 +1,5 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+588d416e32d65653f824602a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/chr013_finish.mbe/000_Sheet1.csv,1,2,string 2,　,　,protected,protected,empty,4d76d53623bce61648f75eea1d3190e13bad4be01ffe064659b445e443fb1db4
+60d50212e22f035d7092cf8b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/chr013_finish.mbe/000_Sheet1.csv,1,4,string 4,　,　,protected,protected,empty,4d76d53623bce61648f75eea1d3190e13bad4be01ffe064659b445e443fb1db4
+5bb67c53b9c63a19c790b2b4,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/chr013_finish.mbe/000_Sheet1.csv,2,2,string 2,　,　,protected,protected,empty,4d76d53623bce61648f75eea1d3190e13bad4be01ffe064659b445e443fb1db4
+0b5f41c384136d0537c8e018,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/chr013_finish.mbe/000_Sheet1.csv,2,4,string 4,　,　,protected,protected,empty,4d76d53623bce61648f75eea1d3190e13bad4be01ffe064659b445e443fb1db4

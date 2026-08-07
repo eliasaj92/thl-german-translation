@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+9b122b0501e43b727c635c17,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s00_0_2ndtruer_00_d057_m080_010.mbe/000_Sheet1.csv,1,2,string 2,U-Urgh...!,Kehrtwende...!,translate,translated,displayed-string,a76326f528cc81d0d25eeff0552008dbe530f49471d24a6c8948e5fc2cf38d09
+2d6502e8895566318af2b6f0,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s00_0_2ndtruer_00_d057_m080_010.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+8a24fcec6411c7d4ccb99229,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s00_0_2ndtruer_00_d057_m080_010.mbe/000_Sheet1.csv,1,4,string 4,U-Urgh...!,Kehrtwende...!,translate,translated,displayed-string,a76326f528cc81d0d25eeff0552008dbe530f49471d24a6c8948e5fc2cf38d09

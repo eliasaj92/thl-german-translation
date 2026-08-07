@@ -1,0 +1,6 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+97ebdecdf4756a11dc9f0586,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/free_part_finish.mbe/000_Sheet1.csv,1,2,string 2,"{fc(1dff3d)Rest in bed?
+(Time will pass.)}","{fc(1dff3d)Rest in bed?
+(Time will pass.)}",protected,protected,markup-only,953ca91785109c9dcde68c6631da0ac1a37a471e41b219632102fdd6707d908a
+35784363cc63d4da90d12f68,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/free_part_finish.mbe/000_Sheet1.csv,2,2,string 2,Yes {is60}{image(ui_icon_f_choice)},Yes {is60}{image(ui_icon_f_choice)},review,pending,ambiguous-single-token,a2bc43d2c787c5d24400b48be5e4106ab3bb0d0adef59e085ab4d1801e628f70
+a3649d99804e07ac99f14f03,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/free_part_finish.mbe/000_Sheet1.csv,3,2,string 2,No,No,review,pending,ambiguous-single-token,1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d

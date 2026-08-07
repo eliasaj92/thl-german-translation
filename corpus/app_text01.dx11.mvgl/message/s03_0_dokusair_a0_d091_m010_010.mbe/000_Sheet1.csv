@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+2113d58c9dbaff65ec490652,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s03_0_dokusair_a0_d091_m010_010.mbe/000_Sheet1.csv,1,2,string 2,Day 91,Tag 91,translate,translated,displayed-string,6dc27ea40d36aab28d68100a8e9969e8f8b600029cdb613e8899e26706e273fc
+5f96e62e071b8078e1a6a8f0,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s03_0_dokusair_a0_d091_m010_010.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+00823150d6b99f7f5a921b67,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s03_0_dokusair_a0_d091_m010_010.mbe/000_Sheet1.csv,1,4,string 4,Day 91,Tag 91,translate,translated,displayed-string,6dc27ea40d36aab28d68100a8e9969e8f8b600029cdb613e8899e26706e273fc

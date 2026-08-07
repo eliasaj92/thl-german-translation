@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+1c7e56104feedeac32d6023d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr010sho_30_01.mbe/000_Sheet1.csv,1,2,string 2,What is the right thing to do...?,Was ist das Richtige zu tun...?,translate,translated,displayed-string,b339029be05037b31952fb2d6b18d1e14bd62e94f4fe27e78ce64b75d98f49d9
+4fd2abce1b5cb082ac5856bd,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr010sho_30_01.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+02b77e5e6bec9c918a17a26a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr010sho_30_01.mbe/000_Sheet1.csv,1,4,string 4,What is the right thing to do...?,Was ist das Richtige zu tun...?,translate,translated,displayed-string,b339029be05037b31952fb2d6b18d1e14bd62e94f4fe27e78ce64b75d98f49d9

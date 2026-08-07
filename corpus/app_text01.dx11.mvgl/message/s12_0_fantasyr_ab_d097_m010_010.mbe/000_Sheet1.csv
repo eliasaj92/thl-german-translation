@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+406f60f7910c9b7ad64a7fd1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s12_0_fantasyr_ab_d097_m010_010.mbe/000_Sheet1.csv,1,2,string 2,Day 97,Tag 97,translate,translated,displayed-string,0b050dd511c2da5003911e36b0d5867a3087e5919fda8bf9ba95d928e78f26ea
+df8ba0d801b1fc05509249cd,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s12_0_fantasyr_ab_d097_m010_010.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+7761fefd1388b673a4784117,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s12_0_fantasyr_ab_d097_m010_010.mbe/000_Sheet1.csv,1,4,string 4,Day 97,Tag 97,translate,translated,displayed-string,0b050dd511c2da5003911e36b0d5867a3087e5919fda8bf9ba95d928e78f26ea

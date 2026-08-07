@@ -1,0 +1,19 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+19d4b50e034146bbfa122aa2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/on_check_manual.mbe/000_Sheet1.csv,1,2,string 2,"A {fc(ff635b)Resource Map} showing different areas outside school
+grounds and the materials that can be found in them.","Ein {fc(ff635b)Ressourcenkarte} zeigt verschiedene Bereiche außerhalb der Schule
+grounds und die Materialien, die in ihnen zu finden sind.",translate,translated,displayed-string:fc-repair,0852c211dd6406fb63b45eedb40412bde17a299dd72e88d023aaa68a07861ed9
+5cc955b280764788a79cd07c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/on_check_manual.mbe/000_Sheet1.csv,2,2,string 2,"School Front: {fc(ff635b)All} types of materials can be found
+here, but are of lower quality than in other areas.","Schulfront: {fc(ff635b)Insgesamt} Arten von Materialien können gefunden werden
+hier, sind aber von geringerer Qualität als in anderen Bereichen.",translate,translated,displayed-string:fc-repair,57988bd9d920f2ce59ab3caf6d4ae5518d42033a264e6ea979b8bc637b9fe647
+9562eb33d1d0ca94b4ea59c8,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/on_check_manual.mbe/000_Sheet1.csv,3,2,string 2,"Desert: {fc(ff635b)Machine} materials can be found here.
+Forest: {fc(ff635b)Plant} materials can be found here.","Wüste: {fc(ff635b)Maschine} Materialien finden Sie hier.
+Forest: {fc(ff635b)Anlage} Materialien finden Sie hier.",translate,translated,displayed-string:fc-repair,49a52b28d1788e47484a44b0191741df7f04ca8ecbf7f6faed4f093023272356
+2179492c00f85bbcb3ac15eb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/on_check_manual.mbe/000_Sheet1.csv,4,2,string 2,"Underground: {fc(ff635b)Mineral} materials can be found here.
+Coast: {fc(ff635b)Textile} materials can be found here.","Unterirdisch: {fc(ff635b)Mineralisch} Materialien finden Sie hier.
+Küsten: {fc(ff635b)Textil} Materialien finden Sie hier.",translate,translated,displayed-string:fc-repair,1487e827e802e1afdd94b8ea7c3444a94bf0724f43171696244667071388abb7
+9507c53dac8ddb28d1a4a2c2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/on_check_manual.mbe/000_Sheet1.csv,5,2,string 2,"It contains tips for {fc(ff635b)exploring} outside the school, but
+I don't have time to look at it right now.","Es enthält Tipps für {fc(ff635b)Erforschen} außerhalb der Schule, aber
+I haben keine Zeit, sie sich jetzt anzusehen.",translate,translated,displayed-string:fc-repair,3d7a68bdd05168fb4b5b95c1ce41866bd1960a85961dc0f9c2bd372f8b1481c2
+896ba3b15f6732f51dfcec64,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,message/on_check_manual.mbe/000_Sheet1.csv,6,2,string 2,"It's some kind of reference material. I don't think
+I need to look at this right now.","Es ist eine Art Referenzmaterial. Ich glaube nicht, dass 
+I sich das jetzt ansehen muss.",translate,translated,displayed-string,a8f5b40ea873920c63a4e1a1ab14edd3a79f3df6da81fd471c50dc7f438a9678

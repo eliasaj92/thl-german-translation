@@ -1,0 +1,241 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+3bea062032b5009f6451ce0b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,1,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+feb2cd9aa69d6c9f76a05471,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,2,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+01ed8fca7a82ebc8c2832ed2,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,3,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+0ea20281674d9c2cd4d75f1e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,4,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+ab021ce0af9c472728419356,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,5,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+a7c6181dc273822603115e24,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,6,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+a30435cdf8935810774562ce,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,7,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+769712eb00fab88e412b0332,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,8,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+60fb95ddb42bc331d34b151b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,9,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+e0667efb196baa916d686483,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,10,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+d7c4bb356b503ab450f79dd1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,11,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+554a2f8756d3a25311130631,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,12,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+003b370df032e6dd61a80a35,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,13,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+0dc12548e71fb6c067f4357b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,14,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+4e7c260b161ad953b85bb9b1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,15,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+0a59f9b10d57f44ce6f2326f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,16,1,string 1,"Allows use of Intercept in battle.
+Intercept: Attack all enemies in range at start of player turn.
+5 Spaces (Cross-Shape), Attack 1","Ermöglicht den Einsatz von Intercept in der Schlacht.
+Intercept: Attack alle Feinde in Reichweite zu Beginn des Spielerwechsels.
+5 Leerzeichen (Kreuz-Form), Attacke 1",translate,translated,displayed-string,ba38e09bfd7c4a1b1e7c52dbbcef10a482c9f301caa9f53c3e28d36e75032c36
+3816b70b02385c82e07717d5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,17,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+b6f2dea0b219e5ca6032403d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,18,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+26f201413d7461fd3953eed3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,19,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+8ac79433832a1796d53067d0,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,20,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+20e3bb341b23e75273094852,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,21,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+4e3516cc596bf48c0f8993de,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,22,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+004b5ce189e1c8117ee9417d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,23,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+6afc3c6c09941741fabac54d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,24,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+91011d9023a6de4ee0648d7b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,25,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+794462963b131c3ec86633b4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,26,1,string 1,"Allows use of Intercept in battle.
+Intercept: Attack all enemies in range at start of player turn.
+6 Spaces (Straight Line), Attack 1","Ermöglicht die Verwendung von Intercept im Kampf.
+Intercept: Attack alle Feinde in Reichweite zu Beginn des Spielerzugs.
+6 Spaces (Straight Line), Attack 1",translate,translated,displayed-string,4e9a7f11f08d4da2667daa90d978a7b95ccfe71f0feb60ea14347f1c10c0b0f6
+0f05ab8e7453255da0c03c73,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,27,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+87fc71d2bb0a689ca1fd3b4a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,28,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+1d700b0dccd410624c86cf95,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,29,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+105a6ba78bd7d4f3c96ebcac,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,30,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+5c381c7c0ceedac8c74c54d3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,31,1,string 1,"Allows use of Intercept in battle.
+Intercept: Attack all enemies in range at start of player turn.
+5 Spaces (Straight Line), Attack 1","Ermöglicht die Verwendung von Intercept im Kampf.
+Intercept: Attack alle Feinde in Reichweite zu Beginn des Spielerzugs.
+5 Spaces (Straight Line), Attack 1",translate,translated,displayed-string,f78edf80ab850ba7d2ad402396e6718cde0769bf0fe10818b862763cf62f8115
+4a0f46d1712f8b39a67d98b3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,32,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+3844b35da4e7a8acf7489c34,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,33,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+dc2e07f214d20b4c754be605,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,34,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+b4d9f832cc59e8b14b5d130e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,35,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+a2cb4e0ba5ca6ac61378a5d6,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,36,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+e6a1c6af2b183012b434831e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,37,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+987ea445fff1096c9313f7c3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,38,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+20e1cc7cdc3e00786edc1e14,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,39,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+73755170d6fc76e0ebaf6ecc,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,40,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+7340dc053490aade633179ff,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,41,1,string 1,"Allows use of Intercept in battle.
+Intercept: Attack all enemies in range at start of player turn.
+1 Space, Attack 1","Ermöglicht die Verwendung von Intercept in der Schlacht.
+Intercept: Attack alle Feinde in Reichweite zu Beginn des Spielerdrehs.
+1 Space, Attack 1",translate,translated,displayed-string,7e8f9e5b9e09cf3a3a9fecedb9d3e2eb5883116bec646b7de39aae2041c3bbdd
+f352a120a6f014ffe3e08c39,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,42,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+e13f2ed82422f07161d4deae,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,43,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+c1a5f0c117a8105fed9e2094,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,44,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+5a0ec759aeba37a7a0062040,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,45,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+3f799a96cc769077bef5706b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,46,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+2 Spaces (Front), Attack 1","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+2 Spaces (Front), Attack 1",translate,translated,displayed-string,452543cac2a3cadd9436d4d83fc44cbe6c085077ed7332ffc3eec75509d9fb98
+04148012cba4c9d991a5277c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,47,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+6425ae76ac8a671fc22eeae2,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,48,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+b71ef8b8579ef5bbdc8b112f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,49,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+99634891c78b27766fcb7d6c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,50,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+999086c90b67d3ffbd595d7a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,51,1,string 1,"Allows use of Intercept in battle.
+Intercept: Attack all enemies in range at start of player turn.
+5 Spaces (Cross-Shape), Attack 1","Ermöglicht den Einsatz von Intercept in der Schlacht.
+Intercept: Attack alle Feinde in Reichweite zu Beginn des Spielerwechsels.
+5 Leerzeichen (Kreuz-Form), Attacke 1",translate,translated,displayed-string,ba38e09bfd7c4a1b1e7c52dbbcef10a482c9f301caa9f53c3e28d36e75032c36
+3e0d416f1a7d2011305cd708,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,52,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+a9f43ee3ac6457f4a2cfdc34,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,53,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+1418bb6dadcd669c789132b1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,54,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+bee1cabaa1271ce0c77c90d5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,55,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+7aa9f72950481e700d9f02f0,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,56,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+5f8f47935a31cc7eb3e1d6fe,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,57,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+f401388a9b04e3ab6ca03617,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,58,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+e524aedd02ee93be55a64e7d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,59,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+f464f645ddea824ce4d4dda4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,60,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+a81b7dbae889589409efdf57,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,61,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+108baf49351bdc9468be790b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,62,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+4e54805c88fa7555ed54f0eb,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,63,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+8a5b9457c04db9dc84b0ecaf,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,64,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+bd78810694c32065a1b0de8d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,65,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+00eddabf734f868337f0b89f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,66,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+05fd18f2c50ba3c622729140,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,67,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+4e3d62d92d85650d30d93543,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,68,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+c6a364e17b11b826cb1fae89,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,69,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+51ae01754a8af22fb67fc2e4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,70,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+cd629cec95ea1cb4a94fa508,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,71,1,string 1,"Allows use of Counter in battle.
+Counter: Launch a counterattack when hit by an enemy.
+1 Space, Attack 2","Ermöglicht die Verwendung von Counter in der Schlacht.
+Counter: Starten Sie einen Gegenangriff, wenn ein Feind getroffen.
+1 Space, Attack 2",translate,translated,displayed-string,ffe8b9d8d43d64e46bae55f2704ae49ff671567efd38461c6df6685affc53b89
+f40ec94399c9f2ecf48541af,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,72,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+07ed59bd5a815c013a192d20,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,73,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+d18bd0b9213b1e3b3e2cae82,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,74,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+2cdc817752b5564f26df94b7,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,75,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984
+98b3a427537f03be9b78c22f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,76,1,string 1,"Allows use of Intercept in battle.
+Intercept: Attack all enemies in range at start of player turn.
+5 Spaces (Straight Line), Attack 1","Ermöglicht die Verwendung von Intercept im Kampf.
+Intercept: Attack alle Feinde in Reichweite zu Beginn des Spielerzugs.
+5 Spaces (Straight Line), Attack 1",translate,translated,displayed-string,f78edf80ab850ba7d2ad402396e6718cde0769bf0fe10818b862763cf62f8115
+02688983fb2a3834ebcdfce5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,77,1,string 1,"Allies acting with 1 AP in battle have a 50% chance of gaining Support status.
+
+Support: Attack +2, Voltage Gain x2","Alliierte, die mit 1 AP im Kampf agieren, haben eine 50% canze, um den Support-Status zu erlangen.
+
+Unterstützung: Attacke +2, Spannungszunahme x2",translate,translated,displayed-string,6cdb7bbb79b0517f8406b1977cdb86099c58310f0cf9044ed64ed7c4f901ab7d
+ef21d662db19c2552cd5fd24,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,78,1,string 1,Attack +1 to user during battle.,Angriff +1 auf Benutzer während des Kampfes.,translate,translated,displayed-string,98f91e82ff836fa3563fa5d61e44a7314b2da36ee5f5ae1ec992ef2961d01751
+ba1006f1b26c7821e53c4297,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,79,1,string 1,"AP +1
+Heal Fatigue","AP +1
+Heal Müdigkeit",translate,translated,displayed-string,99690936d4bb37710ae4fd63f5c138f6d449cff8d33abf3b310cb6df024ce739
+58b353a5a0bcf1b1bb101431,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/build_explanation.mbe/000_Sheet1.csv,80,1,string 1,Attack +2 to user when near death during battle.,"Angriff +2 auf Benutzer, wenn der Tod in der Schlacht nahe.",translate,translated,displayed-string,699a2313588f17459f1c2077740f4ed8724b8283e5a6e4194920f625bc433984

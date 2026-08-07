@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+57c1748b5a1a4479bfc43d72,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word7.mbe/000_Sheet1.csv,1,2,string 2,Where are we now...?,Wo stehen wir jetzt...?,translate,translated,displayed-string,270651f1263fa33a0042605e3cc3eb50c3e4e272c0c58f5cd75608570f8de65c
+8134cb7ba1c21b04fd73b4f3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word7.mbe/000_Sheet1.csv,1,3,string2 3,s00_0_2ndTrueR_00_d063_m090_010_0010,s00_0_2ndTrueR_00_d063_m090_010_0010,protected,protected,resource-or-id,95cc07b3cc0e80faed46e1eac8ecf0d7b4f94e540512cf4d70d608b7e44a3441
+b1762b3fb830c5a367fa6014,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word7.mbe/000_Sheet1.csv,1,4,string 4,Where are we now...?,Wo stehen wir jetzt...?,translate,translated,displayed-string,270651f1263fa33a0042605e3cc3eb50c3e4e272c0c58f5cd75608570f8de65c

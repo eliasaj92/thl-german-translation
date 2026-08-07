@@ -14,6 +14,8 @@ An unofficial, community-editable German fan translation for **The Hundred Line:
 - Human review: incomplete
 - Images, movies, audio, fonts, and executable-embedded text: out of scope
 
+Current corpus snapshot: 587,687 string cells in 11,818 native CSV tables. Structural validation passes; 4,160 ambiguous cells remain explicitly marked for review.
+
 The repository contains bilingual, per-MBE CSV files rather than proprietary game archives. Prebuilt experimental archives, when available, are published separately on the [Releases page](https://github.com/eliasaj92/thl-german-translation/releases).
 
 ## Repository layout

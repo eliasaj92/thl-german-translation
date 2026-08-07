@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+e1a1b1d68e64d5323741a466,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word26.mbe/000_Sheet1.csv,1,2,string 2,I don't want to do this...,Ich will das nicht tun...,translate,translated,displayed-string,9cf342f740ddb4ef00ac0d1b5a8f8e08f7564fffde1c7122da2181c09087e548
+0d14d7904742bad69e2e4e3f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word26.mbe/000_Sheet1.csv,1,3,string2 3,s00_0_2ndTrueR_00_d072_m240_020_0060,s00_0_2ndTrueR_00_d072_m240_020_0060,protected,protected,resource-or-id,1593b5285c14bde7b68a5d86057ac69c441557742f969ed2342fd33ec092d09b
+d811b4ef2d473cf31fea6036,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word26.mbe/000_Sheet1.csv,1,4,string 4,I don't want to do this...,Ich will das nicht tun...,translate,translated,displayed-string,9cf342f740ddb4ef00ac0d1b5a8f8e08f7564fffde1c7122da2181c09087e548

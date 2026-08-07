@@ -1,0 +1,33 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+c0fee2df528067f915a7f2ef,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_explanation.mbe/000_battle_explanation.csv,1,1,string 1,"Combat Members:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara,
+Darumi Amemiya","Kampfmitglieder:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara,
+Darumi Amemiya",translate,translated,displayed-string,d199c48b81bfdc85222dbe2c50ad4702e73a1d7c91a3f7f84836d1edbda0e2de
+5bb822b99095125a9e0b9ef7,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_explanation.mbe/000_battle_explanation.csv,2,1,string 1,"Combat Members:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara,
+Darumi Amemiya","Kampfmitglieder:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara,
+Darumi Amemiya",translate,translated,displayed-string,d199c48b81bfdc85222dbe2c50ad4702e73a1d7c91a3f7f84836d1edbda0e2de
+d11ec2385521315a1f7660ed,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_explanation.mbe/000_battle_explanation.csv,3,1,string 1,"Combat Members:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara,
+Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko","Kampfmitglieder:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara,
+Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko",translate,translated,displayed-string,6c6b4e5995fb0a19344c557795d43c147f688b4503497ea4a82b3b2b3e0717b7
+1ec8162567fc1631e81d5257,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_explanation.mbe/000_battle_explanation.csv,4,1,string 1,"Combat Members:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara,
+Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko","Kampfmitglieder:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara,
+Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko",translate,translated,displayed-string,6c6b4e5995fb0a19344c557795d43c147f688b4503497ea4a82b3b2b3e0717b7
+f2a0294233f258cb8955b3f3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_explanation.mbe/000_battle_explanation.csv,5,1,string 1,"Combat Members:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara, Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko, Shouma Ginzaki, Nozomi Kirifuji, Kurara Oosuzuki, Kyoshika Magadori, Yugamu Omokage","Kampfmitglieder:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara, Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko, Shouma Ginzaki, Nozomi Kirifuji, Kurara Oosuzuki, Kyoshika Magadori, Yugamu Omokage",translate,translated,displayed-string,3e189f72a996d52c0698fab4a03bd874c0788103f8d9d0bcbe3b7400d8a56502
+7c20d0b4f739164028f1177d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_explanation.mbe/000_battle_explanation.csv,6,1,string 1,"Combat Members:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara, Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko, Ima Tsukumo, Kako Tsukumo, Shouma Ginzaki, Nozomi Kirifuji, Kurara Oosuzuki, Kyoshika Magadori, Yugamu Omokage","Kampfmitglieder:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara, Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko, Ima Tsukumo, Kako Tsukumo, Shouma Ginzaki, Nozomi Kirifuji, Kurara Oosuzuki, Kyoshika Magadori, Yugamu Omokage",translate,translated,displayed-string,302e432268d8035626430bffccbf924d2753c71618aa17aea870205613c30e36
+a79b7a0fd1a76b0b253c64c4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_explanation.mbe/000_battle_explanation.csv,7,1,string 1,"Combat Members:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara, Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko, Ima Tsukumo, Kako Tsukumo, Shouma Ginzaki, Nozomi Kirifuji, Kurara Oosuzuki, Kyoshika Magadori, Yugamu Omokage, Moko Mojiro, Eva","Combat Members:
+Takumi Sumino, Takemaru Yakushiji, Hiruko Shizuhara, Darumi Amemiya, Eito Aotsuki, Tsubasa Kawana, Gaku Maruko, Ima Tsukumo, Kako Tsukumo, Shouma Ginzaki, Nozomi Kirifuji, Kurara Oosuzuki, Kyoshika Magadori, Yugamu Omokage, Moko Mojiro, Eva",translate,translated,displayed-string,deee5e9827fe57dfc6432e7fcec841a28269206058a585c82ba8429281290420
+9ec84c7becbcb3b8859506b4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_explanation.mbe/000_battle_explanation.csv,8,1,string 1,"Combat Members:
+Takumi Sumino","Kampfmitglieder:
+Takumi Sumino",translate,translated,displayed-string,fa3a464d2f00b8131ad4dfc82ae296c70a66fdfea15ad14d09fa23c04faabd63

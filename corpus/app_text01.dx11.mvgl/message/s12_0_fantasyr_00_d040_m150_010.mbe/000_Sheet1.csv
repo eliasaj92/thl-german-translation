@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+02826de5fc0249fc2be5b710,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s12_0_fantasyr_00_d040_m150_010.mbe/000_Sheet1.csv,1,2,string 2,I did it!,Ich hab's geschafft!,translate,translated,displayed-string,fa3d79fa481acd172b42cbeafa7672395bfb46a672cb36d3f668d3fff53dc8b4
+338ae8c6781f8d326822d62f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s12_0_fantasyr_00_d040_m150_010.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+8975fbe888543141be29568a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/s12_0_fantasyr_00_d040_m150_010.mbe/000_Sheet1.csv,1,4,string 4,I did it!,Ich hab's geschafft!,translate,translated,displayed-string,fa3d79fa481acd172b42cbeafa7672395bfb46a672cb36d3f668d3fff53dc8b4

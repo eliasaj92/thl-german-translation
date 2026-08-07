@@ -1,0 +1,162 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+6b69a15a5e1b01e718a8a0ee,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,1,1,string 1,"Potion
+User gains Attack +1.","Trank
+User gewinnt Angriff +1.",translate,translated,displayed-string,581a04c643350eb0e9d765862435520b4ea13c16c1f29aa33276aa9a48effe3e
+5d1a80ff477914c8caa3e196,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,2,1,string 1,"Potion
+User gains Attack +1.","Trank
+User gewinnt Angriff +1.",translate,translated,displayed-string,581a04c643350eb0e9d765862435520b4ea13c16c1f29aa33276aa9a48effe3e
+e0921f6f0c76c48c5830aed8,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,3,1,string 1,"Potion
+User gains Attack +1.","Trank
+User gewinnt Angriff +1.",translate,translated,displayed-string,581a04c643350eb0e9d765862435520b4ea13c16c1f29aa33276aa9a48effe3e
+30631bdc6302f3f7f97c8b25,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,4,1,string 1,"Potion
+User gains Attack +1.","Trank
+User gewinnt Angriff +1.",translate,translated,displayed-string,581a04c643350eb0e9d765862435520b4ea13c16c1f29aa33276aa9a48effe3e
+46f00f90bd2c605f51ce6939,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,5,1,string 1,"Potion
+User and any allies in range gain Attack +1.","Potion
+User und alle Verbündeten im Bereich gewinnen Angriff +1.",translate,translated,displayed-string,5f01a478313ed3628fbf071b597fd13f87bd7168c2ba28a2e25bb402876a106a
+ec426ea1c0c9c1210f14a6c3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,6,1,string 1,"Potion
+User and any allies in range gain Attack +1.","Potion
+User und alle Verbündeten im Bereich gewinnen Angriff +1.",translate,translated,displayed-string,5f01a478313ed3628fbf071b597fd13f87bd7168c2ba28a2e25bb402876a106a
+29985bdca370c98368224490,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,7,1,string 1,"Potion
+User and any allies in range gain Attack +1.","Potion
+User und alle Verbündeten im Bereich gewinnen Angriff +1.",translate,translated,displayed-string,5f01a478313ed3628fbf071b597fd13f87bd7168c2ba28a2e25bb402876a106a
+1638f91191395816d6c10673,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,8,1,string 1,"Potion
+User and any allies in range gain Attack +1.","Potion
+User und alle Verbündeten im Bereich gewinnen Angriff +1.",translate,translated,displayed-string,5f01a478313ed3628fbf071b597fd13f87bd7168c2ba28a2e25bb402876a106a
+cc350a0013b1222c5510007c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,9,1,string 1,"Potion
+User and any allies in range gain Attack +1.","Potion
+User und alle Verbündeten im Bereich gewinnen Angriff +1.",translate,translated,displayed-string,5f01a478313ed3628fbf071b597fd13f87bd7168c2ba28a2e25bb402876a106a
+82be14d49e152c4edb71c8d3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,10,1,string 1,"Potion
+User and any allies in range gain Attack +2.","Potion
+User und alle Verbündeten im Bereich gewinnen Angriff +2.",translate,translated,displayed-string,ab53187b1014cfafdd9eb6c6f2521b290755873369092d60b551a33d7624bd14
+705cd7e1fcd71b117103c087,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,11,1,string 1,"Potion
+User gains Move +3.
+Heals Fatigue.","Potion
+User gewinnt Bewegung +3.
+Heals Müdigkeit.",translate,translated,displayed-string,882110b58f1fc511569b2c5ff6ec36e5b31dcdf96bea2c6f5ba85cfe592ca83b
+0a4b1d93568223b095bd130b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,12,1,string 1,"Potion
+User gains Move +3.
+Heals Fatigue.","Potion
+User gewinnt Bewegung +3.
+Heals Müdigkeit.",translate,translated,displayed-string,882110b58f1fc511569b2c5ff6ec36e5b31dcdf96bea2c6f5ba85cfe592ca83b
+51a4488c6371f2aec3474a5d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,13,1,string 1,"Potion
+User gains Move +3.
+Heals Fatigue.","Potion
+User gewinnt Bewegung +3.
+Heals Müdigkeit.",translate,translated,displayed-string,882110b58f1fc511569b2c5ff6ec36e5b31dcdf96bea2c6f5ba85cfe592ca83b
+71d901ffbe8d8655b3e13d40,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,14,1,string 1,"Potion
+User gains Move +3.
+Heals Fatigue.","Potion
+User gewinnt Bewegung +3.
+Heals Müdigkeit.",translate,translated,displayed-string,882110b58f1fc511569b2c5ff6ec36e5b31dcdf96bea2c6f5ba85cfe592ca83b
+1287157efc521103dadc6003,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,15,1,string 1,"Potion
+User and any allies in range gain Move +3.
+Heals Fatigue.","Potion
+User und alle Verbündeten im Bereich gewinnen Move +3.
+Heals Müdigkeit.",translate,translated,displayed-string,b57d9869a7c9714bac42c4a508f82f8458d6ed6892f972f064a5400b2dbb8b8c
+aa3fd42c385af981519456f5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,16,1,string 1,"Potion
+User and any allies in range gain Move +3.
+Heals Fatigue.","Potion
+User und alle Verbündeten im Bereich gewinnen Move +3.
+Heals Müdigkeit.",translate,translated,displayed-string,b57d9869a7c9714bac42c4a508f82f8458d6ed6892f972f064a5400b2dbb8b8c
+d8fd4a4db258656bc39a4247,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,17,1,string 1,"Potion
+User and any allies in range gain Move +3.
+Heals Fatigue.","Potion
+User und alle Verbündeten im Bereich gewinnen Move +3.
+Heals Müdigkeit.",translate,translated,displayed-string,b57d9869a7c9714bac42c4a508f82f8458d6ed6892f972f064a5400b2dbb8b8c
+e360ce5d098eb801652f2691,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,18,1,string 1,"Potion
+User and any allies in range gain Move +3.
+Heals Fatigue.","Potion
+User und alle Verbündeten im Bereich gewinnen Move +3.
+Heals Müdigkeit.",translate,translated,displayed-string,b57d9869a7c9714bac42c4a508f82f8458d6ed6892f972f064a5400b2dbb8b8c
+3a8c9488b1de865587f8a643,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,19,1,string 1,"Potion
+User and any allies in range gain Move +3.
+Heals Fatigue.","Potion
+User und alle Verbündeten im Bereich gewinnen Move +3.
+Heals Müdigkeit.",translate,translated,displayed-string,b57d9869a7c9714bac42c4a508f82f8458d6ed6892f972f064a5400b2dbb8b8c
+4891f59ae74a0741ebb492ae,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,20,1,string 1,"Potion
+User and any allies in range gain Move +5.
+Heals Fatigue.","Potion
+User und alle Verbündeten im Bereich gewinnen Bewegen +5.
+Heals Müdigkeit.",translate,translated,displayed-string,fc8b01063c19ca9cfcd3149527a7113c3aa2973cc8f6cdefa31266bde3331192
+64340e51ea7872fc3f00bc21,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,21,1,string 1,"Potion
+User gains Armor +3.","Potion
+User gewinnt Rüstung +3.",translate,translated,displayed-string,fcd704ff6ded9d789299dc785ca7bd0b9452ff2614275e822889351503b7d1ad
+4319ed2090d43f01d8bff33b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,22,1,string 1,"Potion
+User gains Armor +3.","Potion
+User gewinnt Rüstung +3.",translate,translated,displayed-string,fcd704ff6ded9d789299dc785ca7bd0b9452ff2614275e822889351503b7d1ad
+9b089a8b6cb273ac2c99c904,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,23,1,string 1,"Potion
+User gains Armor +3.","Potion
+User gewinnt Rüstung +3.",translate,translated,displayed-string,fcd704ff6ded9d789299dc785ca7bd0b9452ff2614275e822889351503b7d1ad
+5d818897661963e0492290af,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,24,1,string 1,"Potion
+User gains Armor +3.","Potion
+User gewinnt Rüstung +3.",translate,translated,displayed-string,fcd704ff6ded9d789299dc785ca7bd0b9452ff2614275e822889351503b7d1ad
+b17feda9ecce5519c1e86db1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,25,1,string 1,"Potion
+User and any allies in range gain Armor +3.","Potion
+User und alle Verbündeten im Bereich gewinnen Rüstung +3.",translate,translated,displayed-string,83df96425484736ca94e2518b4a917c07a0cff343313eb18f0ea15b775cccc1f
+68f0d416b2d163466f592190,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,26,1,string 1,"Potion
+User and any allies in range gain Armor +3.","Potion
+User und alle Verbündeten im Bereich gewinnen Rüstung +3.",translate,translated,displayed-string,83df96425484736ca94e2518b4a917c07a0cff343313eb18f0ea15b775cccc1f
+68fddadc6c66276331b3f953,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,27,1,string 1,"Potion
+User and any allies in range gain Armor +3.","Potion
+User und alle Verbündeten im Bereich gewinnen Rüstung +3.",translate,translated,displayed-string,83df96425484736ca94e2518b4a917c07a0cff343313eb18f0ea15b775cccc1f
+0261ac91c1f404f612701e85,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,28,1,string 1,"Potion
+User and any allies in range gain Armor +3.","Potion
+User und alle Verbündeten im Bereich gewinnen Rüstung +3.",translate,translated,displayed-string,83df96425484736ca94e2518b4a917c07a0cff343313eb18f0ea15b775cccc1f
+f2aeeade88d6fbe0de5a26fc,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,29,1,string 1,"Potion
+User and any allies in range gain Armor +3.","Potion
+User und alle Verbündeten im Bereich gewinnen Rüstung +3.",translate,translated,displayed-string,83df96425484736ca94e2518b4a917c07a0cff343313eb18f0ea15b775cccc1f
+2be6af4969fed5f88493b1ea,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,30,1,string 1,"Potion
+User and any allies in range gain Armor +5.","Potion
+User und alle Verbündeten im Bereich gewinnen Rüstung +5.",translate,translated,displayed-string,3616160c3458ff47d4f425e03a3d1c041c5ffaeea3b57efb729540a14187d6f8
+b4b06947c1d5b1fad74ab29d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,31,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+ec740667696360de2b9e6ab5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,32,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+a5ee61631a50a868ed0803d5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,33,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+45ad9231aadb57a51a857d75,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,34,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+fedd666e70a1fdbc0928c69f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,35,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+13710dcdbaf66d92ff8c0537,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,36,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+3377de7a50247939ee972919,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,37,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+94794b51bf8029e7ee97446c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,38,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+21782ed11013fe82f3a512d4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,39,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+d8d03654a833c2e093b277e8,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,40,1,string 1,"Potion
+User HP becomes 1.","Trank
+User HP wird 1.",translate,translated,displayed-string,fbb22dc166777b3ef715d86418dd1a15dec95af2730f3a43c263ce15248d97f7
+503e0e1fe5e5affc1efbdf67,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,41,1,string 1,"Potion
+User fully recovers HP.
+Heals status effects.
+Heals Fatigue.","Potion
+User erholt HP.
+Heals Statuseffekte.
+Heals Müdigkeit.",translate,translated,displayed-string,ace64eda913d669253201c51828651057846309f62e78cc316fffb79be7572b5
+5f5e74779fa872986be5e109,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,42,1,string 1,"Potion
+User fully recovers HP.
+Heals status effects.
+Heals Fatigue.","Potion
+User erholt HP.
+Heals Statuseffekte.
+Heals Müdigkeit.",translate,translated,displayed-string,ace64eda913d669253201c51828651057846309f62e78cc316fffb79be7572b5
+965231f8f6cc3a12ea89f964,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/battle_item_explanation.mbe/000_battle_item_explanation.csv,43,1,string 1,"Potion
+User fully recovers HP.
+Heals status effects.
+Heals Fatigue.","Potion
+User erholt HP.
+Heals Statuseffekte.
+Heals Müdigkeit.",translate,translated,displayed-string,ace64eda913d669253201c51828651057846309f62e78cc316fffb79be7572b5

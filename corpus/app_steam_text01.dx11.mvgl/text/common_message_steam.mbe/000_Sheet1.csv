@@ -1,0 +1,2 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+cb75a0cb81537216036adf6f,app_steam_text01.dx11.mvgl,app_steam_text04.dx11.mvgl,text/common_message_steam.mbe/000_Sheet1.csv,1,1,string 1,End Game,Endspiel,translate,translated,displayed-string,1cd827080eb29e8a2e9138c36b958ba34dca5e895223c7daededac03e242d558

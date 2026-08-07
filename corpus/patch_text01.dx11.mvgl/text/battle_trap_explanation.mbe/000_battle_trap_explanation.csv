@@ -1,0 +1,201 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+ff89dc2b3b90ce62ba36eb27,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,1,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 5","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 5",translate,translated,displayed-string,aebd0aa41acc04864fdae800c526d948b0e3e1397edab2eec5bf4942016cb40a
+049dce8a611d536fda3978d7,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,2,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 5","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 5",translate,translated,displayed-string,aebd0aa41acc04864fdae800c526d948b0e3e1397edab2eec5bf4942016cb40a
+c32e705dbe58b6c5e26e6f73,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,3,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 6","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 6",translate,translated,displayed-string,6fd8d796f1312fca901c474c7e700d3f1928aac22fc6f0ce3087f397d8e42641
+6327e0b14d0f309ce85c970c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,4,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 6","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 6",translate,translated,displayed-string,6fd8d796f1312fca901c474c7e700d3f1928aac22fc6f0ce3087f397d8e42641
+84a3ec1924cc66f60c203925,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,5,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 6","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 6",translate,translated,displayed-string,6fd8d796f1312fca901c474c7e700d3f1928aac22fc6f0ce3087f397d8e42641
+ea52ad776c0576d1e2111958,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,6,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 6","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 6",translate,translated,displayed-string,6fd8d796f1312fca901c474c7e700d3f1928aac22fc6f0ce3087f397d8e42641
+942ef1ade1e013442e40f334,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,7,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 7","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 7",translate,translated,displayed-string,5f59a303eb87e9025c43ae7831b64122e560e2bcaf571d6fd030d5fc16d75553
+f6cffc6bbe2be054ca14f6ef,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,8,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 7","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 7",translate,translated,displayed-string,5f59a303eb87e9025c43ae7831b64122e560e2bcaf571d6fd030d5fc16d75553
+590eff89c895a5c1a527aed3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,9,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 7","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 7",translate,translated,displayed-string,5f59a303eb87e9025c43ae7831b64122e560e2bcaf571d6fd030d5fc16d75553
+bd4b84068d919292ad9b9a8b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,10,1,string 1,"Defensive Device
+Place a barricade to hinder enemy movement.
+HP: 8","Defensive Gerät
+Stellen Sie eine Barrikade, um feindliche Bewegung zu behindern.
+HP: 8",translate,translated,displayed-string,c195e16273e2c815f882ef6604cef99c40aeade2f2ed923bcd9f517af42d2e48
+a5299c34b51f010929c73a51,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,11,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+2da9d04630df7ca2a7cbffcc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,12,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+46763afd4cf99059f4f9951a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,13,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+1318f676611a425b13be7203,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,14,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+bf9bceaa361d6cd86824240d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,15,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+a284fee659d59271836c341d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,16,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+1fefbf25639f34ff71043fdc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,17,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+13167ceea41f5c4b9a794006,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,18,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+ac62fd45ffbc7b2f1243dded,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,19,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+9a3f437421aa2313f30af1e1,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,20,1,string 1,"Defensive Device
+Place a barricade that stuns any enemies in range.
+HP: 1
+Stun range: 12 spaces","Defensive Device
+Platzieren Sie eine Barrikade, die alle Feinde in Reichweite betäubt.
+HP: 1
+Stun Bereich: 12 Leerzeichen",translate,translated,displayed-string,daf7c3c80bf5fdbd83503a612a980310c3daae462e4e1e2cc4ced9a1acc18274
+633ba3efbd4d7dc46a9d1907,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,21,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 2","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 2",translate,translated,displayed-string,6f8414a169e7052dea62abcad96bf0279582fca43b5ec737b8c346e1849775d9
+7801b8a435868efd15803dbf,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,22,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 2","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 2",translate,translated,displayed-string,6f8414a169e7052dea62abcad96bf0279582fca43b5ec737b8c346e1849775d9
+c18f3b1dd0d3360bf1da9bc4,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,23,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 3","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 3",translate,translated,displayed-string,e26ee3b3abc4d4ccc62da0b76bfc243dbd049b918c9f83c9dd51935db61384e1
+153c59979292ccd0a3bdd466,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,24,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 3","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 3",translate,translated,displayed-string,e26ee3b3abc4d4ccc62da0b76bfc243dbd049b918c9f83c9dd51935db61384e1
+d087cd73a5d923d1f92cf51e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,25,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 3","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 3",translate,translated,displayed-string,e26ee3b3abc4d4ccc62da0b76bfc243dbd049b918c9f83c9dd51935db61384e1
+82f4c393bf53d62efe1a29ea,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,26,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 3","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 3",translate,translated,displayed-string,e26ee3b3abc4d4ccc62da0b76bfc243dbd049b918c9f83c9dd51935db61384e1
+8c8dde20318d8d221e50485e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,27,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 4","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 4",translate,translated,displayed-string,4748dfbd8a92ead3e19b68a5b482ed2a48fc8d04725d04a2ad39e8f9fd505009
+22f866155e1ab1e3e003de52,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,28,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 4","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 4",translate,translated,displayed-string,4748dfbd8a92ead3e19b68a5b482ed2a48fc8d04725d04a2ad39e8f9fd505009
+521589e0e309c98894b14f7c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,29,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 4","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 4",translate,translated,displayed-string,4748dfbd8a92ead3e19b68a5b482ed2a48fc8d04725d04a2ad39e8f9fd505009
+71c10c2f2958c947c6c08013,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,30,1,string 1,"Defensive Device
+Place a trap that deals explosive damage when stepped on.
+HP: 1 | Damage: 5","Defensive Device
+Stellen Sie eine Falle, die explosive Schäden verursacht, wenn sie eingeschaltet wird.
+HP: 1 wirksamer Schaden: 5",translate,translated,displayed-string,89be1b3bdd2e4bbe120bfbdf662431424315d36e231583176d1754be8ef4354e
+f00b667d5a42b3c51f781ba4,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,31,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+52fb7966cf85c167131d2714,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,32,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+bec5cabf76d8a40a4e77a4bd,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,33,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+75a67df8ea40c2a0d4b9f488,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,34,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+03571949b764d5ba8cdf8722,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,35,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+fc649f3b25f577ecb2769be9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,36,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+84bb866cb96c8ddf9f71ca7a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,37,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+6daccdea5e1574b95bf8b33b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,38,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+835701d2bbca07cd3fd884c9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,39,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca
+7c5e62254863d78cf5c6ae95,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_trap_explanation.mbe/000_battle_trap_explanation.csv,40,1,string 1,"Defensive Device
+Place a trap that ignores obstacles to move user great distances when tripped.","Defensive Device
+Stellen Sie eine Falle, die Hindernisse ignoriert Benutzer große Entfernungen zu bewegen, wenn gestolpert.",translate,translated,displayed-string,d57282cc40db166cdb803ade26f7e2ad1aba60fbd90496ef8c39c1c5328531ca

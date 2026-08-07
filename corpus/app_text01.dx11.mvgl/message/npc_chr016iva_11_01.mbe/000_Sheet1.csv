@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+140fbec3e8f6ee845594c82d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr016iva_11_01.mbe/000_Sheet1.csv,1,2,string 2,I must kill all invaders.,Ich muss alle Eindringlinge töten.,translate,translated,displayed-string,797720e68f719b0ef1662be64eda72d7fcbbbce7ed3ab2d744c65ffd6a30bb62
+0273ee62d4d7c963f904b685,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr016iva_11_01.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+52f8fe46b275dd14af552587,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/npc_chr016iva_11_01.mbe/000_Sheet1.csv,1,4,string 4,I must kill all invaders.,Ich muss alle Eindringlinge töten.,translate,translated,displayed-string,797720e68f719b0ef1662be64eda72d7fcbbbce7ed3ab2d744c65ffd6a30bb62

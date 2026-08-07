@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+2bb72c9f0e92827c6511939f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/r00_0_1sttruer_00_d064_m040_120.mbe/000_Sheet1.csv,1,2,string 2,...,...,protected,protected,non-linguistic,ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46
+5e8d446a6f553b0aece77703,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/r00_0_1sttruer_00_d064_m040_120.mbe/000_Sheet1.csv,1,3,string2 3,pic_voice,pic_voice,protected,protected,resource-or-id,cab7b17cba7f601c1eccfd3be53c8e051c4ae21bfa05a8b49ea8a2e976e30cff
+c67ef61755d1c15ec7f7e616,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/r00_0_1sttruer_00_d064_m040_120.mbe/000_Sheet1.csv,1,4,string 4,...,...,protected,protected,non-linguistic,ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46

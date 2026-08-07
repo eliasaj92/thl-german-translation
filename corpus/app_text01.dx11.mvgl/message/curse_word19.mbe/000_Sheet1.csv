@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+f700d20565cb520e0973b2cd,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word19.mbe/000_Sheet1.csv,1,2,string 2,I want to go home...,Ich möchte nach Hause gehen...,translate,translated,displayed-string,2ae1942f0938429b7fcf5f17e102cda7d57b64ca18db8f77fcdddb8463977ef3
+53650ee90ff279123e87c2c7,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word19.mbe/000_Sheet1.csv,1,3,string2 3,s00_0_2ndTrueR_00_d063_m160_040_0020,s00_0_2ndTrueR_00_d063_m160_040_0020,protected,protected,resource-or-id,1c325402b0a762684117fd6afb6a82be206e522970ce4692af43a45998f233d4
+14d285f2b76031a3f687e020,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word19.mbe/000_Sheet1.csv,1,4,string 4,I want to go home...,Ich möchte nach Hause gehen...,translate,translated,displayed-string,2ae1942f0938429b7fcf5f17e102cda7d57b64ca18db8f77fcdddb8463977ef3

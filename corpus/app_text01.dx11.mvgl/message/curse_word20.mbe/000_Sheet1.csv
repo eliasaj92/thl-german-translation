@@ -1,0 +1,4 @@
+cell_id,source_archive,target_archive,csv_rel,row_index,column_index,field,english,german,classification,status,reason,source_sha256
+ec7868773024a2f0f3dac2d3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word20.mbe/000_Sheet1.csv,1,2,string 2,I hate this...,Ich hasse das...,translate,translated,displayed-string,748ead861a7ae2fb37afd8bc537224b15e73f58dc38319eb8148af7ebd1c448c
+794550d8582e0d390294abad,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word20.mbe/000_Sheet1.csv,1,3,string2 3,s00_0_2ndTrueR_00_d063_m160_040_0030,s00_0_2ndTrueR_00_d063_m160_040_0030,protected,protected,resource-or-id,00b2d52c9559b625b5a9ce55698f2cdca7a82f936579c3f5897c1be48e124507
+25317e28b470c5e647f28ba8,app_text01.dx11.mvgl,app_text04.dx11.mvgl,message/curse_word20.mbe/000_Sheet1.csv,1,4,string 4,I hate this...,Ich hasse das...,translate,translated,displayed-string,748ead861a7ae2fb37afd8bc537224b15e73f58dc38319eb8148af7ebd1c448c
