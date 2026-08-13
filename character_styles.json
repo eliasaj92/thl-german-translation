@@ -3,10 +3,23 @@
   "locale": "de-DE",
   "status": "incomplete",
   "global": {
-    "tone": "Natural contemporary German; preserve profanity, dark humor, and emotional intensity.",
+    "tone": "Faithful, natural contemporary German; preserve profanity, dark humor, emotional intensity, names, and deliberate verbal distortions.",
     "honorifics": "Preserve honorifics retained by the English localization.",
-    "address_policy": "Keep du/Sie decisions consistent by relationship; document corrections through pull requests."
+    "address_policy": "Use du among students and close allies unless the scene explicitly establishes formal distance; use Sie for institutional or formal address. Keep every relationship consistent within a route.",
+    "terminology_policy": "Use approved glossary entries consistently. Never translate character names or nicknames. In combat text, spaces are Felder, not Leerzeichen."
   },
-  "characters": {}
+  "characters": {
+    "Takumi": {
+      "register": "natural contemporary German",
+      "address": "du among peers"
+    },
+    "Shion": {
+      "register": "preserve name and emotional tone",
+      "address": "contextual du"
+    },
+    "Sirei": {
+      "register": "precise and authoritative",
+      "address": "context-dependent"
+    }
+  }
 }
-
