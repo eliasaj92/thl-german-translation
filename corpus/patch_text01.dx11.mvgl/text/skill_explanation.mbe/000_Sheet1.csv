@@ -296,29 +296,29 @@ Flight +2
 ZEernt eine große Menge Spannung.",translate,translated,displayed-string,704f529c2eae3e6013a3b071501025c66078202059ce8c317521eb0cf9fa6013
 9b891a3ae66921a3d78c9848,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,104,1,string 1,"Debuffs movement within a large area.
 Inflicts Move -3 on target.
-Earns a large amount of Voltage.","Debuffs Bewegung innerhalb eines großen Bereichs.
-Inflicts Bewegen Sie -3 auf Ziel.
-Earns eine große Menge an Spannung.",translate,translated,displayed-string,f342972f93f81b43017aaeb15a1cb26c3089214898cfe1125409e2a0dd3c17c1
+Earns a large amount of Voltage.","Bewegung in einem großen Gebiet.
+Konflikte Bewegen Sie sich -3 auf das Ziel.
+Verdient viel Spannung.",translate,translated,displayed-string,f342972f93f81b43017aaeb15a1cb26c3089214898cfe1125409e2a0dd3c17c1
 87cb53fa6d73ea8cfe2a8d93,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,105,1,string 1,"Debuffs movement within a large area.
 Inflicts Move -3 on target.
-Earns a large amount of Voltage.","Debuffs Bewegung innerhalb eines großen Bereichs.
-Inflicts Bewegen Sie -3 auf Ziel.
-Earns eine große Menge an Spannung.",translate,translated,displayed-string,f342972f93f81b43017aaeb15a1cb26c3089214898cfe1125409e2a0dd3c17c1
+Earns a large amount of Voltage.","Bewegung in einem großen Gebiet.
+Konflikte Bewegen Sie sich -3 auf das Ziel.
+Verdient viel Spannung.",translate,translated,displayed-string,f342972f93f81b43017aaeb15a1cb26c3089214898cfe1125409e2a0dd3c17c1
 62f13070d3a82e1391ee27ac,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,106,1,string 1,"Debuffs movement within a large area.
 Inflicts Move -3 on target.
-Earns a large amount of Voltage.","Debuffs Bewegung innerhalb eines großen Bereichs.
-Inflicts Bewegen Sie -3 auf Ziel.
-Earns eine große Menge an Spannung.",translate,translated,displayed-string,f342972f93f81b43017aaeb15a1cb26c3089214898cfe1125409e2a0dd3c17c1
+Earns a large amount of Voltage.","Bewegung in einem großen Gebiet.
+Konflikte Bewegen Sie sich -3 auf das Ziel.
+Verdient viel Spannung.",translate,translated,displayed-string,f342972f93f81b43017aaeb15a1cb26c3089214898cfe1125409e2a0dd3c17c1
 f8d5950bc90a72bcc49120af,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,107,1,string 1,"Debuffs movement within a large area.
 Inflicts Move -3 on target.
-Earns a large amount of Voltage.","Debuffs Bewegung innerhalb eines großen Bereichs.
-Inflicts Bewegen Sie -3 auf Ziel.
-Earns eine große Menge an Spannung.",translate,translated,displayed-string,f342972f93f81b43017aaeb15a1cb26c3089214898cfe1125409e2a0dd3c17c1
+Earns a large amount of Voltage.","Bewegung in einem großen Gebiet.
+Konflikte Bewegen Sie sich -3 auf das Ziel.
+Verdient viel Spannung.",translate,translated,displayed-string,f342972f93f81b43017aaeb15a1cb26c3089214898cfe1125409e2a0dd3c17c1
 219d546f2ebd62efd4536e4e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,108,1,string 1,"Debuffs movement within a large area.
 Inflicts Move -4 on target.
-Earns a large amount of Voltage.","Debuffs Bewegung innerhalb eines großen Bereichs.
-Inflicts Bewegen Sie -4 auf Ziel.
-Earns eine große Menge an Spannung.",translate,translated,displayed-string,6d11a9f0daf7a78e5b2fb8df0f4de802d025c1e5e38881f6c5c365ba93e83207
+Earns a large amount of Voltage.","Bewegung in einem großen Gebiet.
+Konflikte Bewegen Sie sich -4 auf das Ziel.
+Verdient viel Spannung.",translate,translated,displayed-string,6d11a9f0daf7a78e5b2fb8df0f4de802d025c1e5e38881f6c5c365ba93e83207
 76289938c2feaea7e984ef25,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,109,1,string 1,"Launch a volley of knives in a vertical line.
 User recovers 1 HP.","Starten Sie eine Volley von Messern in einer vertikalen Linie.
 User gewinnt 1 HP.",translate,translated,displayed-string,c92ba5ab7a22940d8e0de827a87ca36ea1c1c373e812b1e31a8ad7d9de6f3d89
@@ -423,54 +423,54 @@ Inflicts Move-3, Flug +2 auf Ziel.
 Heals Benutzer Müdigkeit.",translate,translated,displayed-string,ae8eb1474466a3c5dfe99337934fd59d4dfb8045a63ea0c4105f5612ac960946
 7b3c08f1e0bba055d99dbacc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,133,1,string 1,"Debuffs attack power within a large area.
 Inflicts Attack -1, Bleed on target.
-Heals user's Fatigue.","Debuffs Angriffsenergie innerhalb eines großen Bereichs.
-Inflicts Attack -1, Bleed on target.
-Heals Benutzer Müdigkeit.",translate,translated,displayed-string,d157112b5003cd12c75586cace68153dc4babed75c5956908624f781db57c2cc
+Heals user's Fatigue.","Senkt die Angriffskraft in einem großen Bereich.
+Verursacht beim Ziel Angriff -1 und Blutung.
+Heilt die Erschöpfung des Anwenders.",translate,translated,displayed-string,d157112b5003cd12c75586cace68153dc4babed75c5956908624f781db57c2cc
 8a39261359930a947f7600c2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,134,1,string 1,"Debuffs attack power within a large area.
 Inflicts Attack -1, Bleed on target.
-Heals user's Fatigue.","Debuffs Angriffsenergie innerhalb eines großen Bereichs.
-Inflicts Attack -1, Bleed on target.
-Heals Benutzer Müdigkeit.",translate,translated,displayed-string,d157112b5003cd12c75586cace68153dc4babed75c5956908624f781db57c2cc
+Heals user's Fatigue.","Senkt die Angriffskraft in einem großen Bereich.
+Verursacht beim Ziel Angriff -1 und Blutung.
+Heilt die Erschöpfung des Anwenders.",translate,translated,displayed-string,d157112b5003cd12c75586cace68153dc4babed75c5956908624f781db57c2cc
 f89be296487c1e16e01abc03,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,135,1,string 1,"Debuffs attack power within a large area.
 Inflicts Attack -1, Bleed on target.
-Heals user's Fatigue.","Debuffs Angriffsenergie innerhalb eines großen Bereichs.
-Inflicts Attack -1, Bleed on target.
-Heals Benutzer Müdigkeit.",translate,translated,displayed-string,d157112b5003cd12c75586cace68153dc4babed75c5956908624f781db57c2cc
+Heals user's Fatigue.","Senkt die Angriffskraft in einem großen Bereich.
+Verursacht beim Ziel Angriff -1 und Blutung.
+Heilt die Erschöpfung des Anwenders.",translate,translated,displayed-string,d157112b5003cd12c75586cace68153dc4babed75c5956908624f781db57c2cc
 a76e4a4f1f35b423e4192240,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,136,1,string 1,"Debuffs attack power within a large area.
 Inflicts Attack -1, Bleed on target.
-Heals user's Fatigue.","Debuffs Angriffsenergie innerhalb eines großen Bereichs.
-Inflicts Attack -1, Bleed on target.
-Heals Benutzer Müdigkeit.",translate,translated,displayed-string,d157112b5003cd12c75586cace68153dc4babed75c5956908624f781db57c2cc
+Heals user's Fatigue.","Senkt die Angriffskraft in einem großen Bereich.
+Verursacht beim Ziel Angriff -1 und Blutung.
+Heilt die Erschöpfung des Anwenders.",translate,translated,displayed-string,d157112b5003cd12c75586cace68153dc4babed75c5956908624f781db57c2cc
 9d911654e4c8955e67ebf683,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,137,1,string 1,"Debuffs attack power within a large area.
 Inflicts Attack -2, Bleed on target.
-Heals user's Fatigue.","Debuffs Angriffsenergie innerhalb eines großen Bereichs.
-Inflicts Attack -2, Bleed auf Ziel.
-Heals Benutzer Müdigkeit.",translate,translated,displayed-string,db8fae26ce908d98b230c1635c36680c9e816acfd0fba88ab6c52660460f7662
+Heals user's Fatigue.","In einem großen Gebiet greifen die Rebellen die Macht ein.
+Influences Attacke -2, Blutung am Ziel.
+Heilt die Müdigkeit der Benutzer.",translate,translated,displayed-string,db8fae26ce908d98b230c1635c36680c9e816acfd0fba88ab6c52660460f7662
 7a31614d917dab1a01c6c59a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,138,1,string 1,"Launch a volley of knives in a vertical line.
 Inflicts Stun on target.
-Inflicts Stun on user.","Führen Sie eine Volley Messer in einer vertikalen Linie.
-Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
+Inflicts Stun on user.","Starten Sie eine Salve von Messern in einer vertikalen Linie.
+Konflikte betäuben das Ziel.
+Beeinflusst den Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
 a6cfb592ac290b01b8a6ed53,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,139,1,string 1,"Launch a volley of knives in a vertical line.
 Inflicts Stun on target.
-Inflicts Stun on user.","Führen Sie eine Volley Messer in einer vertikalen Linie.
-Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
+Inflicts Stun on user.","Starten Sie eine Salve von Messern in einer vertikalen Linie.
+Konflikte betäuben das Ziel.
+Beeinflusst den Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
 12a7f5aa02eddef57696a20b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,140,1,string 1,"Launch a volley of knives in a vertical line.
 Inflicts Stun on target.
-Inflicts Stun on user.","Führen Sie eine Volley Messer in einer vertikalen Linie.
-Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
+Inflicts Stun on user.","Starten Sie eine Salve von Messern in einer vertikalen Linie.
+Konflikte betäuben das Ziel.
+Beeinflusst den Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
 754a0382d060362472a0174f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,141,1,string 1,"Launch a volley of knives in a vertical line.
 Inflicts Stun on target.
-Inflicts Stun on user.","Führen Sie eine Volley Messer in einer vertikalen Linie.
-Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
+Inflicts Stun on user.","Starten Sie eine Salve von Messern in einer vertikalen Linie.
+Konflikte betäuben das Ziel.
+Beeinflusst den Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
 6646b69df1d1bb45b22cc245,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,142,1,string 1,"Launch a volley of knives in a vertical line.
 Inflicts Stun on target.
-Inflicts Stun on user.","Führen Sie eine Volley Messer in einer vertikalen Linie.
-Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
+Inflicts Stun on user.","Starten Sie eine Salve von Messern in einer vertikalen Linie.
+Konflikte betäuben das Ziel.
+Beeinflusst den Benutzer.",translate,translated,displayed-string,87cdf7eddeec9544efe505dba29da035f90806c339e8af1698b051a016acc101
 54c86ed8a9abe77d9b765f9e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,143,1,string 1,"Adds Armor +3.
 Heals status effects.
 Also heals Fatigue.","Fügt Rüstung +3.
@@ -567,20 +567,20 @@ ba933b090929453a71137023,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skil
 Inflicts Attack -1 on target.","Feuert einen Angriff auf einen Feind vorn.
 Inflicts Angriff -1 auf das Ziel.",translate,translated,displayed-string,002c5b54912502484acdd3704ef33f023e33aaa110867556fbfc91239bae19d4
 dd76c6b4bfbd6d54d66044b9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,178,1,string 1,"Buffs ally movement.
-Heals Fatigue and adds Move +10 to all allies in range.","Buffs ally Bewegung.
-Heals Müdigkeit und fügt Move +10 zu allen Verbündeten in Reichweite.",translate,translated,displayed-string,3979e17b0898d2df671f6a262f26477ceecd3bd39a83856db5bdfd1ef50fff83
+Heals Fatigue and adds Move +10 to all allies in range.","Buffs verbündet Bewegung.
+Heilt Ermüdung und fügt allen Verbündeten in Reichweite Bewegung + 10 hinzu.",translate,translated,displayed-string,3979e17b0898d2df671f6a262f26477ceecd3bd39a83856db5bdfd1ef50fff83
 0fe60e16a7a83785037e0c9e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,179,1,string 1,"Buffs ally movement.
-Heals Fatigue and adds Move +10 to all allies in range.","Buffs ally Bewegung.
-Heals Müdigkeit und fügt Move +10 zu allen Verbündeten in Reichweite.",translate,translated,displayed-string,3979e17b0898d2df671f6a262f26477ceecd3bd39a83856db5bdfd1ef50fff83
+Heals Fatigue and adds Move +10 to all allies in range.","Buffs verbündet Bewegung.
+Heilt Ermüdung und fügt allen Verbündeten in Reichweite Bewegung + 10 hinzu.",translate,translated,displayed-string,3979e17b0898d2df671f6a262f26477ceecd3bd39a83856db5bdfd1ef50fff83
 9f9c3f71e689ec4bccdfd052,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,180,1,string 1,"Buffs ally movement.
-Heals Fatigue and adds Move +10 to all allies in range.","Buffs ally Bewegung.
-Heals Müdigkeit und fügt Move +10 zu allen Verbündeten in Reichweite.",translate,translated,displayed-string,3979e17b0898d2df671f6a262f26477ceecd3bd39a83856db5bdfd1ef50fff83
+Heals Fatigue and adds Move +10 to all allies in range.","Buffs verbündet Bewegung.
+Heilt Ermüdung und fügt allen Verbündeten in Reichweite Bewegung + 10 hinzu.",translate,translated,displayed-string,3979e17b0898d2df671f6a262f26477ceecd3bd39a83856db5bdfd1ef50fff83
 fb2b15f407c1a060e38c507d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,181,1,string 1,"Buffs ally movement.
-Heals Fatigue and adds Move +10 to all allies in range.","Buffs ally Bewegung.
-Heals Müdigkeit und fügt Move +10 zu allen Verbündeten in Reichweite.",translate,translated,displayed-string,3979e17b0898d2df671f6a262f26477ceecd3bd39a83856db5bdfd1ef50fff83
+Heals Fatigue and adds Move +10 to all allies in range.","Buffs verbündet Bewegung.
+Heilt Ermüdung und fügt allen Verbündeten in Reichweite Bewegung + 10 hinzu.",translate,translated,displayed-string,3979e17b0898d2df671f6a262f26477ceecd3bd39a83856db5bdfd1ef50fff83
 74df479b32697081de29c70e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,182,1,string 1,"Buffs ally movement.
-Heals Fatigue and adds Move +15 to all allies in range.","Buffs ally Bewegung.
-Heals Müdigkeit und fügt Move +15 zu allen Verbündeten in Reichweite.",translate,translated,displayed-string,192b72eb2f6456e138eb3d9f75ee557ecc6fb966770489276bb4efab68c11702
+Heals Fatigue and adds Move +15 to all allies in range.","Buffs verbündet Bewegung.
+Heilt Ermüdung und fügt allen Verbündeten in Reichweite Bewegung + 15 hinzu.",translate,translated,displayed-string,192b72eb2f6456e138eb3d9f75ee557ecc6fb966770489276bb4efab68c11702
 75ba5f4465a863f4648c4ec5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,183,1,string 1,"Buffs ally fighting power.
 Adds Attack +1, Armor +3 to all allies in range.","Buffs verbündet Kampfmacht.
 Hängt Angriff +1, Rüstung +3 an alle Verbündeten in Reichweite.",translate,translated,displayed-string,a029e880d866737ad810ffc4932feac8323153c5c8ebc09c3198fc2aead0d6d8
@@ -653,29 +653,29 @@ Flight +2","Gegner innerhalb eines fächerförmigen Bereichs mähen.
 Flight +2",translate,translated,displayed-string,ececd7de8d56fd726e7842322f60f1b0cccc03902a2518867375b4bdba5978db
 437b5962bac2d48bf14d1c07,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,207,1,string 1,"Buffs allies and gain Voltage.
 Adds Attack +1 to allies.
-Earns a large amount of Voltage.","Buffs Alliierten und gewinnen Spannung.
-Hards Attack +1 zu Alliierten.
-Earns eine große Menge Spannung.",translate,translated,displayed-string,f50679487d92d3f485eb89fe52efe9ac087e5f49a96ca71beeb59c753e28ecbb
+Earns a large amount of Voltage.","
+Adds Angriff +1 auf Verbündete. 
+Eerns eine große Menge an Spannung.",translate,translated,displayed-string,f50679487d92d3f485eb89fe52efe9ac087e5f49a96ca71beeb59c753e28ecbb
 0d8df1543d7dff663b7ee39d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,208,1,string 1,"Buffs allies and gain Voltage.
 Adds Attack +1 to allies.
-Earns a large amount of Voltage.","Buffs Alliierten und gewinnen Spannung.
-Hards Attack +1 zu Alliierten.
-Earns eine große Menge Spannung.",translate,translated,displayed-string,f50679487d92d3f485eb89fe52efe9ac087e5f49a96ca71beeb59c753e28ecbb
+Earns a large amount of Voltage.","
+Adds Angriff +1 auf Verbündete. 
+Eerns eine große Menge an Spannung.",translate,translated,displayed-string,f50679487d92d3f485eb89fe52efe9ac087e5f49a96ca71beeb59c753e28ecbb
 893b953bdb64f5d6b6fde325,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,209,1,string 1,"Buffs allies and gain Voltage.
 Adds Attack +1 to allies.
-Earns a large amount of Voltage.","Buffs Alliierten und gewinnen Spannung.
-Hards Attack +1 zu Alliierten.
-Earns eine große Menge Spannung.",translate,translated,displayed-string,f50679487d92d3f485eb89fe52efe9ac087e5f49a96ca71beeb59c753e28ecbb
+Earns a large amount of Voltage.","
+Adds Angriff +1 auf Verbündete. 
+Eerns eine große Menge an Spannung.",translate,translated,displayed-string,f50679487d92d3f485eb89fe52efe9ac087e5f49a96ca71beeb59c753e28ecbb
 607a58cbb8414bf9a274ca37,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,210,1,string 1,"Buffs allies and gain Voltage.
 Adds Attack +1 to allies.
-Earns a large amount of Voltage.","Buffs Alliierten und gewinnen Spannung.
-Hards Attack +1 zu Alliierten.
-Earns eine große Menge Spannung.",translate,translated,displayed-string,f50679487d92d3f485eb89fe52efe9ac087e5f49a96ca71beeb59c753e28ecbb
+Earns a large amount of Voltage.","
+Adds Angriff +1 auf Verbündete. 
+Eerns eine große Menge an Spannung.",translate,translated,displayed-string,f50679487d92d3f485eb89fe52efe9ac087e5f49a96ca71beeb59c753e28ecbb
 18548a52913c637617af8921,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,211,1,string 1,"Buffs allies and gain Voltage.
 Adds Attack +2 to allies.
-Earns an extra large amount of Voltage.","Buffs Alliierten und gewinnen Spannung.
-Hards Attack +2 zu Alliierten.
-Earns eine extra große Menge Spannung.",translate,translated,displayed-string,ccf4cbbbe626f660273219035b300a0b2f5ba00f90b0173d3e16bd09df22ea73
+Earns an extra large amount of Voltage.","Buffs Verbündete und gewinnen Spannung.
+Adds Angriff +2 an Verbündete.
+Eernt eine zusätzlich große Menge an Spannung.",translate,translated,displayed-string,ccf4cbbbe626f660273219035b300a0b2f5ba00f90b0173d3e16bd09df22ea73
 2d8eba195cc94e4c06e03aae,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,212,1,string 1,"Fire a concentrated volley of shots in a vertical line.
 User recovers +1 HP.","Feuern Sie eine konzentrierte Volley von Schüssen in einer vertikalen Linie.
 User erholt +1 HP.",translate,translated,displayed-string,7d5d17f89af813c89a74fd25271e376f9462ccd6aa5066c9238e2a09040e290b
@@ -748,29 +748,29 @@ Pushes target back 1 space.","Liefern Sie einen mächtigen Schlag auf einen Fein
 Pushes Ziel zurück 1 Raum.",translate,translated,displayed-string,8264d1bd8d4bc78f2ec509964086256795c6b0f20d139c2f15b198da45a29781
 91c8995574a3b5adfa051b56,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,236,1,string 1,"Whip up wind to push back enemies within a large
 area. | Pushes targets back 3 spaces and inflicts
-Move -3. | Heals user's Fatigue.","Wippt Wind nach oben, um Feinde innerhalb eines großen
-area zurück zu schieben.Betätigt die Ziele zurück 3 Leerzeichen und fügt 
-Move -3.",translate,translated,displayed-string,196f3eab6f71ebcaaab47d51b9b97c3e925f2d9aae572e5ec4045b97a3ca6ae2
+Move -3. | Heals user's Fatigue.","Wind aufpeitschen, um Feinde innerhalb eines großen Gebietes zurückzudrängen
+Bereich. | Schiebt Ziele 3 Leerzeichen zurück und fügt ihnen
+Bewegen -3. | Heilt die Müdigkeit des Benutzers.",translate,translated,displayed-string,196f3eab6f71ebcaaab47d51b9b97c3e925f2d9aae572e5ec4045b97a3ca6ae2
 e9d429297a763257ab954fb5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,237,1,string 1,"Whip up wind to push back enemies within a large
 area. | Pushes targets back 3 spaces and inflicts
-Move -3. | Heals user's Fatigue.","Wippt Wind nach oben, um Feinde innerhalb eines großen
-area zurück zu schieben.Betätigt die Ziele zurück 3 Leerzeichen und fügt 
-Move -3.",translate,translated,displayed-string,196f3eab6f71ebcaaab47d51b9b97c3e925f2d9aae572e5ec4045b97a3ca6ae2
+Move -3. | Heals user's Fatigue.","Wind aufpeitschen, um Feinde innerhalb eines großen Gebietes zurückzudrängen
+Bereich. | Schiebt Ziele 3 Leerzeichen zurück und fügt ihnen
+Bewegen -3. | Heilt die Müdigkeit des Benutzers.",translate,translated,displayed-string,196f3eab6f71ebcaaab47d51b9b97c3e925f2d9aae572e5ec4045b97a3ca6ae2
 59280eee85a56e7901697279,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,238,1,string 1,"Whip up wind to push back enemies within a large
 area. | Pushes targets back 3 spaces and inflicts
-Move -3. | Heals user's Fatigue.","Wippt Wind nach oben, um Feinde innerhalb eines großen
-area zurück zu schieben.Betätigt die Ziele zurück 3 Leerzeichen und fügt 
-Move -3.",translate,translated,displayed-string,196f3eab6f71ebcaaab47d51b9b97c3e925f2d9aae572e5ec4045b97a3ca6ae2
+Move -3. | Heals user's Fatigue.","Wind aufpeitschen, um Feinde innerhalb eines großen Gebietes zurückzudrängen
+Bereich. | Schiebt Ziele 3 Leerzeichen zurück und fügt ihnen
+Bewegen -3. | Heilt die Müdigkeit des Benutzers.",translate,translated,displayed-string,196f3eab6f71ebcaaab47d51b9b97c3e925f2d9aae572e5ec4045b97a3ca6ae2
 eb6dc0b19ab5179c11ad706b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,239,1,string 1,"Whip up wind to push back enemies within a large
 area. | Pushes targets back 3 spaces and inflicts
-Move -3. | Heals user's Fatigue.","Wippt Wind nach oben, um Feinde innerhalb eines großen
-area zurück zu schieben.Betätigt die Ziele zurück 3 Leerzeichen und fügt 
-Move -3.",translate,translated,displayed-string,196f3eab6f71ebcaaab47d51b9b97c3e925f2d9aae572e5ec4045b97a3ca6ae2
+Move -3. | Heals user's Fatigue.","Wind aufpeitschen, um Feinde innerhalb eines großen Gebietes zurückzudrängen
+Bereich. | Schiebt Ziele 3 Leerzeichen zurück und fügt ihnen
+Bewegen -3. | Heilt die Müdigkeit des Benutzers.",translate,translated,displayed-string,196f3eab6f71ebcaaab47d51b9b97c3e925f2d9aae572e5ec4045b97a3ca6ae2
 7ecc9bfc5040dc0a1140eb0e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,240,1,string 1,"Whip up wind to push back enemies within a large
 area. | Pushes targets back 4 spaces and inflicts
-Move -4. | Heals user's Fatigue.","Wippt Wind nach oben, um Feinde innerhalb eines großen
-area zurück zu schieben.Betätigt Ziele zurück 4 Leerzeichen und fügt 
-Move -4 zu.",translate,translated,displayed-string,caca1bcd76e244bb32914770b1b5b770980e14b19143575d7157428198012984
+Move -4. | Heals user's Fatigue.","Wind aufpeitschen, um Feinde innerhalb eines großen Gebietes zurückzudrängen
+Bereich. | Schiebt Ziele 4 Leerräume zurück und fügt ihnen Schaden zu
+Bewegen -4. | Heilt die Müdigkeit des Benutzers.",translate,translated,displayed-string,caca1bcd76e244bb32914770b1b5b770980e14b19143575d7157428198012984
 a9e15444904f7ba697cd04b5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,241,1,string 1,"Hit your foes from an unfair vantage point!
 Flight +2","Schlagen Sie Ihre Feinde von einem unfairen Aussichtspunkt!
 Flight +2",translate,translated,displayed-string,742744748f24db6b57e9d06da90d53d8798c969214bb356c205babcebb9b184e
@@ -965,41 +965,41 @@ Adds Reflect to user.
 ARmor +2",translate,translated,displayed-string,65c47478ddfd2ba3d89ab4d62f18cb1b24acef307c3db5c2521963ab3ccb0347
 0dfb5edaaf67d9235990ede1,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,293,1,string 1,"Turn an enemy's attack back on them.
 Adds Reflect to user.
-Armor +3","Drehen Sie den Angriff eines Feindes zurück auf sie.
-Hards Reflect to user.
-ARmor +3",translate,translated,displayed-string,1afd9d3a441ddf525764438289777202fea261c9f50c68bb3036c2a719634f1b
+Armor +3","Drehen Sie den Angriff eines Feindes auf sie zurück.
+Adds reflektieren an den Benutzer.
+Armor +3",translate,translated,displayed-string,1afd9d3a441ddf525764438289777202fea261c9f50c68bb3036c2a719634f1b
 69517cfeb8bc06caca4b8acb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,294,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 294db498667f302ef0b9e0d5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,295,1,string 1,"Make all enemies in range focus their attacks on the user.
-Inflicts Enraged on targets. | Armor +2","Machen Sie alle Feinde im Bereich konzentrieren ihre Angriffe auf den Benutzer.
-Inflicts Erregt auf Ziele.",translate,translated,displayed-string,f0b34f6798d2f093f478458adb33b589e91f95b3ad29e03a05c40b67afee87f9
+Inflicts Enraged on targets. | Armor +2","Lassen Sie alle Feinde in Reichweite ihre Angriffe auf den Benutzer richten.
+Konflikte wüten auf Zielen. | Rüstung + 2",translate,translated,displayed-string,f0b34f6798d2f093f478458adb33b589e91f95b3ad29e03a05c40b67afee87f9
 e4c98fe2c436f6d43ca5f0b8,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,296,1,string 1,"Make all enemies in range focus their attacks on the user.
-Inflicts Enraged on targets. | Armor +2","Machen Sie alle Feinde im Bereich konzentrieren ihre Angriffe auf den Benutzer.
-Inflicts Erregt auf Ziele.",translate,translated,displayed-string,f0b34f6798d2f093f478458adb33b589e91f95b3ad29e03a05c40b67afee87f9
+Inflicts Enraged on targets. | Armor +2","Lassen Sie alle Feinde in Reichweite ihre Angriffe auf den Benutzer richten.
+Konflikte wüten auf Zielen. | Rüstung + 2",translate,translated,displayed-string,f0b34f6798d2f093f478458adb33b589e91f95b3ad29e03a05c40b67afee87f9
 ac9afec9cc1135595207b55c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,297,1,string 1,"Make all enemies in range focus their attacks on the user.
-Inflicts Enraged on targets. | Armor +2","Machen Sie alle Feinde im Bereich konzentrieren ihre Angriffe auf den Benutzer.
-Inflicts Erregt auf Ziele.",translate,translated,displayed-string,f0b34f6798d2f093f478458adb33b589e91f95b3ad29e03a05c40b67afee87f9
+Inflicts Enraged on targets. | Armor +2","Lassen Sie alle Feinde in Reichweite ihre Angriffe auf den Benutzer richten.
+Konflikte wüten auf Zielen. | Rüstung + 2",translate,translated,displayed-string,f0b34f6798d2f093f478458adb33b589e91f95b3ad29e03a05c40b67afee87f9
 472a45c7f67d2a3720103bdc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,298,1,string 1,"Make all enemies in range focus their attacks on the user.
-Inflicts Enraged on targets. | Armor +2","Machen Sie alle Feinde im Bereich konzentrieren ihre Angriffe auf den Benutzer.
-Inflicts Erregt auf Ziele.",translate,translated,displayed-string,f0b34f6798d2f093f478458adb33b589e91f95b3ad29e03a05c40b67afee87f9
+Inflicts Enraged on targets. | Armor +2","Lassen Sie alle Feinde in Reichweite ihre Angriffe auf den Benutzer richten.
+Konflikte wüten auf Zielen. | Rüstung + 2",translate,translated,displayed-string,f0b34f6798d2f093f478458adb33b589e91f95b3ad29e03a05c40b67afee87f9
 c87ef411c202d054cadbb9e6,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,299,1,string 1,"Make all enemies in range focus their attacks on the user.
-Inflicts Enraged on targets. | Armor +3","Machen Sie alle Feinde im Bereich konzentrieren ihre Angriffe auf den Benutzer.
-Inflicts Erregt auf Ziele.",translate,translated,displayed-string,d324ce9ac8c12ff6ca5cdbca9538b60cdac087d8781c4a62e05909dc7cb4570e
+Inflicts Enraged on targets. | Armor +3","Lassen Sie alle Feinde in Reichweite ihre Angriffe auf den Benutzer richten.
+Konflikte wüten auf Zielen. | Rüstung + 3",translate,translated,displayed-string,d324ce9ac8c12ff6ca5cdbca9538b60cdac087d8781c4a62e05909dc7cb4570e
 2f5301e08142b0f0bda03399,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,300,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 4881d564ad54e78044bb6f70,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,301,1,string 1,"Try to actually attack for once.
-Inflicts Stun on user.","Versuchen Sie, tatsächlich Angriff für einmal.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
+Inflicts Stun on user.","Versuchen Sie mal, tatsächlich anzugreifen. 
+ beeinflusst den Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
 ff909e1225fcfc3e3861c77e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,302,1,string 1,"Try to actually attack for once.
-Inflicts Stun on user.","Versuchen Sie, tatsächlich Angriff für einmal.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
+Inflicts Stun on user.","Versuchen Sie mal, tatsächlich anzugreifen. 
+ beeinflusst den Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
 ce2febbe2ea8b0f2ceb31e1d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,303,1,string 1,"Try to actually attack for once.
-Inflicts Stun on user.","Versuchen Sie, tatsächlich Angriff für einmal.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
+Inflicts Stun on user.","Versuchen Sie mal, tatsächlich anzugreifen. 
+ beeinflusst den Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
 6331f59b5417fd11908563f3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,304,1,string 1,"Try to actually attack for once.
-Inflicts Stun on user.","Versuchen Sie, tatsächlich Angriff für einmal.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
+Inflicts Stun on user.","Versuchen Sie mal, tatsächlich anzugreifen. 
+ beeinflusst den Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
 b4a3d803dc46dcf261814a0b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,305,1,string 1,"Try to actually attack for once.
-Inflicts Stun on user.","Versuchen Sie, tatsächlich Angriff für einmal.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
+Inflicts Stun on user.","Versuchen Sie mal, tatsächlich anzugreifen. 
+ beeinflusst den Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
 af3295eaa2e225f452251a29,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,306,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 a7a7cf1a511d2561e5cd29cf,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,307,1,string 1,"Consume Voltage to activate special attack.
 Inflicts Stun on user.","Verbraucht Spannung, um einen Spezialangriff auszuführen.
@@ -1313,20 +1313,20 @@ dc30ff58b6057ed6b6798423,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skil
 Ignores Armor when calculating damage.","Lösen Sie einen Diagonalen Schrägstrich vor.
 Ignoriert Rüstung bei der Berechnung von Schäden.",translate,translated,displayed-string,a58582bcd843b95a11c6219ce28ad6f6950b0947ea935db5474da972d5952871
 3ff81857a8740e701bf6e979,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,386,1,string 1,"Launch into a powerful spinning slash.
-Inflicts Stun on User.","Starten Sie in einen leistungsstarken spinning slash.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
+Inflicts Stun on User.","Starten Sie in einen leistungsstarken Spin-Slash. 
+Inflicts Stun on User.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
 0ed17166f01b08f5351a0c5a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,387,1,string 1,"Launch into a powerful spinning slash.
-Inflicts Stun on User.","Starten Sie in einen leistungsstarken spinning slash.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
+Inflicts Stun on User.","Starten Sie in einen leistungsstarken Spin-Slash. 
+Inflicts Stun on User.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
 0960cd518252985f03e35cc4,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,388,1,string 1,"Launch into a powerful spinning slash.
-Inflicts Stun on User.","Starten Sie in einen leistungsstarken spinning slash.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
+Inflicts Stun on User.","Starten Sie in einen leistungsstarken Spin-Slash. 
+Inflicts Stun on User.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
 3cf460878b74ec8dab71616b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,389,1,string 1,"Launch into a powerful spinning slash.
-Inflicts Stun on User.","Starten Sie in einen leistungsstarken spinning slash.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
+Inflicts Stun on User.","Starten Sie in einen leistungsstarken Spin-Slash. 
+Inflicts Stun on User.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
 e07e0a2f0591b6e61da5da24,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,390,1,string 1,"Launch into a powerful spinning slash.
-Inflicts Stun on User.","Starten Sie in einen leistungsstarken spinning slash.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
+Inflicts Stun on User.","Starten Sie in einen leistungsstarken Spin-Slash. 
+Inflicts Stun on User.",translate,translated,displayed-string,f737d5d5075bbec0ac6b91f19e5a92e01b2979ba1639e8f0aa4766e1d64a185c
 611b4ab81e77d986e50af11d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,391,1,string 1,"Mow down enemies in range.
 Pushes targets back 1 space.","
 Pushes Ziele zurück 1 Raum.",translate,translated,displayed-string,de73729a3269f41e08d81032e5bf92aa85d7c70c19cee18f98d98c86f8cce9e1
@@ -1484,54 +1484,54 @@ Adds Armor +1 to user.","Angriff auf einen Feind vor mit einem Wrackball.
 Hängt Rüstung +1 zum Benutzer.",translate,translated,displayed-string,ac275bfb5512bd2c321ae2298a6ab873dfd17c9b730f4399e959a87335f61023
 068c26ab56fd41446236c9ec,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,444,1,string 1,"In the ring, your body's the only thing you can 
 trust! | Inflicts Stun on target.
-Inflicts Stun on user.","Im Ring ist Ihr Körper das einzige, was Sie 
-ttrust! . .Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
+Inflicts Stun on user.","Im Ring kannst du dich nur auf deinen Körper 
+verlassen! | Versetzt das Ziel in Betäubung.
+Versetzt den Anwender in Betäubung.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
 fc0dd49337fc0093c1509b1e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,445,1,string 1,"In the ring, your body's the only thing you can 
 trust! | Inflicts Stun on target.
-Inflicts Stun on user.","Im Ring ist Ihr Körper das einzige, was Sie 
-ttrust! . .Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
+Inflicts Stun on user.","Im Ring kannst du dich nur auf deinen Körper 
+verlassen! | Versetzt das Ziel in Betäubung.
+Versetzt den Anwender in Betäubung.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
 6f5959a149b96659a33595dc,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,446,1,string 1,"In the ring, your body's the only thing you can 
 trust! | Inflicts Stun on target.
-Inflicts Stun on user.","Im Ring ist Ihr Körper das einzige, was Sie 
-ttrust! . .Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
+Inflicts Stun on user.","Im Ring kannst du dich nur auf deinen Körper 
+verlassen! | Versetzt das Ziel in Betäubung.
+Versetzt den Anwender in Betäubung.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
 3d5500dba9bd987ff4ef6ce7,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,447,1,string 1,"In the ring, your body's the only thing you can 
 trust! | Inflicts Stun on target.
-Inflicts Stun on user.","Im Ring ist Ihr Körper das einzige, was Sie 
-ttrust! . .Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
+Inflicts Stun on user.","Im Ring kannst du dich nur auf deinen Körper 
+verlassen! | Versetzt das Ziel in Betäubung.
+Versetzt den Anwender in Betäubung.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
 c1f1e02181f92cd1f8c5cdf5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,448,1,string 1,"In the ring, your body's the only thing you can 
 trust! | Inflicts Stun on target.
-Inflicts Stun on user.","Im Ring ist Ihr Körper das einzige, was Sie 
-ttrust! . .Inflicts Stun auf Ziel.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
+Inflicts Stun on user.","Im Ring kannst du dich nur auf deinen Körper 
+verlassen! | Versetzt das Ziel in Betäubung.
+Versetzt den Anwender in Betäubung.",translate,translated,displayed-string,6177d064aa6555c7e1aff67aff7d7a127c57dae7701637662545f24b3aaa4def
 c56098df537b00501af97ea3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,449,1,string 1,"Hype yourself up and get ready to run wild!
 Adds Reflect to user.
-Adds Armor +2, Attack +1 to user.","Hype selbst und machen Sie sich bereit, wild zu laufen!
-Hards Reflect to user.
-Hards Armor +2, Attack +1 to user.",translate,translated,displayed-string,ba3fcdd2a90d43b45fc87821cf7f7351e84223185fbf4df2d52db93c45fa6715
+Adds Armor +2, Attack +1 to user.","Heiz dich selbst an und mach dich bereit, richtig aufzudrehen!
+Verleiht dem Anwender Reflektieren.
+Verleiht dem Anwender Rüstung +2 und Angriff +1.",translate,translated,displayed-string,ba3fcdd2a90d43b45fc87821cf7f7351e84223185fbf4df2d52db93c45fa6715
 5fb086bfbd11b03c9cb8c0e5,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,450,1,string 1,"Hype yourself up and get ready to run wild!
 Adds Reflect to user.
-Adds Armor +2, Attack +1 to user.","Hype selbst und machen Sie sich bereit, wild zu laufen!
-Hards Reflect to user.
-Hards Armor +2, Attack +1 to user.",translate,translated,displayed-string,ba3fcdd2a90d43b45fc87821cf7f7351e84223185fbf4df2d52db93c45fa6715
+Adds Armor +2, Attack +1 to user.","Heiz dich selbst an und mach dich bereit, richtig aufzudrehen!
+Verleiht dem Anwender Reflektieren.
+Verleiht dem Anwender Rüstung +2 und Angriff +1.",translate,translated,displayed-string,ba3fcdd2a90d43b45fc87821cf7f7351e84223185fbf4df2d52db93c45fa6715
 f041030523655df2a29d70a2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,451,1,string 1,"Hype yourself up and get ready to run wild!
 Adds Reflect to user.
-Adds Armor +2, Attack +1 to user.","Hype selbst und machen Sie sich bereit, wild zu laufen!
-Hards Reflect to user.
-Hards Armor +2, Attack +1 to user.",translate,translated,displayed-string,ba3fcdd2a90d43b45fc87821cf7f7351e84223185fbf4df2d52db93c45fa6715
+Adds Armor +2, Attack +1 to user.","Heiz dich selbst an und mach dich bereit, richtig aufzudrehen!
+Verleiht dem Anwender Reflektieren.
+Verleiht dem Anwender Rüstung +2 und Angriff +1.",translate,translated,displayed-string,ba3fcdd2a90d43b45fc87821cf7f7351e84223185fbf4df2d52db93c45fa6715
 3a0dd2fbf5ce0f77b4502fb6,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,452,1,string 1,"Hype yourself up and get ready to run wild!
 Adds Reflect to user.
-Adds Armor +2, Attack +1 to user.","Hype selbst und machen Sie sich bereit, wild zu laufen!
-Hards Reflect to user.
-Hards Armor +2, Attack +1 to user.",translate,translated,displayed-string,ba3fcdd2a90d43b45fc87821cf7f7351e84223185fbf4df2d52db93c45fa6715
+Adds Armor +2, Attack +1 to user.","Heiz dich selbst an und mach dich bereit, richtig aufzudrehen!
+Verleiht dem Anwender Reflektieren.
+Verleiht dem Anwender Rüstung +2 und Angriff +1.",translate,translated,displayed-string,ba3fcdd2a90d43b45fc87821cf7f7351e84223185fbf4df2d52db93c45fa6715
 78fa6d16c0988029bdd4a2c1,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,453,1,string 1,"Hype yourself up and get ready to run wild!
 Adds Reflect to user.
-Adds Armor +3, Attack +2 to user.","Hype selbst und machen Sie sich bereit, wild zu laufen!
-Adds Reflect to user.
-Hards Armor +3, Attack +2 to user.",translate,translated,displayed-string,1ac3854aa9956988543a6a08eb1542d47957615213150cf94962f61704484423
+Adds Armor +3, Attack +2 to user.","Hype dich selbst und mach dich bereit, dich zu verrückt!
+Fügt dem Benutzer Reflect hinzu.
+Fügt dem Benutzer Rüstung + 3 hinzu, Attacke + 2.",translate,translated,displayed-string,1ac3854aa9956988543a6a08eb1542d47957615213150cf94962f61704484423
 8df2d307b3e7ea3316c33ded,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,454,1,string 1,"Consume Voltage to activate special attack.
 Inflicts Stun on user.","Verbraucht Spannung, um einen Spezialangriff auszuführen.
 Versetzt den Anwender in Betäubung.",translate,translated,displayed-string,7791dea7aad46f8f0bbb8a57d48e6929ff8b847447f8d7e684ff427bbdff90f9
@@ -2392,11 +2392,11 @@ d45aea6dc10548264d5d84e7,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skil
 b6de870e17c24e94516e7d4c,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,691,1,string 1,Attack from a distance.,Angriff aus der Ferne.,translate,translated,displayed-string,c629a692e29f32fd6fc93a1bf4a321d3db4e2a24a84ae1ece82e1109006f703b
 4c3660c4a857aa4cb74f142b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,692,1,string 1,Attack from a distance.,Angriff aus der Ferne.,translate,translated,displayed-string,c629a692e29f32fd6fc93a1bf4a321d3db4e2a24a84ae1ece82e1109006f703b
 00917d85554e92bf2f182ba9,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,693,1,string 1,"Inflicts Move -3 on target.
-Pushes target back 1 space.","Inflicts Bewegen Sie -3 auf Ziel.
-Pushes Ziel zurück 1 Leerzeichen.",translate,translated,displayed-string,19b3d2addb53b94ee7612717176335fa63a3aa71f47c59eccf97a06ced530738
+Pushes target back 1 space.","Bewegt 3 auf das Ziel. 
+ Drückt das Ziel zurück in 1 Platz.",translate,translated,displayed-string,19b3d2addb53b94ee7612717176335fa63a3aa71f47c59eccf97a06ced530738
 3298dfab8b23c4b98a2af108,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,694,1,string 1,"Inflicts Move -3 on target.
-Pushes target back 1 space.","Inflicts Bewegen Sie -3 auf Ziel.
-Pushes Ziel zurück 1 Leerzeichen.",translate,translated,displayed-string,19b3d2addb53b94ee7612717176335fa63a3aa71f47c59eccf97a06ced530738
+Pushes target back 1 space.","Bewegt 3 auf das Ziel. 
+ Drückt das Ziel zurück in 1 Platz.",translate,translated,displayed-string,19b3d2addb53b94ee7612717176335fa63a3aa71f47c59eccf97a06ced530738
 664273394272440555a3f176,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,695,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 f022c7cf53a054f85a45ed43,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,696,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 4d68f354e0a4ecca39838940,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,697,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
@@ -2427,14 +2427,14 @@ fe1da9cde10ed98791e4adba,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skil
 90cfa96ec3853ba39f33785e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,722,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 6dacf6c668a01e5effea89d0,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,723,1,string 1,Attack from a distance.,Angriff aus der Ferne.,translate,translated,displayed-string,c629a692e29f32fd6fc93a1bf4a321d3db4e2a24a84ae1ece82e1109006f703b
 8b5961de27535cb362eb1371,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,724,1,string 1,Inflicts Attack -1 on target.,Angriff -1 auf das Ziel.,translate,translated,displayed-string,c21209725a1c0d32c101338c831895d09ab2853dc92f9f87861099e4a4fe5ec5
-004a3d9eaf84094555556f46,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,725,1,string 1,Inflicts Stun on target.,Eindringt auf das Ziel.,translate,translated,displayed-string,40340640c2b9119a67b05a20a1a731eccfd00cf6c2b4926b6b86f5d07d748413
+004a3d9eaf84094555556f46,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,725,1,string 1,Inflicts Stun on target.,Verursacht Stun auf das Ziel.,translate,translated,displayed-string,40340640c2b9119a67b05a20a1a731eccfd00cf6c2b4926b6b86f5d07d748413
 fbc8e55361ddd3e9cca507d8,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,726,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 7703e0db24231424d60baf2b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,727,1,string 1,Add Armor to all allies within range.,Armor zu allen Verbündeten in Reichweite hinzufügen.,translate,translated,displayed-string,fa64c2b68119032c0121bed94e7c3ae06ff662186042224465282a40ba1fa521
 da9e9b7eba238d1bd628e195,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,728,1,string 1,Ignores Armor when calculating damage.,Ignoriert Rüstung bei der Berechnung von Schäden.,translate,translated,displayed-string,fae4c2f9459fc1468ac6d394a289dff325c14f7c34fff384af30cdb74a373651
 5b9bfc73dd7751106373202e,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,729,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 daf12b2546d11c988c6eccee,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,730,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
-7ffd9c55dfcc1edc84dcdf05,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,731,1,string 1,Inflicts Stun on target.,Eindringt auf das Ziel.,translate,translated,displayed-string,40340640c2b9119a67b05a20a1a731eccfd00cf6c2b4926b6b86f5d07d748413
-d95ec87cdebcf6974d17a018,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,732,1,string 1,Inflicts Stun on target.,Eindringt auf das Ziel.,translate,translated,displayed-string,40340640c2b9119a67b05a20a1a731eccfd00cf6c2b4926b6b86f5d07d748413
+7ffd9c55dfcc1edc84dcdf05,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,731,1,string 1,Inflicts Stun on target.,Verursacht Stun auf das Ziel.,translate,translated,displayed-string,40340640c2b9119a67b05a20a1a731eccfd00cf6c2b4926b6b86f5d07d748413
+d95ec87cdebcf6974d17a018,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,732,1,string 1,Inflicts Stun on target.,Verursacht Stun auf das Ziel.,translate,translated,displayed-string,40340640c2b9119a67b05a20a1a731eccfd00cf6c2b4926b6b86f5d07d748413
 5b5454c70a3d0013474fe7b7,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,733,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 58a8ff44ff4db92cce5b7ba2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,734,1,string 1,-,-,protected,protected,non-linguistic,3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112
 31bcb9d7c343b36ae8864de4,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,735,1,string 1,Pushes target back 1 space.,Drückt Ziel 1 Raum zurück.,translate,translated,displayed-string,6b149051522b06435f533ebffa4acc0d102c4fbb061674317efeaf0128016c88
@@ -2811,7 +2811,7 @@ fc8c3e72d63506384ecebdd3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skil
 92dd0687c6d7a08af390a325,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1096,1,string 1,"Launch a volley of knives in a vertical line.
 User recovers 1 HP.","Starten Sie eine Volley von Messern in einer vertikalen Linie.
 User gewinnt 1 HP.",translate,translated,displayed-string,c92ba5ab7a22940d8e0de827a87ca36ea1c1c373e812b1e31a8ad7d9de6f3d89
-4c197e5769a0ce8f65ead1d0,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1097,1,string 1,Inflicts Stun on user and Bleed on target.,Beleidigt Benutzer und Bleed auf Ziel.,translate,translated,displayed-string,efe36f3dd68da93a18ae922341be80b4d619d5ad406e45d2ba37e5976da48f20
+4c197e5769a0ce8f65ead1d0,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1097,1,string 1,Inflicts Stun on user and Bleed on target.,Verursacht Stun auf den Benutzer und Blutung auf das Ziel.,translate,translated,displayed-string,efe36f3dd68da93a18ae922341be80b4d619d5ad406e45d2ba37e5976da48f20
 218dad94eb5f25d15cf24699,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1098,1,string 1,Mow down enemies in front.,Vorne Feinde niedermähen.,translate,translated,displayed-string,67909fbc1b1523c364c44e4a08f8c67acc6086535a42c3022c7d6de6015b94f0
 8d1604f8fd0a48a6b24a765a,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1099,1,string 1,Mow down enemies in front.,Vorne Feinde niedermähen.,translate,translated,displayed-string,67909fbc1b1523c364c44e4a08f8c67acc6086535a42c3022c7d6de6015b94f0
 c471f8dbe4229d5347daafa2,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1100,1,string 1,Mow down enemies in front.,Vorne Feinde niedermähen.,translate,translated,displayed-string,67909fbc1b1523c364c44e4a08f8c67acc6086535a42c3022c7d6de6015b94f0
@@ -2852,8 +2852,8 @@ e9c494529245bbfc70d126cb,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skil
 Pushes target back 1 space.","Liefern Sie einen mächtigen Schlag auf einen Feind vor.
 Pushes Ziel zurück 1 Raum.",translate,translated,displayed-string,8264d1bd8d4bc78f2ec509964086256795c6b0f20d139c2f15b198da45a29781
 9ea9efb67ac3db09478581c8,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1115,1,string 1,"Inflicts Stun on user.
-Pushes target back 3 spaces.","Inflicts Stun auf Benutzer.
-Pushes Ziel zurück 3 Leerzeichen.",translate,translated,displayed-string,91a66358d1d44b3194b5920d06f317d1aef4b8417dfb83cba5f75fd3c3f77216
+Pushes target back 3 spaces.","
+ Drückt das Ziel zurück in 3 Räume.",translate,translated,displayed-string,91a66358d1d44b3194b5920d06f317d1aef4b8417dfb83cba5f75fd3c3f77216
 248d78b784439932574b09fd,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1116,1,string 1,"Fire a long-range attack in a vertical line.
 Ignores Armor when calculating damage
 Inflicts Attack -3 on user.","Feuern Sie einen Long-Range-Angriff in einer vertikalen Linie.
@@ -2861,8 +2861,8 @@ Ignoriert Rüstung bei der Berechnung von Schäden
 Inflicts Attack -3 auf Benutzer.",translate,translated,displayed-string,63e9e19c897e853de1615f70ec88b218c1c6ee3da71345b383333521ce68104b
 7a04c205fe3d096029763e82,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1117,1,string 1,Inflicts Stun on user.,Verstümmelt den Benutzer.,translate,translated,displayed-string,65b86de62e9634ee6247b5684b14c3a2b0b6fe1952dceccd6876fbd9b29c61d2
 fa2d4af81c08eda63f164d5f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1118,1,string 1,"Try to actually attack for once.
-Inflicts Stun on user.","Versuchen Sie, tatsächlich Angriff für einmal.
-Inflicts Stun auf Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
+Inflicts Stun on user.","Versuchen Sie mal, tatsächlich anzugreifen. 
+ beeinflusst den Benutzer.",translate,translated,displayed-string,4afd34d95a4b8c594aec5181fbb485719510c720e4968b0da5cc5d523d01efeb
 32871d22438710415551b5ea,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/skill_explanation.mbe/000_Sheet1.csv,1119,1,string 1,"Fire a bullet that paralyzes enemies.
 Inflicts Stun on target.
 Flight +2","Feuern Sie eine Kugel, die Feinde lähmt.

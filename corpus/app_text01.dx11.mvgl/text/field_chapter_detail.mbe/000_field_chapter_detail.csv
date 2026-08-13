@@ -479,10 +479,10 @@ Decide: Who Are You Going to Save","Kapitel00_0_a-033
 Battle
 Decide: Wer werden Sie speichern",translate,translated,displayed-string,181a1301d0374c959ff895c50336309649d44333fd4d9b7843e43773b1cf961c
 3eda4042f7c2a9af8d8e29b3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,156,1,string 1,"Who Are You Going to Save
-Gaku","Wer gehen Sie zu Save
+Gaku","Wer wirst du retten
 Gaku",translate,translated,displayed-string,97127a91dbfe3a2612f8df88a9c96f7b9c8b507ffbde59d183b454418f5f4c08
 afa672179061eabf726ff5ff,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,157,1,string 1,"Who Are You Going to Save
-Kurara","Wer gehen Sie zu Save
+Kurara","Wer wirst du retten
 Kurara",translate,translated,displayed-string,bb1caecc42bf02e100605bfe7c296a0871982433cf9260418c2459e3c3934ecd
 f7b664d2233775939ad89b4c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,158,1,string 1,"Chapter00_0_a-033
 ","Chapter00_0_a-033
@@ -545,10 +545,10 @@ Freizeit",translate,translated,displayed-string,8331ae2c3687078424d2f6adf63cf399
 Decide: Let the Undying Flames Boy Join","Kapitel00_0_a-052
 Decide: Lassen Sie den sterbenden Flammen Jungen beitreten",translate,translated,displayed-string,89a8ebb4897fe4632353bd01531ae1b085efb76b9346dece2f9b969e08b67203
 b142a9d3e73e36319b6da418,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,178,1,string 1,"Let the Undying Flames Boy Join
-Yes","Lassen Sie die Undying Flames Boy Join
-Yes",translate,translated,displayed-string,2ab5ab86770eb1a902395a862f05a0d75520fe3db01f214001b036f6f98b4396
+Yes","Lasst den unsterblichen Flammen-Jung zu 
+",translate,translated,displayed-string,2ab5ab86770eb1a902395a862f05a0d75520fe3db01f214001b036f6f98b4396
 8e5aa2ecf58423212b9ab54b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,179,1,string 1,"Let the Undying Flames Boy Join
-No","Lassen Sie die Undying Flames Boy Join
+No","Lasst die unsterbenden Flammen Junge beitreten! 
 No",translate,translated,displayed-string,bf2b565128536c0a9624423f8cb58113ca1a6d42ed86aeaec659ffdb9136d856
 ec42fa216a6d37b108d8c1b8,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,180,1,string 1,"Chapter00_0_a-052
 ","Chapter00_0_a-052
@@ -571,7 +571,7 @@ Decide: Kill Eito","Kapitel00_0_a-057
 Battle
 Beschluss: Töten Eito",translate,translated,displayed-string,d139c11b43b2505f52f3f6a77578bf3a09c2b679044bb3cf5d019d0c4db36446
 d391a10e3a7457c18490158a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,186,1,string 1,"Kill Eito
-No","Töten Eito
+No","Schlagen Sie Eito
 No",translate,translated,displayed-string,640822b3cb94f2aa666b83404f36eca7249fcda48479c5f26d1a45a6d3cf143c
 404a65b42bd6f559016a16c4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,187,1,string 1,"Kill Eito
 Yes","Töten Eito
@@ -603,8 +603,8 @@ Entscheidung: Evas Schicksal (2)",translate,translated,displayed-string,de4407f5
 Let Shouma Kill Her","Entscheide Evas Schicksal
 Let Shouma sie töten",translate,translated,displayed-string,91638fc7230f094d246c6ecbeb1ac0272954ce1bd79d04798e7b4ab70e7525ee
 e056890cc3abe012b579aa09,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,196,1,string 1,"Decide Eva's Fate
-Protect Her","Entscheide Evas Schicksal
-Protect Sie",translate,translated,displayed-string,c28a0c9917019df2f6d63510320131c7b93330b432c2db5796bda9df2d2c28ba
+Protect Her","Evas Schicksal entscheidet
+Schützt sie",translate,translated,displayed-string,c28a0c9917019df2f6d63510320131c7b93330b432c2db5796bda9df2d2c28ba
 806299abf1fb651bb01cf970,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,197,1,string 1,"Chapter00_1-063
 ","Chapter00_1-063
 ",review,pending,ambiguous-single-token,69c3e4740689e5dac55e7f2fa2964fa32055c169dccaa21482aa8305331aeb57
@@ -745,12 +745,12 @@ No","Sirei ein letztes Mal besiegen
 No",translate,translated,displayed-string,25b530f478a13fab3e888a75037b20317882019fc0c2dca9c11e5b148f16e7d6
 4ae4ccb1fd4aa085cb4d7eb0,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,243,1,string 1,"Chapter00_1-100
 Battle
-Ending 001","Kapitel00_1-100
-Battle
-ende 001",translate,translated,displayed-string,e17e763fa659a6b251d6975a733bf9a9b8d97665a7a673a92b19808134487a1f
+Ending 001","Kapitel 00 _ 1-100
+Schlacht
+Schluss mit 001",translate,translated,displayed-string,e17e763fa659a6b251d6975a733bf9a9b8d97665a7a673a92b19808134487a1f
 91344c96dc567b7420880d66,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,244,1,string 1,"Chapter01_0-100
-Ending 002","Kapitel01_0-100
-endeding 002",translate,translated,displayed-string,263af28df894802ef8d9b902ed163efc12344392b677bbffc0fbde8a11106398
+Ending 002","Kapitel 01 _ 0-100
+Schluss mit 002",translate,translated,displayed-string,263af28df894802ef8d9b902ed163efc12344392b677bbffc0fbde8a11106398
 cc41f606a1900314e8dd254f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,245,1,string 1,"Chapter02_0-082
 ","Chapter02_0-082
 ",review,pending,ambiguous-single-token,8fab308d6430364e8577447581e18379429ac7b68ab0faa33bc5bb4b9be376fd
@@ -844,14 +844,14 @@ Decide: Who Are You Going to Save","Kapitel03_0_a-099
 Battle
 Decide: Wer werden Sie speichern",translate,translated,displayed-string,fde20217f794af2f3d3a4c33d047a2884dac44ff11c1bf33fcadedaac764b430
 e50d139535705c5e68032d33,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,275,1,string 1,"Who Are You Going to Save
-Nozomi","Wer gehen Sie zu Save
+Nozomi","Wer wirst du retten
 Nozomi",translate,translated,displayed-string,4825f1216f5f363b35ff89e9df8ac78bbbecca91c92e5ea3b57b6ae96d9a2487
 e508d766b4239fdcbc2b578b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,276,1,string 1,"Who Are You Going to Save
-Kamyuhn","Wer gehen Sie zu Save
+Kamyuhn","Wer wird Sie retten? Save
 Kamyuhn",translate,translated,displayed-string,0092c5b8a32dfc593a21cf439223d2e89404eee03b7f76d062e7ab96c05b1b98
 5712c2d7ddefeb824178a164,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,277,1,string 1,"Chapter03_0_aa-099
-Ending 005","Kapitel03_0_aa-099
-endeding 005",translate,translated,displayed-string,7b152a649fe6d9c04f9b6850598c199eff386b666c82052ace44c471f49a20eb
+Ending 005","Kapitel 03_0_aa-099
+ Ende 005",translate,translated,displayed-string,7b152a649fe6d9c04f9b6850598c199eff386b666c82052ace44c471f49a20eb
 f9e22f5c247fd15cf64dc1e1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,278,1,string 1,"Chapter03_0_ab-099
 Ending 006","Kapitel03_0_ab-099
 endeding 006",translate,translated,displayed-string,2827dcf5058d00bd906a493e5eea574c4bcaa53bfe4395db2e26e7611984d15a
@@ -928,20 +928,20 @@ Decide: Letzte Verteidigungsakademie speichern",translate,translated,displayed-s
 Go Save It","Letzte Verteidigung speichern Academy
 Go Speichern",translate,translated,displayed-string,5423eeed9f8d5b6015b6eb9832f5ad56b238b4837f77e894bfb94c0de7974034
 35eed582200e417ad7979cd4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,303,1,string 1,"Save Last Defense Academy
-Stay Here","Speichern letzte Verteidigung Academy
-Stay Hier",translate,translated,displayed-string,62818c964106570d46ffb7beaa940647e5d2f77b2fd27c20e5a5b7437e45d54f
+Stay Here","Speichern Sie die letzte Verteidigungsakademie
+ Bleiben Sie hier",translate,translated,displayed-string,62818c964106570d46ffb7beaa940647e5d2f77b2fd27c20e5a5b7437e45d54f
 c0793a01215b0c849a47a35e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,304,1,string 1,"Chapter04_0_a-098
 ","Chapter04_0_a-098
 ",review,pending,ambiguous-single-token,271bd9a1ba8b95629c1263e8c9a26490c9f430a78689d924c04549b57fccb1ba
 9b121defabd5e457bbb8bac7,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,305,1,string 1,"Chapter04_0_a-099
-Ending 007","Kapitel04_0_a-099
-endeding 007",translate,translated,displayed-string,7f5c912a924fe52292c2f9a87f0a72035c7b4304a577ccc4324498689861c6f4
+Ending 007","Kapitel 04_0_a-099
+ Ende 007",translate,translated,displayed-string,7f5c912a924fe52292c2f9a87f0a72035c7b4304a577ccc4324498689861c6f4
 6a2c2c09835918f78790d1ed,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,306,1,string 1,"Chapter04_0_b-098
-Ending 008","Kapitel04_0_b-098
-endeding 008",translate,translated,displayed-string,2eff5238745fd511e92779d4db9f939e5f32bdf25788246f71410c3348d9dc03
+Ending 008","Kapitel 04_0_b-098
+ Ende 008",translate,translated,displayed-string,2eff5238745fd511e92779d4db9f939e5f32bdf25788246f71410c3348d9dc03
 95e03093a90102e7fc1fb198,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,307,1,string 1,"Chapter04_0_b-099
-Ending 008","Kapitel04_0_b-099
-endeding 008",translate,translated,displayed-string,d41574e04da68f33340ef77d96f36f8e0ef6ea47b44d2f83f696ea5b0805cfa1
+Ending 008","Kapitel 04_0_b-099
+ Ende 008",translate,translated,displayed-string,d41574e04da68f33340ef77d96f36f8e0ef6ea47b44d2f83f696ea5b0805cfa1
 4da4ec1cdc34bd98a9c8d2fc,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,308,1,string 1,"Chapter05_0-057
 ","Chapter05_0-057
 ",review,pending,ambiguous-single-token,bddad211b910b3d40a6e598137f2d3057db867607fedd3594a0e93eae48eda46
@@ -970,11 +970,11 @@ caed786857cbc199928bce62,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 Decide: The Final Word","Kapitel05_0_a-062
 Decide: Das letzte Wort",translate,translated,displayed-string,6ca4a7638fcb2533667188a646d62a1d10c6a4d21b17f33b12ef4e86e4f33f53
 a1c47b10b0e720bb97e3684e,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,317,1,string 1,"The Final Word
-I Lose","Der letzte Word
-I Verlust",translate,translated,displayed-string,9ee32da7e2f1c0f2265205c8967bee199c0aa117042ed4aaf34f4674f69d56f4
+I Lose","Die endgültige Word
+I-Niederlage",translate,translated,displayed-string,9ee32da7e2f1c0f2265205c8967bee199c0aa117042ed4aaf34f4674f69d56f4
 2482b5a3e02241c23f0d81d9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,318,1,string 1,"The Final Word
-You Win","Das letzte Word
-You gewinnen",translate,translated,displayed-string,05baa28b9244d09aa6cdfdaf2ec6e40c96d0d32b76a13898538394091052e6fc
+You Win","Das letzte Wort
+ Sie gewinnen",translate,translated,displayed-string,05baa28b9244d09aa6cdfdaf2ec6e40c96d0d32b76a13898538394091052e6fc
 f52ac88e2f7b5242c8767c13,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,319,1,string 1,"Chapter05_0_aa-062
 Ending 009","Kapitel05_0_aa-062
 ende 009",translate,translated,displayed-string,77d677453e31284f9b9cf9886ecbddde3d29dfd3f8dffaec995608719bfdc4dc
@@ -988,11 +988,11 @@ b1e2974e8d9d06de1654638c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 Decide: The Hate","Kapitel05_0_b-062
 Decide: Der Hass",translate,translated,displayed-string,a9f8eb55419b219347bf72f34c2339b69841793af46e0c1504c654490ae30fb3
 197d582bcebbadc1fe6eda1a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,323,1,string 1,"The Hate
-Embrace It","Das Hate
-Embrace es",translate,translated,displayed-string,090b8b6fc2badf45635dfa4d65bb0eb38a43318e20fa9c2bd0aa49c6692fd606
+Embrace It","Der Hass
+Umarme es",translate,translated,displayed-string,090b8b6fc2badf45635dfa4d65bb0eb38a43318e20fa9c2bd0aa49c6692fd606
 d9dd4791f68247b86664e2e4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,324,1,string 1,"The Hate
-Reject It","Das Hass
-Reject Es",translate,translated,displayed-string,5e96837c1c47c647801c01bb12b1f5f3b7872716ea333ff7dd9f7093bf5d6c9c
+Reject It","Der Hass
+Ablehnung",translate,translated,displayed-string,5e96837c1c47c647801c01bb12b1f5f3b7872716ea333ff7dd9f7093bf5d6c9c
 220e662916aef4143cd2f22f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,325,1,string 1,"Chapter05_0_ba-062
 Ending 011","Kapitel05_0_ba-062
 ende 011",translate,translated,displayed-string,896f07470caa487cbd60dc2fbe9ebca3899aee80fd182d8ac7fd055e1ddce033
@@ -1147,8 +1147,8 @@ Battle",translate,translated,displayed-string,4b3ed5521fc61a63cf09c4075f2fbb93d6
 Decide: My Fight","Kapitel06_0-100
 Decide: Mein Kampf",translate,translated,displayed-string,4d2acacdeda2705f39dedb18de4ce71624c6d01a51a5ed4ef9d6984f212cb88e
 3afc848f4296b5373b132958,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,376,1,string 1,"My Fight
-Is Over","Meine Fight
-Is",translate,translated,displayed-string,eebdfd314da5587e07035e0aae2cf8322e77bc047b70921decadaed6321061dc
+Is Over","Mein Fight
+Is ist vorbei",translate,translated,displayed-string,eebdfd314da5587e07035e0aae2cf8322e77bc047b70921decadaed6321061dc
 9c95b69e2db9dd28547e9768,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,377,1,string 1,"My Fight
 Isn't Over Yet","Mein Kampf
 Ist noch nicht vorbei",translate,translated,displayed-string,08e1ceab5a82523a7d41be15fc0cd4526ddcbda42acf97b7c98b321809d603e2
@@ -1192,8 +1192,8 @@ b7b2a9d688b21631fd5d82ef,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 Kurara","Wer werden Sie überzeugen First
 Kurara",translate,translated,displayed-string,1f9728e7f6c7dc901ca1a73e74c91c94566b8323f49141853a95f246b2cd4a63
 f477660346633cd03dcb81d6,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,391,1,string 1,"Chapter07_0_aaa-035
-Ending 017","Kapitel07_0_aaa-035
-endeding 017",translate,translated,displayed-string,5c6976103313f71fde3f406f9a179941607aa3aec4addc44dc30a6e251270ad6
+Ending 017","Kapitel 07_0_aaa-035
+ Ende 017",translate,translated,displayed-string,5c6976103313f71fde3f406f9a179941607aa3aec4addc44dc30a6e251270ad6
 94b5190cd938e6ab561177c3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,392,1,string 1,"Chapter07_0_aab-035
 Decide: Were Our Friends' Deaths In Vain","Kapitel07_0_aab-035
 Decide: Waren der Tod unserer Freunde in der Leere",translate,translated,displayed-string,5a49641bb18fb8ffac3a1b9e6126374e3d66d8e4f03b64002d8e78a1c23d75ba
@@ -1237,17 +1237,17 @@ ce0c96d747ed2751e13f4e92,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 ","Chapter07_0_aabaaaa-036
 ",review,pending,ambiguous-single-token,fa081ec5aaaae437bafd1938b866ca16fdebf0909d0c1c7fc017867eb5bb7956
 05061eae2390473422f17ec5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,406,1,string 1,"Chapter07_0_aabaaaa-037
-Ending 022","Kapitel07_0_aabaaaa-037
-endeding 022",translate,translated,displayed-string,85e73888491bf1c6d59c79e6ce42d2d0181a0bf592388d38a44edfe787a1149f
+Ending 022","Kapitel 07_0_aabaaaa-037
+ Ende 022",translate,translated,displayed-string,85e73888491bf1c6d59c79e6ce42d2d0181a0bf592388d38a44edfe787a1149f
 1e4d49b7e424a73261ae49ac,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,407,1,string 1,"Chapter07_0_aabaaab-036
-Ending 021","Kapitel07_0_aabaaab-036
-endeding 021",translate,translated,displayed-string,d15cb1bb3e319c3e80cbaf95724c5626d17db737da81d34ca886f4fee4351279
+Ending 021","Kapitel 07_0_aabaaab-036
+ Ende 021",translate,translated,displayed-string,d15cb1bb3e319c3e80cbaf95724c5626d17db737da81d34ca886f4fee4351279
 c8028ccc47e7d54b3e7600bf,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,408,1,string 1,"Chapter07_0_aabaab-035
 Ending 020","Kapitel07_0_aabaab-035
 ende 020",translate,translated,displayed-string,0ea5ee0f087e7958ceaa1bdf370f18dcb035fca0661cf021b8659a63eec038ec
 876ef4c6e71769ef59d210d1,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,409,1,string 1,"Chapter07_0_aabab-035
-Ending 019","Kapitel07_0_aabab-035
-endeding 019",translate,translated,displayed-string,0d06d85939e8b2bdef8c6a5ad7c541d9e3e2cf95559799d405daac87c1deff2f
+Ending 019","Kapitel 07_0_aabab-035
+ Ende 019",translate,translated,displayed-string,0d06d85939e8b2bdef8c6a5ad7c541d9e3e2cf95559799d405daac87c1deff2f
 cd0bc63ac13c46d72d26d16a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,410,1,string 1,"Chapter07_0_aabb-035
 Ending 018","Kapitel07_0_aabb-035
 ende 018",translate,translated,displayed-string,14c921ce57f3e3cc2d149c3599e0258fd71fb79f2c6de8fb3fda8c3724a17d5e
@@ -1370,11 +1370,11 @@ f52d5ab7200ec4d974417f01,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 Decide: Who Will You Look For","Kapitel09_0-022
 Decide: Wer werden Sie suchen",translate,translated,displayed-string,765fcd208e0ece80e3e324ed19ae4a55740c157002452ddef80802e6b290d696
 20f59a1f628460a15077edab,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,451,1,string 1,"Who Will You Look For
-Kako","Wer werden Sie suchen For
+Kako","Wem wirst du suchen
 Kako",translate,translated,displayed-string,296c540067f381fd454506ebb6d66712ef843db8ed038769ef76c60bef11d1b8
 718576b5201ed03c388a7aaf,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,452,1,string 1,"Who Will You Look For
-Shadowy Figure","Wer werden Sie suchen For
-Shadowy Figur",translate,translated,displayed-string,d47c9b35b491056a376970f409d66e9b2893967e2d617d1af2668d6e253a1f7d
+Shadowy Figure","Wer wird Sie für 
+Shadowy Figur suchen",translate,translated,displayed-string,d47c9b35b491056a376970f409d66e9b2893967e2d617d1af2668d6e253a1f7d
 ba5178f1f8c924defcc86e15,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,453,1,string 1,"Chapter09_A-022
 ","Chapter09_A-022
 ",review,pending,ambiguous-single-token,93b8a6b24928229c0540bf7ce20327ae04713a950722f15b632cb7ae79890077
@@ -1516,14 +1516,14 @@ Decide: Which Boxes Will You Open","Kapitel09_A_aa-099
 Battle
 Entscheidung: Welche Boxen öffnen Sie",translate,translated,displayed-string,16c4cae532487feaaecc6f98c2fd95e13963bc830ae108acd45ce1e1d17db0fd
 16b7025129acade23455d08d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,499,1,string 1,"Which Boxes Will You Open
-Prime Numbers","Welche Boxen werden Sie Open
-Prime Zahlen",translate,translated,displayed-string,81b4216b011b7598ec91da34bc1ec1c3bc9007e1b8ff54da61efd1859412ee24
+Prime Numbers","Welche Boxen Sie öffnen werden: 
+Prime-Nummern",translate,translated,displayed-string,81b4216b011b7598ec91da34bc1ec1c3bc9007e1b8ff54da61efd1859412ee24
 234cfb17ae48614ae046460f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,500,1,string 1,"Which Boxes Will You Open
-Odd Numbers","Welche Boxen werden Sie Open
-Odd Zahlen",translate,translated,displayed-string,6d86785a35074bfacb9e6ddf0fd39c7f48a15ed440117673a52bbe0cf9fb1454
+Odd Numbers","Welche Boxen werden Sie öffnen?
+Ungewöhnliche Zahlen",translate,translated,displayed-string,6d86785a35074bfacb9e6ddf0fd39c7f48a15ed440117673a52bbe0cf9fb1454
 44fc5622b144353ac4bb3d73,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,501,1,string 1,"Chapter09_A_aaa-099
-Ending 025","Kapitel09_A_aaa-099
-endeding 025",translate,translated,displayed-string,c88a3e42c563cc18b9c55926b81942477456285c1bb2ee9c0cc61f257b9e2a9a
+Ending 025","Kapitel 09_A_aaa-099
+ Ende 025",translate,translated,displayed-string,c88a3e42c563cc18b9c55926b81942477456285c1bb2ee9c0cc61f257b9e2a9a
 d616baf4215e7d541ab2a9d9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,502,1,string 1,"Chapter09_A_aab-099
 Ending 026","Kapitel09_A_aab-099
 ende 026",translate,translated,displayed-string,760c5944650e0705ee5e079d9dcae28a31e7cc3754657347216167d8737c974b
@@ -1563,14 +1563,14 @@ Decide: Wie werden Sie mit Eito umgehen",translate,translated,displayed-string,a
 Let Gaku","Wie werden Sie mit Eito
 Let Gaku",translate,translated,displayed-string,5867ed8ecaa79b2e295bba7eb9f551041ae9e0f33a6bf9871a895016a7709ad1
 806eed2e86f45d19a9b9e2c3,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,514,1,string 1,"How Will You Deal With Eito
-Do It Yourself","Wie werden Sie mit Eito
-Do es sich selbst",translate,translated,displayed-string,8abe9a0f2e87ccaf1cf28800ca92e2d2047d31f0fdf527975bb8b12154c2f3fb
+Do It Yourself","Wie wirst du mit Eito
+ umgehen?",translate,translated,displayed-string,8abe9a0f2e87ccaf1cf28800ca92e2d2047d31f0fdf527975bb8b12154c2f3fb
 c83ee87e781d36c8b72aa22f,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,515,1,string 1,"Chapter09_A_aba-099
 Ending 027","Kapitel09_A_aba-099
 ende 027",translate,translated,displayed-string,11f429d322d88f8034b04b049111cb94b110c26bbd4deb8ab2cf1358e48d7323
 741b03cd60333c1df7a9b32a,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,516,1,string 1,"Chapter09_A_abb-099
-Ending 028","Kapitel09_A_abb-099
-endeding 028",translate,translated,displayed-string,fd1d84e18238c51faf053e603b05b0036c407352ff217d9794375349b51a25b0
+Ending 028","Kapitel 09_A_abb-099
+ Ende 028",translate,translated,displayed-string,fd1d84e18238c51faf053e603b05b0036c407352ff217d9794375349b51a25b0
 e502c0aa4f18a8b46031f988,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,517,1,string 1,"Chapter09_A_b-045
 ","Chapter09_A_b-045
 ",review,pending,ambiguous-single-token,1369dcb7b2a8e9b6776f2068f5970d3c185b7e5612dc38c6715b4bfd85cdeeeb
@@ -1632,8 +1632,8 @@ Battle",translate,translated,displayed-string,509cf9462be856b2a6965e4be6da8a1b35
 Decide: What Will You Tell Shouma","Kapitel09_A_ba-094
 Entscheidung: Was wirst du Shouma sagen",translate,translated,displayed-string,7d21820423fe699363efb996db0b23a9f3b02afc33ed4f77876aab103cb4d721
 8aec5e5c7d58ce0c95b90488,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,537,1,string 1,"What Will You Tell Shouma
-Face Them","Was werden Sie sagen Shouma
-Face Sie",translate,translated,displayed-string,ca08326c0a1907e3d69d84d5a68533e2993dad02f7601feca58dddc9af18df4c
+Face Them","Was werden Sie Shouma
+Face ihnen sagen?",translate,translated,displayed-string,ca08326c0a1907e3d69d84d5a68533e2993dad02f7601feca58dddc9af18df4c
 70b9d20a489b32ac394eb929,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,538,1,string 1,"What Will You Tell Shouma
 Run","Was werden Sie sagen Shouma
 Run",translate,translated,displayed-string,370c83f69fc9e15503244c672fee1d0c03db8cb133c8da687b8aea4aef650e1f
@@ -1698,8 +1698,8 @@ Destroy",translate,translated,displayed-string,2e49bf0278309708bc84181d97fffd735
 Ending 031","Kapitel09_A_bba-099
 ende 031",translate,translated,displayed-string,ea6e2069f0793ef55c1137b8cb6708ab387916b56d76c7287f02837630888589
 1f7d41fc8650da6e71864c81,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,557,1,string 1,"Chapter09_A_bbb-099
-Ending 032","Kapitel09_A_bbb-099
-endeding 032",translate,translated,displayed-string,0452969d5fbf008b00f82e4d454d082d933e8f3ffdc1b13afe03ed6d37d79dca
+Ending 032","Kapitel 09_A_bbb-099
+ Ende 032",translate,translated,displayed-string,0452969d5fbf008b00f82e4d454d082d933e8f3ffdc1b13afe03ed6d37d79dca
 cf6b785d7c2d89fd107f544b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,558,1,string 1,"Chapter09_B-022
 ","Chapter09_B-022
 ",review,pending,ambiguous-single-token,5485837c04329e692dd24267e984e4ea1ed5e9b4dab33fdea06d2c5b4513ba9f
@@ -1707,11 +1707,11 @@ cf6b785d7c2d89fd107f544b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 Decide: Will You Attack or Turn Around","Kapitel09_B-023
 Decide: Wirst du angreifen oder dich umdrehen",translate,translated,displayed-string,08504482b5f1bb523e2a74616ba76988aa5af38697086f74dbe16f127f158707
 25007e9f037636f7c5a1e3ce,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,560,1,string 1,"What Now
-Attack the Shadowy Figure","Was jetzt
-Attack die Schattenfigur",translate,translated,displayed-string,ef371b8946e4294eb260ea2c8956b5e30609108f1e88b15a9b060afa8abceb03
+Attack the Shadowy Figure","Was jetztZ
+Attacken Sie die Schattenfigur",translate,translated,displayed-string,ef371b8946e4294eb260ea2c8956b5e30609108f1e88b15a9b060afa8abceb03
 d13f0243b29bdbdf629edb09,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,561,1,string 1,"What Now
-Turn to Face the Voice","Was jetzt
-Turn, um die Stimme Gesicht",translate,translated,displayed-string,783c34b2fafd1ed7190e07cd6d264e241545fc1e4d6215860dbea0afb97283ab
+Turn to Face the Voice","Was Now
+Turn der Stimme entgegenzusetzen ist",translate,translated,displayed-string,783c34b2fafd1ed7190e07cd6d264e241545fc1e4d6215860dbea0afb97283ab
 def75ad7b7a1cb9a1d2cf0bf,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,562,1,string 1,"Chapter09_B_1-023
 ","Chapter09_B_1-023
 ",review,pending,ambiguous-single-token,2c29c79e003a789a6ed06c883f7d0de793c15963be2b0e555ce3104a15559741
@@ -1803,8 +1803,8 @@ Entscheidung: Hilfe Sirei oder die Box",translate,translated,displayed-string,40
 Go Help Sirei","Was werden Sie tun
 Go Hilfe Sirei",translate,translated,displayed-string,c6412d41d782bcd5145508b39d83a2fc1b745f199ef1e327e9e68b36d5612458
 7cb39f94499a2e4858e09fcd,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,592,1,string 1,"What Will You Do
-Pick Up the Box","Was werden Sie tun
-Pick die Box",translate,translated,displayed-string,f141b36d8380f54a4ae9f0e2f096e6d4eea15ffeeda62974a5f25baac4d97817
+Pick Up the Box","Was werden Sie tun?
+Die Kiste packen",translate,translated,displayed-string,f141b36d8380f54a4ae9f0e2f096e6d4eea15ffeeda62974a5f25baac4d97817
 e3521ee2730ef0e848e21067,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,593,1,string 1,"Chapter09_B_a-049
 ","Chapter09_B_a-049
 ",review,pending,ambiguous-single-token,570cb85ea722a9a7e5f764f190a9a0c22549c450959caca67386ae8256435812
@@ -2526,8 +2526,8 @@ e51cb1b98d78053255cf6060,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 The Truth","Was werden Sie den anderen erzählen
 Die Wahrheit",translate,translated,displayed-string,de0b883cfa924923587a09ce056f223514851133af8d6b242ce94c80f4fc5f22
 1bb86e69a7e1a4d557287109,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,831,1,string 1,"What Will You Tell the Others
-A Lie","Was werden Sie den anderen erzählen
-A Lie",translate,translated,displayed-string,ecedee6379b1c7a1bcd70648a1c559185c36b68ef183eb6cc6f067b5b8894108
+A Lie","Was werden Sie den anderen sagen?
+Eine Lüge",translate,translated,displayed-string,ecedee6379b1c7a1bcd70648a1c559185c36b68ef183eb6cc6f067b5b8894108
 0fbe5a5a3cd22f6c7b49765d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,832,1,string 1,"Chapter11_0_a-012
 ","Chapter11_0_a-012
 ",review,pending,ambiguous-single-token,4a822a2691b0a603dbeb6541766a89a176143470da83eab86864b8633c79938d
@@ -2659,9 +2659,9 @@ Free Time","Kapitel11_0_aa-064
 Freizeit",translate,translated,displayed-string,680644c75e8627feaeea14d270a03f23d1da1d79dea2d7a1459b0ad2451d5833
 a15e15d3ec06506101a0b086,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,875,1,string 1,"Chapter11_0_aa-065
 Battle
-Decide: Absorb Nozomi's Hemoanima","Kapitel11_0_aa-065
-Battle
-Beschluss: Absorb Nozomis Hämoanima",translate,translated,displayed-string,0a37cbb75ebfe1c6db3af8ccb88671872525bd387b1b57f7e422026cebe9e6a7
+Decide: Absorb Nozomi's Hemoanima","Kapitel 11 _ 0 _ aa-065
+Schlacht
+Entscheiden Sie sich: absorbieren Sie Nozomis Hämoanima",translate,translated,displayed-string,0a37cbb75ebfe1c6db3af8ccb88671872525bd387b1b57f7e422026cebe9e6a7
 5836f342f02156d0888cb803,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,876,1,string 1,"Absorb Nozomi's Hemoanima
 Yes","Absorbieren Sie Nozomis Hämoanima
 Ja",translate,translated,displayed-string,5c54bedab5753588a40afbd51894a455277fc11b56bb08d76982dd870fb76f0a
@@ -2795,14 +2795,14 @@ dbb935184f2e43d5cb36b674,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 Battle","Kapitel12_0-040
 Battle",translate,translated,displayed-string,ebefa50a3813725458fa3a85b7ca72547f38069d7334d930d8e907544a647024
 5db8b1b2bb0cb0eab153ed56,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,920,1,string 1,"Chapter12_0-041
-Decide: Revive Retsnom","Kapitel12_0-041
-Decide: Revive Retsnom",translate,translated,displayed-string,7508df804d7cfddc44978f2c1890880ec295a87c0f0558e019ae0d2be46212ad
+Decide: Revive Retsnom","Kapitel 12 _ 0-041
+Entscheiden Sie sich: Retsnom wiederbeleben",translate,translated,displayed-string,7508df804d7cfddc44978f2c1890880ec295a87c0f0558e019ae0d2be46212ad
 6b19a4f5f284bc6bea5067c9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,921,1,string 1,"Revive Retsnom
 The Way It Is","Revive Retsnom
 Die Art und Weise, wie es ist",translate,translated,displayed-string,ae1d68bd200ae456b76cbfcbe5a9d780ac35a9d829c39253f1d6409c08019334
 4c28fef59cf9f7cbdf14a84b,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,922,1,string 1,"Revive Retsnom
-Inside Somebody","Revive Retsnom
-Inside Jemand",translate,translated,displayed-string,0ea6b474f9ee97c24a9ba0022bc3ba1dc9c6508b502f9da583183eca97191667
+Inside Somebody","Wiederbeleben Sie Retsnom
+Iinside Jemand",translate,translated,displayed-string,0ea6b474f9ee97c24a9ba0022bc3ba1dc9c6508b502f9da583183eca97191667
 7f4a356b30998d35146e443d,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,923,1,string 1,"Chapter12_0_a-041
 ","Chapter12_0_a-041
 ",review,pending,ambiguous-single-token,c0f3b36a9a915d77a3d94d35025e0ee33b16826b3cebe22610b0d046156bd1ae
@@ -3010,8 +3010,8 @@ eeac5af138e35aad964ba388,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 Capture It","Was tun Sie mit Retsnom
 Capture es",translate,translated,displayed-string,b3f2af0cbe607d4f929b60a81dc3c1025a0fcc4fa3d11df96e318e155cf58ade
 46cf874e487f94d5cd924400,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,991,1,string 1,"What Will You Do With Retsnom
-Calm It Down","Was tun Sie mit Retsnom
-Calm es nach unten",translate,translated,displayed-string,d9f8e33c611a1f48e3f8ba20f3e761986a300bb06088b011faecff6101138998
+Calm It Down","Was werden Sie mit Retsnom
+QXZCalm tun?",translate,translated,displayed-string,d9f8e33c611a1f48e3f8ba20f3e761986a300bb06088b011faecff6101138998
 acb06417cec671158ba0e228,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,992,1,string 1,"Chapter12_0_ba-041
 Ending 051","Kapitel12_0_ba-041
 endeding 051",translate,translated,displayed-string,b8aaf30c0d48e5512e19c3f0ddd708241b315a741ba34b99a274558ba96214a5
@@ -3178,8 +3178,8 @@ Freizeit",translate,translated,displayed-string,481cd6719fd21eee06ca97defe7406bd
 Decide: Jump to Which Timeline","Kapitel13_A-050
 Decide: Zu welcher Zeitlinie springen",translate,translated,displayed-string,8b217c3e654760c74136724a99a4ea52cf6420dea7f2882b95c8533f2c038756
 4d817639780a14554882c415,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1045,1,string 1,"Jump to Which Timeline
-Coming-of-Age","Zu welcher Zeitlinie springen
-Coming-of-Age",translate,translated,displayed-string,a8ee3e3ab3b06ab102dcf728fdee7e674a27a6ead33e61a894a97853a464ddc0
+Coming-of-Age","Zu welchem Zeitrahmen 
+Coming-of-Age springen",translate,translated,displayed-string,a8ee3e3ab3b06ab102dcf728fdee7e674a27a6ead33e61a894a97853a464ddc0
 12edfb90e12525d266b007ee,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1046,1,string 1,"Jump to Which Timeline
 Serial Killer","Zu welcher Zeitlinie springen
 Serial Killer",translate,translated,displayed-string,e10b2e3d3a23938ad1513c7df7bf20d8f75ef9a4ccf49ec14d80eb5744ff8380
@@ -3306,7 +3306,7 @@ Beschluss: Presse 4",translate,translated,displayed-string,9ba6c4b058570c4d4faa5
 Yes","Drücken Sie 4
 Ja",translate,translated,displayed-string,4756ccbab514243c96ee90d244893258a3cbcfb362d4fcec76797606be07e709
 81acdf099c1dc3ffa283053c,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1087,1,string 1,"Press 4
-No","Druck 4
+No","Presse 4
 No",translate,translated,displayed-string,795abdf12c2d9930f0bfc4a2bd2b6eeb2c7eba83e9f25ab2d86981b21d9a869e
 84d8d3f7f06d53428fe105be,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1088,1,string 1,"Chapter13_A_aaa-085
 Ending 053","Kapitel 13_A_aaa-085
@@ -3364,7 +3364,7 @@ Escape Pod","Wo werden Sie Run
 Escape Pod",translate,translated,displayed-string,36253ec41b22eba5745e534c6961709d728f88f501363eb1a1dc3430ea46cbe7
 98e9431a4adc9fe95ab8b085,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1106,1,string 1,"Where Will You Run
 Basement","Wo werden Sie Run
-Basement",translate,translated,displayed-string,64cae5e820831057e55bf1c647bca67249e7dd8a1ef4ccd8dfd017016228e649
+Basement laufen lassen?",translate,translated,displayed-string,64cae5e820831057e55bf1c647bca67249e7dd8a1ef4ccd8dfd017016228e649
 f5a33e2b7cd6ec5d486bdac9,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1107,1,string 1,"Chapter13_A_aaba-100
 Ending 054","Kapitel13_A_aaba-100
 ende 054",translate,translated,displayed-string,6835e162651a2d1da0bc560320253224c7d4106a6c70eda55b2100cb4fc06b2d
@@ -3833,8 +3833,8 @@ fa7d83fb38f780bdf6467ba4,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 I Don't Know","Wer sind Sie gehen zu Date
 I Weiß nicht",translate,translated,displayed-string,73c51ebe6aa6599b6468f97038ce6be28ff05d4dbdb417e8dad304dd698f241a
 dd4bd410931dfb08fab80f44,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1262,1,string 1,"Who Are You Going to Date
-All Three!","Wer sind Sie auf Date
-All Drei!",translate,translated,displayed-string,7a77084da8c7e912d658e9660bf324ffecba3bc42395c0d88471e8c6a09c45d6
+All Three!","Wer sind Sie zu Date
+all drei!",translate,translated,displayed-string,7a77084da8c7e912d658e9660bf324ffecba3bc42395c0d88471e8c6a09c45d6
 8d0755a477db87a010fcbecc,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1263,1,string 1,"Chapter13_B_bb3aa-098
 ","Chapter13_B_bb3aa-098
 ",review,pending,ambiguous-single-token,41a8d7220a49fc9da85f3fc658801f52b9989422dcf5eaafb7ebf0a973c0428c
@@ -3907,11 +3907,11 @@ Battle",translate,translated,displayed-string,cd66f2b96c85cabf1d1fb35316723d9411
 Decide: Kick or Dodge","Kapitel14_0-016
 Decide: Kick oder Dodge",translate,translated,displayed-string,47e484826f0ea8507b8ad3f0129b8c552c8bfc49aa8dc431881edd1275195544
 89eefb66095d25497b521b27,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1286,1,string 1,"Take Action
-Kick the Attacker","Nehmen Sie Action
-Kick den Angreifer",translate,translated,displayed-string,9c69ba1602c71bb659a1501e0d7250665b2be8b84486bdd16bfe8b7f5b4c567c
+Kick the Attacker","Maßnahmen ergreifen
+Tritt den Angreifer",translate,translated,displayed-string,9c69ba1602c71bb659a1501e0d7250665b2be8b84486bdd16bfe8b7f5b4c567c
 19d1ec9ce0258de04bc22188,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1287,1,string 1,"Take Action
-Dodge the Attack","Nehmen Sie Aktion
-Dodge den Angriff",translate,translated,displayed-string,221774b6afed4489a6bbe097d640afe2393e65272b84148133c4c26293aca0c6
+Dodge the Attack","Maßnahmen ergreifen
+Dem Angriff ausweichen",translate,translated,displayed-string,221774b6afed4489a6bbe097d640afe2393e65272b84148133c4c26293aca0c6
 49a14843fc8e278317d5f202,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1288,1,string 1,"Chapter14_A-016
 ","Chapter14_A-016
 ",review,pending,ambiguous-single-token,da1f0ad688f14af0ad6855c88ff5a50943384c30c7a71d366cd803f0190b22f1
@@ -4002,8 +4002,8 @@ Decide: Sprung oder Ausweichen",translate,translated,displayed-string,cdef74e3af
 Jump Out of the Window","Nehmen Sie Aktion
 Jump aus dem Fenster",translate,translated,displayed-string,932c526fbcd8f9a290e17644cd3fcbc756ed0a9f5a6b5dc452e93c567da8cb5c
 2d131f7688673f64e4e48186,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1317,1,string 1,"Take Action
-Dodge the Attack","Nehmen Sie Aktion
-Dodge den Angriff",translate,translated,displayed-string,221774b6afed4489a6bbe097d640afe2393e65272b84148133c4c26293aca0c6
+Dodge the Attack","Maßnahmen ergreifen
+Dem Angriff ausweichen",translate,translated,displayed-string,221774b6afed4489a6bbe097d640afe2393e65272b84148133c4c26293aca0c6
 8dd52d404c70c0be9b88c858,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1318,1,string 1,"Chapter14_A_a-043
 ","Chapter14_A_a-043
 ",review,pending,ambiguous-single-token,e679834c65d82f6214ec3feaa9280b5e7c5a9e3c9ac40e8ed3fcf6365a894195
@@ -4122,11 +4122,11 @@ b64738756d46488283496b38,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_ch
 Decide: Fight or Run","Kapitel14_A_aa-100
 Entscheidung: Kämpfen oder Laufen",translate,translated,displayed-string,0ab49e38c2355652fe47a403e6b21991ca05feada32e56c31ea307dc23fb9885
 034652eb00612628ae0d2c59,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1357,1,string 1,"What Now
-Stand and Fight","Was jetzt
+Stand and Fight","Was ist jetzt
 Stand und Kampf",translate,translated,displayed-string,ac3b10b91e756ac44ee6b367d0905c1dc150bfeea49036b84c5c6c679db1979a
 63f6b916afb7df42ebc49979,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1358,1,string 1,"What Now
-Run into the Wall","Was jetzt
-Run in die Wand",translate,translated,displayed-string,8948ba4e2804595470e16b1578720369ca91bd0810293b33ed450e14f47f001d
+Run into the Wall","Was Now
+In die Wand läuft",translate,translated,displayed-string,8948ba4e2804595470e16b1578720369ca91bd0810293b33ed450e14f47f001d
 fdb51e2dfb0fe51f04bd1c20,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1359,1,string 1,"Chapter14_A_aaa-100
 Ending 069","Kapitel 14_A_aaa-100
 ende 069",translate,translated,displayed-string,4532a7c70170c19579390587e671d36b6dc35ee44a33859805dc8bdab2eeabde
@@ -4218,10 +4218,10 @@ Battle",translate,translated,displayed-string,e99f30f0d0fbcb691d8ac5bf5e1db09838
 Decide: Go After Whom","Kapitel14_A_ab-100
 Beschluss: Nach wem gehen",translate,translated,displayed-string,98decdf7f9803d161f6104e310d903ece677a4c30f7d9810a0d0232fde801c0c
 8faa7ee90ee761915a1beb70,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1389,1,string 1,"Go After Whom
-Hiruko","Gehen Sie nach wem
+Hiruko","Geh nach Wem
 Hiruko",translate,translated,displayed-string,9b4865ed8ac213bb7ecf22f9479c1e95ee2b2f86655f98bdc6bdfe5e59958366
 018b03ae0396b97612ead487,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1390,1,string 1,"Go After Whom
-Nozomi","Gehen Sie nach wem
+Nozomi","Geh nach Wem
 Nozomi",translate,translated,displayed-string,1ed20254e8190aea53aff0c0230bb172816b91c0919d0a65e120a6d44724d1aa
 d4f68dda639dc660266e0462,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1391,1,string 1,"Chapter14_A_aba-100
 Ending 071","Kapitel 14_A_aba-100
@@ -4338,11 +4338,11 @@ Yes",translate,translated,displayed-string,e022c992829de18e225a2975ce5029c2fe9cf
 Decide: Bite Kurara's Neck","Kapitel14_A_ba-100
 Entscheidung: Beiße Kurara-Neck",translate,translated,displayed-string,217dac48ea7a3cc7c13b34f86b4afe2797aaf8fcea17fa95f06fc939541adb46
 ebac7eff81a8c99f509874c5,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1429,1,string 1,"Bite Kurara's Neck
-Yes","Bite Kurara Neck
+Yes","Kurara in den Nacken beißen
 Ja",translate,translated,displayed-string,c7d0cab53acfe3364495428dcecb51157015373370e8717d92b69a71f829109f
 b246ba5871a2717668038659,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1430,1,string 1,"Bite Kurara's Neck
-No","Biss Kurara Neck
-No",translate,translated,displayed-string,00cf43d428a9d812727eda03c4e9cd195f6cf433675c952d029f0b69290ff7ca
+No","Kurara in den Nacken beißen
+Nein",translate,translated,displayed-string,00cf43d428a9d812727eda03c4e9cd195f6cf433675c952d029f0b69290ff7ca
 7abd45982d825cddc7aae630,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1431,1,string 1,"Chapter14_A_baa-100
 Ending 073","Kapitel 14_A_baa-100
 ende 073",translate,translated,displayed-string,0b490425e07801bd35b53c4dbaea827225038a2feabf031679aacbef8e6bb9d3
@@ -4434,8 +4434,8 @@ Battle",translate,translated,displayed-string,07c5faa8e8e08d17f6baf564018ef468bf
 Decide: Fight or Run (2)","Kapitel14_A_bb-100
 Entscheidung: Kämpfen oder Laufen (2)",translate,translated,displayed-string,18c8cf071ca3281d760ac19972a207648fbb56473bd85f35c1c85b5e88d1231b
 7ab9218330c1b2ae1d3e95c8,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1461,1,string 1,"What Will You Do
-Get in the Pod","Was werden Sie tun
-Get in der Pod",translate,translated,displayed-string,1eca27bec30ef0657f463f42996ef3028119fa937a5d8a0f1919e6ed205e98aa
+Get in the Pod","Was werden Sie Do
+QXZGet in den Pod",translate,translated,displayed-string,1eca27bec30ef0657f463f42996ef3028119fa937a5d8a0f1919e6ed205e98aa
 c2ae4fa76036b362b9231816,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1462,1,string 1,"What Will You Do
 Stay and Fight","Was werden Sie tun
 Stay and Fight",translate,translated,displayed-string,bdee72b704f26d9aa0dc80fbed06083351a63f87be2572fc80c4d52224c7c288
@@ -5365,7 +5365,7 @@ ende 087",translate,translated,displayed-string,09c615f0475503772b4ebb076668b215
 ",review,pending,ambiguous-single-token,69351702a2fbf996751856b8a6612c6a9a208d063c44bf926295006cd0cc4c9c
 5276b8234a8cf4857238d1ee,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1763,1,string 1,"Chapter15_A_aaaab-078
 Ending 088","Kapitel 15_A_aaaab-078
-endeding 088",translate,translated,displayed-string,05b7758bad1351725b8c0a431c1929403d76511eff2a08a649f1ed8240c04382
+ Ende 088",translate,translated,displayed-string,05b7758bad1351725b8c0a431c1929403d76511eff2a08a649f1ed8240c04382
 341287606b5c176f12683346,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1764,1,string 1,"Chapter15_A_aaab-056
 Ending 089","Kapitel 15_A_aaab-056
 ende 089",translate,translated,displayed-string,3d179a269c395828a3ae1e9fd6a4d6bab6d3302e0acba0d830d4d07665460cfb
@@ -5491,7 +5491,7 @@ Kako","Wer ist X
 Kako",translate,translated,displayed-string,65fc98b4a21409c1b3a50ac016036df99e5e8b11b77b91f452d0c82798bc64c7
 57880bdb36fa7ba17ea8f970,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1805,1,string 1,"Chapter15_B_bcba-084
 Ending 099","Kapitel 15_B_bcba-084
-endeding 099",translate,translated,displayed-string,eac3b190c07bd8645df836f6bb60f033621df51baee2d8445d2cf40eb4765384
+ Ende 099",translate,translated,displayed-string,eac3b190c07bd8645df836f6bb60f033621df51baee2d8445d2cf40eb4765384
 227bb0d5b976db0a4942e117,app_text01.dx11.mvgl,app_text04.dx11.mvgl,text/field_chapter_detail.mbe/000_field_chapter_detail.csv,1806,1,string 1,"Chapter15_B_bcbb-084
 ","Chapter15_B_bcbb-084
 ",review,pending,ambiguous-single-token,b7658fe0390b5ac65c536d5ee2a6462e7d40b9298559afbc4ef52090008def50
