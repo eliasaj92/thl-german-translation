@@ -158,11 +158,11 @@ ff66756668eaf4f1c073e57d,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/batt
 Fail to protect Karua Kashimiya
 
 
-","Takumi Sumino dies
-Fail zum Schutz von Karua Kashimiya
+","Takumi Sumino stirbt
+Versäumnis, Karua Kaschimi zu schützen
 
 
-Z",translate,translated,displayed-string,1af9ccc7d94a716b7a7e92c34b37e8c6bac31f9e193e25587f9ab5160132128b
+",translate,translated,displayed-string,1af9ccc7d94a716b7a7e92c34b37e8c6bac31f9e193e25587f9ab5160132128b
 86b1eb4d8c50b830ebd06c6b,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,27,1,string 1,"Annihilate all enemies on the ground
 
 
@@ -338,14 +338,14 @@ b87622150b46b72c526397b3,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/batt
 7336bf51e66c9dea0434d75f,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,53,1,string 1,"Hit V'ehxness with the Poison Trap
 
 
-","Mit dem Gift Trap Z
+","Schlagen Sie V'ehxness mit der Giftfalle
 
 
 ",translate,translated,displayed-string,6c58e673ade8968b26063dacf00e98844128955b02b00bf2a99a39521b5fa69a
 e222c629cecb88bae0a2e783,patch_text01.dx11.mvgl,patch_text04.dx11.mvgl,text/battle_win_lose_conditions.mbe/000_Sheet1.csv,54,1,string 1,"Hit V'ehxness with the Shion Bomb
 
 
-","Mit dem Shion Bomb Z
+","Schlagen Sie V'ehxness mit der Shion Bombe
 
 
 ",translate,translated,displayed-string,8009564e850539d9be49e1a8ec5f97d53b699c0d55198fc7606938e40387f2cb
