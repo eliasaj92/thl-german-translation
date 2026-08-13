@@ -2,4 +2,20 @@ english,german,category,notes,status
 The Last Defense Academy,Die Letzte Verteidigungsakademie,location,Provisional title translation,pending-review
 AP,AP,ui,Do not expand unless the game does,approved
 Fatigue,Erschöpfung,combat,Provisional combat term,pending-review
-
+Shion,Shion,character,Eigenname; niemals übersetzen,approved
+Takumi,Takumi,character,Eigenname; niemals übersetzen,approved
+Takemaru,Takemaru,character,Eigenname; niemals übersetzen,approved
+Takky,Takky,nickname,Spitzname; niemals übersetzen,approved
+Sirei,Sirei,character,Eigenname; niemals übersetzen,approved
+Cryptoglobin,Kryptoglobin,lore,Einheitliche deutsche Schreibung,approved
+Hemoanima,Hämoanima,lore,Einheitliche deutsche Schreibung,approved
+Voltage,Spannung,combat,Kampfressource,approved
+Stun,Betäubung,status,Statuseffekt,approved
+Bleed,Blutung,status,Statuseffekt,approved
+Knockback,Rückstoß,combat,Nicht wörtlich als Leerzeichen behandeln,approved
+space,Feld,combat,Bei Entfernungen auf dem Kampfraster,approved
+Special Defense Unit,Spezialverteidigungseinheit,faction,Einheitlicher Fraktionsname,approved
+Class Armor,Klassenrüstung,lore,Einheitlicher Begriff,approved
+Class Weapon,Klassenwaffe,lore,Einheitlicher Begriff,approved
+Specialist Skill,Spezialfähigkeit,combat,Einheitlicher Begriff,approved
+Invader,Invasor,faction,Plural: Invasoren,approved
